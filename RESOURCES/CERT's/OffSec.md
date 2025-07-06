@@ -1,10 +1,10 @@
-# 🧠 Learning Resources – Offensive Security (OffSec) Certifications
+# 💀 Learning Resources – Offensive Security (OffSec) Certifications
 
 Community-driven notes and cheat sheets for various OffSec certifications including **OSCP, OSEP, OSED, OSCE3, OSWE, and OSWP**.
 
 ---
 
-## 🛡️ OSCP / OSCP+
+## 🚨 OSCP / OSCP+
 
 | Author / Source                 | Status | Link                                                       |
 |--------------------------------|--------|------------------------------------------------------------|
@@ -17,7 +17,7 @@ Community-driven notes and cheat sheets for various OffSec certifications includ
 
 ---
 
-## 🕵️ OSEP
+## 🧬 OSEP
 
 | Author / Source                  | Status | Link                                                       |
 |----------------------------------|--------|------------------------------------------------------------|
