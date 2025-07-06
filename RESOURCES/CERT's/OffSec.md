@@ -1,10 +1,10 @@
-# 💀 Learning Resources – Offensive Security (OffSec) Certifications
+# 🧠 Learning Resources – Offensive Security (OffSec) Certifications
 
 Community-driven notes and cheat sheets for various OffSec certifications including **OSCP, OSEP, OSED, OSCE3, OSWE, and OSWP**.
 
 ---
 
-## 🚨 OSCP / OSCP+
+## 🛡️ OSCP / OSCP+
 
 | Author / Source                 | Status | Link                                                       |
 |--------------------------------|--------|------------------------------------------------------------|
@@ -17,7 +17,7 @@ Community-driven notes and cheat sheets for various OffSec certifications includ
 
 ---
 
-## 🧬 OSEP
+## 🕵️ OSEP
 
 | Author / Source                  | Status | Link                                                       |
 |----------------------------------|--------|------------------------------------------------------------|
@@ -44,3 +44,21 @@ Community-driven notes and cheat sheets for various OffSec certifications includ
 ## 🔐 OSCE3
 
 | Author / Source                   | Status | Link                                                       |
+|----------------------------------|--------|------------------------------------------------------------|
+| CyberSecurityUP OSCE3 Guide      | ✅     | https://github.com/CyberSecurityUP/OSCE3-Complete-Guide    |
+
+---
+
+## 🌐 OSWE
+
+| Author / Source     | Status | Link                                                       |
+|---------------------|--------|------------------------------------------------------------|
+| Lawlez OSWE Repo    | ✅     | https://github.com/Lawlez/myOSWE                          |
+
+---
+
+## 📡 OSWP
+
+| Author / Source     | Status | Link                                                       |
+|---------------------|--------|------------------------------------------------------------|
+| HacknCode OSWP Notes| ✅     | https://notes.hackncode.com/hnc-notes/wireless-security/oswp-reference-guide |
