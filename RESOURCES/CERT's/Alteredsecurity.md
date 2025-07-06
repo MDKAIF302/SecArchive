@@ -12,4 +12,3 @@ A collection of useful community-made notes and study material for CRTO (Certifi
 | CRTP GitBook by dev-angelist      | ✅     | https://dev-angelist.gitbook.io/crtp-notes                      |
 | BlankShiro CRTO Notes             | ✅     | https://blankshiro.xyz/posts/CRTO-Notes/                        |
 | myAwesome Repo by 0xBugatti       | ✅     | https://github.com/0xBugatti/myAwesome                          |
-
