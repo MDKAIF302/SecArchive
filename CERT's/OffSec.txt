@@ -1,0 +1,98 @@
+----------> OSCP_OSCP+
+
+
+→ https://github.com/0xsyr0/oscp
+
+→ https://github.com/xsudoxx/OSCP
+
+→ https://github.com/verylazytech/OSCP-Resources
+
+→ https://github.com/0x4D31/awesome-oscp
+
+→ https://hemal-maniar.github.io/oscp/2024/11/19/oscp-journey.html
+
+→ https://www.emmanuelsolis.com/oscp.html
+
+
+----------> OSEP
+
+
+→ https://steffinstanly.gitbook.io/osep-notes
+
+→ https://forsec.nl/osep.html
+
+→ https://github.com/Extravenger/OSEPlayground
+
+→ https://github.com/In3x0rabl3/OSEP
+
+→ https://github.com/GhnimiWael/OSEP_Prep
+
+→ https://github.com/beauknowstech/OSEP-Everything
+
+
+----------> OSED
+
+→ https://zeyadazima.com/notes/osednotes/
+
+→ https://github.com/mrtouch93/OSED-Notes
+
+→ https://github.com/nop-tech/OSED
+
+→ https://sh3lldon.github.io/posts/exp-301-cheetsheet/
+
+
+----------> OSCE3
+
+
+→ https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
+
+
+----------> OSWE
+
+
+→ https://github.com/Lawlez/myOSWE
+
+
+----------> OSWP
+
+→ https://notes.hackncode.com/hnc-notes/wireless-security/oswp-reference-guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
