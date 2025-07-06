@@ -1,2 +1,7 @@
-# SecArchive
-Welcome to my **Cybersecurity Knowledge Vault** — a curated collection of study notes, writeups, and resources across various infosec domains. These notes have been featured in my most popular LinkedIn posts and are now organized here for the benefit of the wider cybersecurity community.
+## ⚔️ SecArchive - Cybersecurity Resource Collection
+
+A curated archive of high-quality resources for learning cybersecurity, bug bounty, ethical hacking, and penetration testing.
+
+> ⚠️ For **educational purposes only**. Use tools and techniques responsibly.
+
+Maintained by [MD Kaif](https://www.linkedin.com/in/-md-kaif/)
