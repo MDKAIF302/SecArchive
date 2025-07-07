@@ -1,4 +1,4 @@
-## ⚔️ SecArchive - Cybersecurity Resource Collection
+## 🥷 SecArchive - Cybersecurity Resource Collection
 
 A curated archive of high-quality resources for learning cybersecurity, bug bounty, ethical hacking, and penetration testing.
 
