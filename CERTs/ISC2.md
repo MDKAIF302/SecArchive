@@ -1,4 +1,4 @@
-# ⚡️ Learning Resources – ISC² Certifications (CISSP / CCSP)
+# ⚡️ Learning Resources – ISC² Certifications.
 
 Curated notes and resource collections for ISC² certifications such as **CISSP (Certified Information Systems Security Professional)** and **CCSP (Certified Cloud Security Professional)**.
 
