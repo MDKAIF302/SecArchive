@@ -11,6 +11,7 @@ A curated collection of cheat sheets and checklists for cybersecurity profession
 | Cobalt Strike Cheat Sheet by S1ckB0y1337          | ✅     | https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet             |
 | SANS Master Cheat Sheet List                      | ✅     | https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/   |
 | Container Security Checklist by Krol3             | ✅     | https://krol3.github.io/container-security-checklist/               |
+| DFIR Cheatsheet by Jaiminton                | ✅     | https://www.jaiminton.com/cheatsheet/DFIR/#                         |
 | Windows Forensics GitBook by psmths               | ✅     | https://psmths.gitbook.io/windows-forensics                          |
 | macOS Security Guide by drduh                     | ✅     | https://drduh.github.io/macOS-Security-and-Privacy-Guide/            |
 | Digital Defense Toolkit                           | ✅     | https://digital-defense.io/                                         |
