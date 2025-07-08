@@ -6,6 +6,8 @@ High-quality reference guides, methodologies, and curated knowledge bases for re
 |-------------------------------------------|--------|--------------------------------------------------------------------|
 | HackTricks Wiki                            | ✅     | https://book.hacktricks.wiki/en/index.html                         |
 | HackTricks Cloud Edition                   | ✅     | https://cloud.hacktricks.wiki/en/index.html                        |
+| Security Study Plan by Jassics           | ✅     | https://github.com/jassics/security-study-plan                     |
+| Awesome Cybersecurity University by Brootware | ✅ | https://brootware.github.io/awesome-cyber-security-university/     |
 | InternalAllTheThings by Swissky           | ✅     | https://swisskyrepo.github.io/InternalAllTheThings/                |
 | PayloadsAllTheThings by Swissky           | ✅     | https://swisskyrepo.github.io/PayloadsAllTheThings/                |
 | HardwareAllTheThings by Swissky            | ✅     | https://swisskyrepo.github.io/HardwareAllTheThings/                |
