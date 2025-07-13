@@ -16,3 +16,4 @@ A curated collection of cheat sheets and checklists for cybersecurity profession
 | macOS Security Guide by drduh                     | ✅     | https://drduh.github.io/macOS-Security-and-Privacy-Guide/            |
 | Digital Defense Toolkit                           | ✅     | https://digital-defense.io/                                         |
 | Quick Reference Cybersecurity Index               | ✅     | https://quickref.me/                                                |
+| Container Security Checklist by Krol3         | ✅     | https://krol3.github.io/container-security-checklist/               |
