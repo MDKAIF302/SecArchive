@@ -9,3 +9,4 @@ Hand-picked resources to level up your bug bounty journey — including tips, sc
 | KingOfBugBountyTips                | ✅     | https://github.com/KingOfBugbounty/KingOfBugBountyTips              |
 | Book of Bug Bounty Tips by Gowsundar | ✅   | https://gowsundar.gitbook.io/book-of-bugbounty-tips                 |
 | kaeferjaeger blog                  | ✅     | https://kaeferjaeger.gay/                                           |
+| Bounty Targets Data by Arkadiyt      | ✅     | https://github.com/arkadiyt/bounty-targets-data                           |
