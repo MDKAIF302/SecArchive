@@ -13,3 +13,4 @@ A curated list of offensive and defensive cybersecurity tools — covering enume
 | LoFP — Living Off Forbidden Paths  | ✅     | https://br0k3nlab.com/LoFP/                    |
 | EHTK — Ethical Hacking Toolkit     | ✅     | https://0xcybery.github.io/ehtk/               |
 | CVE2CAPEC by Galeax       | ✅     | https://galeax.github.io/CVE2CAPEC/             |
+| HOUDINI by SecSI                               | ✅     | https://houdini.secsi.io/                        |
