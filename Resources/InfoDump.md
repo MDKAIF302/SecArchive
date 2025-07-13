@@ -19,3 +19,4 @@ High-quality reference guides, methodologies, and curated knowledge bases for re
 | TryHackMe Free Room List by winterrdog | ✅     | https://github.com/winterrdog/tryhackme-free-rooms                    |
 | OneDorkForAll by SecShiv                       | ✅     | https://github.com/SecShiv/OneDorkForAll       |
 | iRed Team          | ✅     | https://www.ired.team/ |
+| Hacking Life by Amanda Guglieri | ✅     | https://amandaguglieri.github.io/hackinglife/ |
