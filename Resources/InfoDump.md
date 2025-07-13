@@ -18,3 +18,4 @@ High-quality reference guides, methodologies, and curated knowledge bases for re
 | Red Team Field Guide | ✅     | https://book.redteamguides.com/          |
 | TryHackMe Free Room List by winterrdog | ✅     | https://github.com/winterrdog/tryhackme-free-rooms                    |
 | OneDorkForAll by SecShiv                       | ✅     | https://github.com/SecShiv/OneDorkForAll       |
+| iRed Team          | ✅     | https://www.ired.team/ |
