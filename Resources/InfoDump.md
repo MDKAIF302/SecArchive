@@ -17,3 +17,4 @@ High-quality reference guides, methodologies, and curated knowledge bases for re
 | Blue Team Field Guide | ✅     | https://book.blueteamguides.com/         |
 | Red Team Field Guide | ✅     | https://book.redteamguides.com/          |
 | TryHackMe Free Room List by winterrdog | ✅     | https://github.com/winterrdog/tryhackme-free-rooms                    |
+| OneDorkForAll by SecShiv                       | ✅     | https://github.com/SecShiv/OneDorkForAll       |
