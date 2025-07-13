@@ -18,3 +18,4 @@ A curated collection of cheat sheets and checklists for cybersecurity profession
 | Quick Reference Cybersecurity Index               | ✅     | https://quickref.me/                                                |
 | Container Security Checklist by Krol3         | ✅     | https://krol3.github.io/container-security-checklist/               |
 | Azure Review Checklists by Microsoft | ✅ | https://github.com/Azure/review-checklists |
+| Active Directory Security Checklist by CybersecurityNews | ✅ | https://cybersecuritynews.com/active-directory-checklist/ |
