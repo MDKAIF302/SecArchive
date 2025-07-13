@@ -12,3 +12,4 @@ Hand-picked resources to level up your bug bounty journey — including tips, sc
 | Bounty Targets Data by Arkadiyt      | ✅     | https://github.com/arkadiyt/bounty-targets-data                           |
 | BugBountyHunting.com                   | ✅     | https://www.bugbountyhunting.com/                                         |
 | Bug Bounty Beginner Roadmap by bittentech     | ✅     | https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap             |
+| Awesome Bug Bounty Write‑ups by devanshbatham | ✅    | https://github.com/devanshbatham/Awesome-Bugbounty-Writeups                 |
