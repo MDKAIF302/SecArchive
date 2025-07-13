@@ -15,3 +15,4 @@ Hand-picked resources to level up your bug bounty journey — including tips, sc
 | Awesome Bug Bounty Write‑ups by devanshbatham | ✅    | https://github.com/devanshbatham/Awesome-Bugbounty-Writeups                 |
 | One-Liners by 0xPugal                          | ✅     | https://github.com/0xPugal/One-Liners          |
 | Bughunter Handbook by gowthams               | ✅     | https://gowthams.gitbook.io/bughunter-handbook                             |
+| HowToHunt by KathanP19                      | ✅     | https://github.com/KathanP19/HowToHunt                                      |
