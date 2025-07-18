@@ -10,3 +10,4 @@ A mix of high-quality resources for various other certifications including **Com
 | RHCSA Guide                      | ✅     | https://rhcsa.github.io/                                          |
 | AWS SAA-C03 Guide                | ✅     | https://lralval.github.io/SAA-C03/                                |
 | BTL1 Study Guide by Nervi0zz0    | ✅     | https://github.com/Nervi0zz0/BTL1-Study-Guide                     |
+| Exam Prep Notes by RootKid                  | ✅ | https://blog.rootkid.in/exam-prep-notes |
