@@ -1,6 +1,6 @@
 # 👑 Learning Resources – Other Cybersecurity Certifications
 
-A mix of high-quality resources for various other certifications including **CompTIA Security+, PNPT, CEH, RHCSA, AWS SAA-C03, and BTL1**.
+A mix of high-quality resources for various other certifications including **CompTIA Security+, PNPT, CEH, RHCSA, AWS SAA-C03, BTL1 and More **.
 
 | Certification / Topic             | Status | Link                                                               |
 |----------------------------------|--------|--------------------------------------------------------------------|
@@ -11,3 +11,4 @@ A mix of high-quality resources for various other certifications including **Com
 | AWS SAA-C03 Guide                | ✅     | https://lralval.github.io/SAA-C03/                                |
 | BTL1 Study Guide by Nervi0zz0    | ✅     | https://github.com/Nervi0zz0/BTL1-Study-Guide                     |
 | Exam Prep Notes by RootKid                  | ✅ | https://blog.rootkid.in/exam-prep-notes |
+| ISO/IEC 27001:2022 by Zeusem | ✅     | https://zeusem.github.io/ISO_IEC-27001.2022/                      |
