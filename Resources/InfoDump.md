@@ -20,3 +20,4 @@ High-quality reference guides, methodologies, and curated knowledge bases for re
 | OneDorkForAll by SecShiv                       | ✅     | https://github.com/SecShiv/OneDorkForAll       |
 | iRed Team          | ✅     | https://www.ired.team/ |
 | Hacking Life by Amanda Guglieri | ✅     | https://amandaguglieri.github.io/hackinglife/ |
+| macOS Security & Privacy Guide by DrDuh | ✅     | https://drduh.github.io/macOS-Security-and-Privacy-Guide/             |
