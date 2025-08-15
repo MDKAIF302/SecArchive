@@ -8,3 +8,4 @@ Visual resources and structured mind maps to help understand cybersecurity domai
 | Mindmap by Ignite Technologies | ✅     | https://github.com/Ignitetechnologies/Mindmap               |
 | Aman Hardikar’s Mindmaps              | ✅     | https://www.amanhardikar.com/mindmaps.html           |
 | AD Pentesting Mind Map by esidate            | ✅     | https://github.com/esidate/pentesting-active-directory                 |
+| Microsoft Eventlog Mindmap by mdecrevoisier   | ✅     | https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap         |
