@@ -12,3 +12,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Red Teaming Exploit Development with Assembly and C (Shellcode) | ✅     | [Link](https://www.udemy.com/course/shellcode/?couponCode=5-STAR-RED-TEAM)                      |
 | Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ✅     | [Link](https://www.udemy.com/course/real_pentest/?couponCode=5-STAR-HACKING)                    |
 | Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts               | ✅     | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=5-G-5-STAR-PLEASE) |
+| Web Hacking For Beginners — Unlocking the Secrets of Web Security         | ✅     | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=09515B48FDEE55F0A758) |
