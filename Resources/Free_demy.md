@@ -6,3 +6,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Course Title                          | Status | Link |
 |--------------------------------------|--------|------|
 | Cyber Security Awareness Training Course For Beginners 2025 | ✅     | https://www.udemy.com/course/cyber-security-awareness-training-course/?LSNPUBID=0F1O0otUXQc&ranMID=47901&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-eC0dWwM5rIN3hFs2pgxSDg |
+| Burp Suite: In-Depth Survival Guide      | ✅     | https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7       |
