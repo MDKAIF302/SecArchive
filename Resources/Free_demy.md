@@ -9,4 +9,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Burp Suite: In-Depth Survival Guide      | ✅     | [Link](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7)       |
 | The NIST Privacy Framework: A Step-by-Step Implementation | ✅     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=3D86C22455EB987F746D) |
 | Practical IoT Security and Penetration Testing for Beginners | ✅  | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
-| Red Teaming | Exploit Development with Assembly and C (Shellcode) | ✅     | [Link](https://www.udemy.com/course/shellcode/?couponCode=5-STAR-RED-TEAM)                      |
+| Red Teaming Exploit Development with Assembly and C (Shellcode) | ✅     | [Link](https://www.udemy.com/course/shellcode/?couponCode=5-STAR-RED-TEAM)                      |
