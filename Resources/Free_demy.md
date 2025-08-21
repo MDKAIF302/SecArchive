@@ -16,3 +16,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Cyber Security Fundamentals – Don’t Get Hacked | ✅   | [Link](https://www.udemy.com/course/cybersecuritydticourse/)                          |
 | API Security Testing Guide by The XSS Rat                                 | ✅     | [Link](https://www.udemy.com/course/uncle-rats-api-security-testing-guide/?couponCode=05795A30DFF56FA7F08B) |
 | The Ultimate BAC and IDOR Guide for Ethical Hacking                        | ✅     | [Link](https://www.udemy.com/course/the-ultimate-bac-and-idor-guide-for-ethical-hacking/?couponCode=A1ED7AF37002A40A600C) |
+| ISO 42001 Lead Auditor: Auditing AI Management Systems           | ✅     | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=32E184DCBB7BC3C34B3A) |
