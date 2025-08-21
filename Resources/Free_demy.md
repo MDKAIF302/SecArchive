@@ -14,3 +14,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts               | ✅     | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=5-G-5-STAR-PLEASE) |
 | Web Hacking For Beginners — Unlocking the Secrets of Web Security         | ✅     | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=09515B48FDEE55F0A758) |
 | Cyber Security Fundamentals – Don’t Get Hacked | ✅   | [Link](https://www.udemy.com/course/cybersecuritydticourse/)                          |
+| API Security Testing Guide by The XSS Rat                                 | ✅     | [Link](https://www.udemy.com/course/uncle-rats-api-security-testing-guide/?couponCode=05795A30DFF56FA7F08B) |
