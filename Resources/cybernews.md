@@ -22,3 +22,4 @@ A curated list of trusted platforms for the latest cybersecurity news, threat in
 | Null Byte (WonderHowTo)          | ✅     | https://null-byte.wonderhowto.com/ |
 | Ars Technica Security            | ✅     | https://arstechnica.com/tag/security/ |
 | 0dayFans          | ✅     | https://0dayfans.com/ |
+| Arch Linux – Official News Archives | ✅     | https://archlinux.org/news/   |
