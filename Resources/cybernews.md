@@ -21,3 +21,4 @@ A curated list of trusted platforms for the latest cybersecurity news, threat in
 | CSO Online                       | ✅     | https://www.csoonline.com/ |
 | Null Byte (WonderHowTo)          | ✅     | https://null-byte.wonderhowto.com/ |
 | Ars Technica Security            | ✅     | https://arstechnica.com/tag/security/ |
+| 0dayFans          | ✅     | https://0dayfans.com/ |
