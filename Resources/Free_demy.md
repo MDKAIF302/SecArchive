@@ -20,3 +20,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Red Team Mastery: Advanced Offensive Security                                | ✅     | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=3B6D3272B62D4E476C24) |
 | **SQLMap From Scratch for Ethical Hackers**       | ✅     | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=DCD44E7CE25CB85A580E) |
 | SOC Overview: Security Operations Center Intro | ✅     | [Link](https://www.udemy.com/course/soc-overview/)                                              |
+| Database Security & Privacy Fundamentals                | ✅     | [Link](https://www.udemy.com/course/database-security-privacy-fundamentals/)                      |
