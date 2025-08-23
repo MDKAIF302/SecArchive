@@ -21,3 +21,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | **SQLMap From Scratch for Ethical Hackers**       | ✅     | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=DCD44E7CE25CB85A580E) |
 | SOC Overview: Security Operations Center Intro | ✅     | [Link](https://www.udemy.com/course/soc-overview/)                                              |
 | Database Security & Privacy Fundamentals                | ✅     | [Link](https://www.udemy.com/course/database-security-privacy-fundamentals/)                      |
+| Reverse Engineering & Malware Analysis Fundamentals              | ✅     | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=RE-ENGINEERING-2025)     |
