@@ -19,4 +19,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | ISO 42001 Lead Auditor: Auditing AI Management Systems           | ✅     | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=32E184DCBB7BC3C34B3A) |
 | Red Team Mastery: Advanced Offensive Security                                | ✅     | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=3B6D3272B62D4E476C24) |
 | **SQLMap From Scratch for Ethical Hackers**       | ✅     | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=DCD44E7CE25CB85A580E) |
-| SOC Overview: Security Operations Center Intro | ✅     | https://www.udemy.com/course/soc-overview/                                              |
+| SOC Overview: Security Operations Center Intro | ✅     | [Link](https://www.udemy.com/course/soc-overview/)                                              |
