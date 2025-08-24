@@ -28,3 +28,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Wireshark: Master Packet Analysis & Ethical Hacking Tools   | ✅     | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=WIRESHARK_5-STAR)     |
 | Mastering Network Security: Defending Against Cyber Threats | ✅     | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STARPLS)                 |
 | Cyber Security Fundamentals – Don’t Get Hacked | ✅     | [Link](https://www.udemy.com/course/cybersecuritydticourse/)          |
+| Introduction to Cloud Security with Microsoft Azure       | ✅     | [Link](https://www.udemy.com/course/azure-cloud-security/)                                           |
