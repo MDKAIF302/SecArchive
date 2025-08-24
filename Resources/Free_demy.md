@@ -25,3 +25,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Gen AI Security Foundations      | ✅     | [Link](https://www.udemy.com/course/gen-ai-security-foundations/)                            |
 | Cyber Security & Ethical Hacking Online Course     | ✅     | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=5F513B54BB447C91BDA5) |
 | Mastering Software Defined Radio (SDR): GNU Radio and SDR++                   | ✅     | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=SDR-5-STAR-PLEASE)                               |
+| Wireshark: Master Packet Analysis & Ethical Hacking Tools   | ✅     | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=WIRESHARK_5-STAR)     |
