@@ -30,3 +30,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Cyber Security Fundamentals – Don’t Get Hacked | ✅     | [Link](https://www.udemy.com/course/cybersecuritydticourse/)          |
 | Introduction to Cloud Security       | ✅     | [Link](https://www.udemy.com/course/introduction-to-cloud-security/)                                           |
 | CompTIA IT Fundamentals Exam FC0-U61 Simplified      | ✅     | [Link](https://www.udemy.com/course/comptia-it-fundamentals-simplified/?couponCode=76261A3190E3313CFB68)       |
+| Kali Linux for Pentesters and Ethical Hackers – Exam 2025  | ✅     | [Link](https://www.udemy.com/course/kali-linux-for-pentesters-and-ethical-hackers-exam-2025-m/?couponCode=KALILINUX) |
