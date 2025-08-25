@@ -29,3 +29,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Mastering Network Security: Defending Against Cyber Threats | ✅     | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STARPLS)                 |
 | Cyber Security Fundamentals – Don’t Get Hacked | ✅     | [Link](https://www.udemy.com/course/cybersecuritydticourse/)          |
 | Introduction to Cloud Security       | ✅     | [Link](https://www.udemy.com/course/introduction-to-cloud-security/)                                           |
+| CompTIA IT Fundamentals Exam FC0-U61 Simplified      | ✅     | [Link](https://www.udemy.com/course/comptia-it-fundamentals-simplified/?couponCode=76261A3190E3313CFB68)       |
