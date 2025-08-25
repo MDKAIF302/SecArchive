@@ -33,3 +33,4 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Kali Linux for Pentesters and Ethical Hackers – Exam 2025  | ✅     | [Link](https://www.udemy.com/course/kali-linux-for-pentesters-and-ethical-hackers-exam-2025-m/?couponCode=KALILINUX) |
 | Auditing ISO 27001:2022 – Technical Controls | ✅     | [Link](https://www.udemy.com/course/auditing-iso-270012022-technical-controls/?couponCode=4DEF1D7EEED030CB1EC8) |
 | Malware Analysis, Incident Response & Disaster Recovery   | ✅     | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=B6B524DBAB88DA67B2C2) |
+| Metasploit from Scratch: Beginner to Professional | ✅     | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=01D66CDB22E5295746C7) |
