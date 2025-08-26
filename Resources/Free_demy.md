@@ -36,7 +36,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Metasploit from Scratch: Beginner to Professional | ✅     | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=01D66CDB22E5295746C7) |
 | CompTIA A+ (220-1102) Core 2 Practice Tests            | ✅     | [Link](https://www.udemy.com/course/mhn-comptia-a-plus-220-1102-core-2-exam-prep-practice-tests/?couponCode=FIRST-FREE-COUPON) |
 | CompTIA Network+ (N10-007) Practice Tests          | ✅     | [Link](https://www.udemy.com/course/practice-test-comptia-network-n10-007/?couponCode=DC92920C699946402A96) |
-
+| OWASP API Security Top 10 (2021 & 2023) with Java Examples | ✅     | [Link](https://www.udemy.com/course/owasp-learnit/?couponCode=AUGUST_FREE3_2025)                     |
 
 
 
