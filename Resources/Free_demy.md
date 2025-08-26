@@ -6,17 +6,17 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Course Title                          | Status | Link |
 |--------------------------------------|--------|------|
 | Cyber Security Awareness Training Course For Beginners 2025 | ✅     | [Link](https://www.udemy.com/course/cyber-security-awareness-training-course/?LSNPUBID=0F1O0otUXQc&ranMID=47901&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-eC0dWwM5rIN3hFs2pgxSDg) |
-| Burp Suite: In-Depth Survival Guide      | ✅     | [Link](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7)       |
-| The NIST Privacy Framework: A Step-by-Step Implementation | ✅     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=3D86C22455EB987F746D) |
-| Practical IoT Security and Penetration Testing for Beginners | ✅  | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
-| Red Teaming Exploit Development with Assembly and C (Shellcode) | ✅     | [Link](https://www.udemy.com/course/shellcode/?couponCode=5-STAR-RED-TEAM)                      |
-| Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ✅     | [Link](https://www.udemy.com/course/real_pentest/?couponCode=5-STAR-HACKING)                    |
-| Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts               | ✅     | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=5-G-5-STAR-PLEASE) |
-| Web Hacking For Beginners — Unlocking the Secrets of Web Security         | ✅     | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=09515B48FDEE55F0A758) |
+| Burp Suite: In-Depth Survival Guide      | ⚠️     | [Link](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7)       |
+| The NIST Privacy Framework: A Step-by-Step Implementation | ⚠️     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=3D86C22455EB987F746D) |
+| Practical IoT Security and Penetration Testing for Beginners | ⚠️  | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
+| Red Teaming Exploit Development with Assembly and C (Shellcode) | ⚠️     | [Link](https://www.udemy.com/course/shellcode/?couponCode=5-STAR-RED-TEAM)                      |
+| Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ⚠️     | [Link](https://www.udemy.com/course/real_pentest/?couponCode=5-STAR-HACKING)                    |
+| Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts               | ⚠️     | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=5-G-5-STAR-PLEASE) |
+| Web Hacking For Beginners — Unlocking the Secrets of Web Security         | ⚠️     | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=09515B48FDEE55F0A758) |
 | Cyber Security Fundamentals – Don’t Get Hacked | ✅   | [Link](https://www.udemy.com/course/cybersecuritydticourse/)                          |
-| API Security Testing Guide by The XSS Rat                                 | ✅     | [Link](https://www.udemy.com/course/uncle-rats-api-security-testing-guide/?couponCode=05795A30DFF56FA7F08B) |
-| The Ultimate BAC and IDOR Guide for Ethical Hacking                        | ✅     | [Link](https://www.udemy.com/course/the-ultimate-bac-and-idor-guide-for-ethical-hacking/?couponCode=A1ED7AF37002A40A600C) |
-| ISO 42001 Lead Auditor: Auditing AI Management Systems           | ✅     | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=32E184DCBB7BC3C34B3A) |
+| API Security Testing Guide by The XSS Rat                                 | ⚠️     | [Link](https://www.udemy.com/course/uncle-rats-api-security-testing-guide/?couponCode=05795A30DFF56FA7F08B) |
+| The Ultimate BAC and IDOR Guide for Ethical Hacking                        | ⚠️     | [Link](https://www.udemy.com/course/the-ultimate-bac-and-idor-guide-for-ethical-hacking/?couponCode=A1ED7AF37002A40A600C) |
+| ISO 42001 Lead Auditor: Auditing AI Management Systems           | ⚠️     | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=32E184DCBB7BC3C34B3A) |
 | Red Team Mastery: Advanced Offensive Security                                | ✅     | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=3B6D3272B62D4E476C24) |
 | **SQLMap From Scratch for Ethical Hackers**       | ✅     | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=DCD44E7CE25CB85A580E) |
 | SOC Overview: Security Operations Center Intro | ✅     | [Link](https://www.udemy.com/course/soc-overview/)                                              |
@@ -31,7 +31,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Introduction to Cloud Security       | ✅     | [Link](https://www.udemy.com/course/introduction-to-cloud-security/)                                           |
 | CompTIA IT Fundamentals Exam FC0-U61 Simplified      | ✅     | [Link](https://www.udemy.com/course/comptia-it-fundamentals-simplified/?couponCode=76261A3190E3313CFB68)       |
 | Kali Linux for Pentesters and Ethical Hackers – Exam 2025  | ✅     | [Link](https://www.udemy.com/course/kali-linux-for-pentesters-and-ethical-hackers-exam-2025-m/?couponCode=KALILINUX) |
-| Auditing ISO 27001:2022 – Technical Controls | ✅     | [Link](https://www.udemy.com/course/auditing-iso-270012022-technical-controls/?couponCode=4DEF1D7EEED030CB1EC8) |
+| Auditing ISO 27001:2022 – Technical Controls | ⚠️     | [Link](https://www.udemy.com/course/auditing-iso-270012022-technical-controls/?couponCode=4DEF1D7EEED030CB1EC8) |
 | Malware Analysis, Incident Response & Disaster Recovery   | ✅     | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=B6B524DBAB88DA67B2C2) |
 | Metasploit from Scratch: Beginner to Professional | ✅     | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=01D66CDB22E5295746C7) |
 | CompTIA A+ (220-1102) Core 2 Practice Tests            | ✅     | [Link](https://www.udemy.com/course/mhn-comptia-a-plus-220-1102-core-2-exam-prep-practice-tests/?couponCode=FIRST-FREE-COUPON) |
