@@ -38,11 +38,11 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | CompTIA Network+ (N10-007) Practice Tests          | ✅     | [Link](https://www.udemy.com/course/practice-test-comptia-network-n10-007/?couponCode=DC92920C699946402A96) |
 | OWASP API Security Top 10 (2021 & 2023) with Java Examples | ✅     | [Link](https://www.udemy.com/course/owasp-learnit/?couponCode=AUGUST_FREE3_2025)                     |
 | Mastering Linux: The Complete Guide to Becoming a Linux Pro | ✅     | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-5-STAR-PLS) |
-
-
-
-
-
+| NIST Incident Management: A Step-by-Step Guide     | ✅     | [Link](https://www.udemy.com/course/the-nist-incident-management-a-step-by-step-guide/?couponCode=9B59A7A9E9C76B6D9F1B) |
+| Growth Hacking Certification for Startups – Scale Smarter |  ✅ | [Link](https://www.udemy.com/course/growth-hacking-certification-for-startups-scale-smarter/?couponCode=AUG-FREE) |
+| Start Career in CyberSecurity – The Ultimate Guide | ✅     | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=E79FCCC897C5A648BFF2) |
+| Web3 & Blockchain Security: Pen Testing & Bug Bounty (Part 1)        | ✅     | [Link](https://www.udemy.com/course/web3-and-blockchain-securitypen-testing-bug-bounty-part1/?couponCode=31D116F31539AAC26197) |
+| A Journey to Zero Trust          | ✅     | [Link](https://www.udemy.com/course/a-journey-to-zero-trust/)        |
 
 
 
