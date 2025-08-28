@@ -44,7 +44,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Web3 & Blockchain Security: Pen Testing & Bug Bounty (Part 1)        | ✅     | [Link](https://www.udemy.com/course/web3-and-blockchain-securitypen-testing-bug-bounty-part1/?couponCode=31D116F31539AAC26197) |
 | A Journey to Zero Trust          | ✅     | [Link](https://www.udemy.com/course/a-journey-to-zero-trust/)        |
 | Mastering Active Directory in a Home Lab | ✅     | [Link](https://www.udemy.com/course/mastering-active-directory-in-a-home-lab/)     |
-
+| Computer Networking Basics for Desktop Support Technicians | ✅     | [Link](https://www.udemy.com/course/computer-networking-basics-for-desktop-support-technicians/?couponCode=BCBB6B9C75E567FF0E76) |
 
 
 
