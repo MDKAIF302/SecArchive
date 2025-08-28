@@ -43,7 +43,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Start Career in CyberSecurity – The Ultimate Guide | ✅     | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=E79FCCC897C5A648BFF2) |
 | Web3 & Blockchain Security: Pen Testing & Bug Bounty (Part 1)        | ✅     | [Link](https://www.udemy.com/course/web3-and-blockchain-securitypen-testing-bug-bounty-part1/?couponCode=31D116F31539AAC26197) |
 | A Journey to Zero Trust          | ✅     | [Link](https://www.udemy.com/course/a-journey-to-zero-trust/)        |
-
+| Mastering Active Directory in a Home Lab | ✅     | [Link](https://www.udemy.com/course/mastering-active-directory-in-a-home-lab/)     |
 
 
 
