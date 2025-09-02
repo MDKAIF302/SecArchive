@@ -47,7 +47,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | NIST Incident Management: A Step-by-Step Guide | ✅     | [Link](https://www.udemy.com/course/the-nist-incident-management-a-step-by-step-guide/?couponCode=9B59A7A9E9C76B6D9F1B) |
 | Webservices API Testing with Postman – Complete Guide | ✅     | [Link](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=AUGUST_FREE3_2025) |
 | Offensive Security Pathway – Beginner to Offensive General |  ✅ | [Link](https://www.udemy.com/course/offensive-security-pathway/?couponCode=18621BC80F9308FC52E8) |
-
+| CompTIA IT Fundamentals+ (FC0-U61) Practice Test | ✅            | [Link](https://www.udemy.com/course/practice-test-comptia-it-fundamentals-fc0-u61/?couponCode=94711F799438DC72F81D)                      |
 
 
 
