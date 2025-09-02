@@ -48,7 +48,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Webservices API Testing with Postman – Complete Guide | ✅     | [Link](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=AUGUST_FREE3_2025) |
 | Offensive Security Pathway – Beginner to Offensive General |  ✅ | [Link](https://www.udemy.com/course/offensive-security-pathway/?couponCode=18621BC80F9308FC52E8) |
 | CompTIA IT Fundamentals+ (FC0-U61) Practice Test | ✅            | [Link](https://www.udemy.com/course/practice-test-comptia-it-fundamentals-fc0-u61/?couponCode=94711F799438DC72F81D)                      |
-
+| Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ✅  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=C184CB5F133B75CBB3F7) |
 
 
 
