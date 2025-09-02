@@ -50,7 +50,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | CompTIA IT Fundamentals+ (FC0-U61) Practice Test | ✅            | [Link](https://www.udemy.com/course/practice-test-comptia-it-fundamentals-fc0-u61/?couponCode=94711F799438DC72F81D)                      |
 | Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ✅  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=C184CB5F133B75CBB3F7) |
 | Ethically Hack the Planet Part 3 |  ✅  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=LEARNINSEPT) |
-
+| Ethically Hack the Planet Part 4          | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=LEARNINSEPT) |
 
 
 
