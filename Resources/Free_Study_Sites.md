@@ -15,3 +15,4 @@ A curated list of freely available platforms, notes, and study resources to lear
 | Distance Learning Portal            | ✅     | https://www.distancelearningportal.com/                             |
 | Microsoft Learn                     | ✅     | https://learn.microsoft.com/en-us/training/browse/                  |
 | NPTEL Course Catalog (Multiple Disciplines)     | ✅     | https://nptel.ac.in/courses                                          |
+| Academic Earth        |  ✅  | https://academicearth.org/      |
