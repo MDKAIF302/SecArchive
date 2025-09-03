@@ -5,7 +5,7 @@ A curated list of freely available platforms, notes, and study resources to lear
 | Name / Platform                      | Status | Link                                                                 |
 |-------------------------------------|--------|----------------------------------------------------------------------|
 | Class Central                       | ✅     | https://www.classcentral.com/                                       |
-| DigitalDefynd                       | ✅     | https://digitaldefynd.com/?wsiqmenu                                 |
+| DigitalDefynd                       | ✅     | https://digitaldefynd.com/                                 |
 | Academic Earth                      | ✅     | https://academicearth.org/                                          |
 | Alison                              | ✅     | https://alison.com/                                                 |
 | Skillshop (Google Certifications)   | ✅     | https://skillshop.exceedlms.com/student/catalog/browse              |
