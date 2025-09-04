@@ -52,6 +52,43 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ✅  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=C184CB5F133B75CBB3F7) |
 | Ethically Hack the Planet Part 3 |  ✅  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=LEARNINSEPT) |
 | Ethically Hack the Planet Part 4          | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=LEARNINSEPT) |
+| CompTIA Project+ (PK0-005) Practice Exams – 2025 (Part 1)  |  ✅  | [Link](https://www.udemy.com/course/comptia-project-pk0-005-practice-exams-2025/?couponCode=B412FA36B5A21E90D84B) |
+| CompTIA Network+ (N10-009) Practice Exams – 2025                   | ✅     | [Link](https://www.udemy.com/course/comptia-network-n10-009-practice-exams-2025/?couponCode=673236C09C825B50D3F4) |
+| CompTIA A+ Core 2 (220-1202) Practice Exams – 2025 | ✅     | [Link](https://www.udemy.com/course/comptia-a-core-2-220-1202-practice-exams-2025/?couponCode=4E7975206362108A1E52) |
+| CompTIA CySA+ (CS0-003) Practice Exams – 2025 (Part 1) | ✅     | [Link](https://www.udemy.com/course/comptia-cysa-cs0-003-practice-exams-2025/?couponCode=382863CF5F6060352D83) |
+| CompTIA Linux+ (XK0-005) Practice Exams: NEW for 2025       | ✅     | [Link](https://www.udemy.com/course/comptia-linux-xk0-005-practice-exams-2025/?couponCode=89DA88EC62297DCC0B0E) |
+| CompTIA Server+ (SK0-005) Practice Exams – 2025         | ✅     | [Link](https://www.udemy.com/course/comptia-linux-xk0-005-practice-exams-2025/?couponCode=89DA88EC62297DCC0B0E) |
+| CompTIA SecurityX (CAS-005) Practice Exams – 2025   | ✅     | [Link](https://www.udemy.com/course/comptia-securityx-cas-005-practice-exams-2025/?couponCode=48611B74CAE465EA6B66) |
+| CompTIA Cloud+ (CV0-004) Practice Exams – 2025   | ✅     | [Link](https://www.udemy.com/course/comptia-cloudcv0-004-practice-exams-2025/?couponCode=C7842A17251F7056829F)     |
+| CompTIA A+ Core 2 (220-1202) Practice Exams – 2025              | ✅     | [Link](https://www.udemy.com/course/comptia-a-core-2-220-1202-practice-exams-2025/?couponCode=4E7975206362108A1E52) |
+| CompTIA PenTest+ (PT0-003) Compact Practice Exams – 2025 | ✅     | [Link](https://www.udemy.com/course/comptia-pentest-pt0-003-practice-exams-2025/?couponCode=D3F85555BCB13816326A)     |
+| Auditing ISO 27001:2022 – People Controls      | ✅     | [Link](https://www.udemy.com/course/auditing-iso-270012022-people-controls/?couponCode=E04B0F7DD185FC9460F0) |
+| AZ-900: Microsoft Azure Fundamentals Practice Test | ✅ | [Link](https://www.udemy.com/course/azue-az-900-az-900-practice-test-exam-latest-questions/?couponCode=SEPOPEN0) |
+| CISSP 2025: 900 Practice Questions & Detailed Explanations | ✅     | [Link](https://www.udemy.com/course/cissp-900-practice-questions-detailed-explanations/?couponCode=D88A68B4736430C26410) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
