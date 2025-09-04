@@ -8,7 +8,7 @@ A curated list of freely available platforms, notes, and study resources to lear
 | DigitalDefynd                       | ✅     | https://digitaldefynd.com/                                 |
 | Academic Earth                      | ✅     | https://academicearth.org/                                          |
 | Alison                              | ✅     | https://alison.com/                                                 |
-| Skillshop (Google Certifications)   | ✅     | https://skillshop.exceedlms.com/student/catalog/browse              |
+| Grow with Google – Courses & Tools |  ✅  | https://grow.google/intl/uk/courses-and-tools/ |
 | TakeThisCourse                      | ✅     | https://www.takethiscourse.net/                                     |
 | MIT OpenCourseWare                  | ✅     | https://ocw.mit.edu/                                                |
 | edX                                 | ✅     | https://www.edx.org/                                                |
