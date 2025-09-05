@@ -69,12 +69,9 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Become a Hydra Expert: Advanced Brute Forcing Techniques | ✅ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=LEARNINSEPT) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=LEARNINSEPT) |
 | Red Team Mastery: Advanced Offensive Security | ✅ | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=LEARNINSEPT) |
-
-
-
-
-
-
+| ISACA CCAK (Cloud Auditing Knowledge) Practice Exams 2025 | ✅ | [Link](https://www.udemy.com/course/isaca-ccak-cloud-auditing-knowledge-practice-exams-2025/?couponCode=DB283E4842F3C937B7EF) |
+| ISACA CISM Certified Information Security Manager Prep Exams | ✅ | [Link](https://www.udemy.com/course/isaca-cism-certified-information-security-manager-prep-exams/?couponCode=83D1FBF9424AE1968A28) |
+| ISACA CRISC (Risk & Information Systems Control) Prep Exams | ✅ | [Link](https://www.udemy.com/course/isaca-criscrisk-and-information-systems-control-prep-exams/?couponCode=6605CC17E08C8790FB46) |
 
 
 
