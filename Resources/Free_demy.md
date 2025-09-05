@@ -48,10 +48,10 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | NIST Incident Management: A Step-by-Step Guide | ⚠️     | [Link](https://www.udemy.com/course/the-nist-incident-management-a-step-by-step-guide/?couponCode=9B59A7A9E9C76B6D9F1B) |
 | Webservices API Testing with Postman – Complete Guide | ⚠️     | [Link](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=AUGUST_FREE3_2025) |
 | Offensive Security Pathway – Beginner to Offensive General |  ⚠️ | [Link](https://www.udemy.com/course/offensive-security-pathway/?couponCode=18621BC80F9308FC52E8) |
-| CompTIA IT Fundamentals+ (FC0-U61) Practice Test | ✅            | [Link](https://www.udemy.com/course/practice-test-comptia-it-fundamentals-fc0-u61/?couponCode=94711F799438DC72F81D)                      |
-| Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ✅  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=C184CB5F133B75CBB3F7) |
+| CompTIA IT Fundamentals+ (FC0-U61) Practice Test | ⚠️            | [Link](https://www.udemy.com/course/practice-test-comptia-it-fundamentals-fc0-u61/?couponCode=94711F799438DC72F81D)                      |
+| Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ⚠️  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=C184CB5F133B75CBB3F7) |
 | Ethically Hack the Planet Part 3 |  ✅  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=LEARNINSEPT) |
-| Ethically Hack the Planet Part 4          | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=LEARNINSEPT) |
+| Ethically Hack the Planet Part 4          | ⚠️ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=LEARNINSEPT) |
 | CompTIA Project+ (PK0-005) Practice Exams – 2025 (Part 1)  |  ✅  | [Link](https://www.udemy.com/course/comptia-project-pk0-005-practice-exams-2025/?couponCode=B412FA36B5A21E90D84B) |
 | CompTIA Network+ (N10-009) Practice Exams – 2025                   | ✅     | [Link](https://www.udemy.com/course/comptia-network-n10-009-practice-exams-2025/?couponCode=673236C09C825B50D3F4) |
 | CompTIA A+ Core 2 (220-1202) Practice Exams – 2025 | ✅     | [Link](https://www.udemy.com/course/comptia-a-core-2-220-1202-practice-exams-2025/?couponCode=4E7975206362108A1E52) |
