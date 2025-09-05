@@ -65,9 +65,10 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Auditing ISO 27001:2022 – People Controls      | ✅     | [Link](https://www.udemy.com/course/auditing-iso-270012022-people-controls/?couponCode=E04B0F7DD185FC9460F0) |
 | AZ-900: Microsoft Azure Fundamentals Practice Test | ✅ | [Link](https://www.udemy.com/course/azue-az-900-az-900-practice-test-exam-latest-questions/?couponCode=SEPOPEN0) |
 | CISSP 2025: 900 Practice Questions & Detailed Explanations | ✅     | [Link](https://www.udemy.com/course/cissp-900-practice-questions-detailed-explanations/?couponCode=D88A68B4736430C26410) |
-
-
-
+| Hacking the Human Mind: Social Engineering Fundamentals | ✅ | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=LEARNINSEPT) |
+| Become a Hydra Expert: Advanced Brute Forcing Techniques | ✅ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=LEARNINSEPT) |
+| Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=LEARNINSEPT) |
+| Red Team Mastery: Advanced Offensive Security | ✅ | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=LEARNINSEPT) |
 
 
 
