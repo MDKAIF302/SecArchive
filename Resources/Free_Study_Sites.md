@@ -17,3 +17,4 @@ A curated list of freely available platforms, notes, and study resources to lear
 | NPTEL Course Catalog (Multiple Disciplines)     | ✅     | https://nptel.ac.in/courses                                          |
 | Academic Earth        |  ✅  | https://academicearth.org/      |
 | Limnology.co           |  ✅  | https://limnology.co/en |
+| FreeLearningList.org   |  ✅  | https://freelearninglist.org/     |
