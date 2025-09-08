@@ -83,9 +83,10 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | EC-Council Certified CISO (CCISO) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-ciso-cciso-practice-exams/?couponCode=CB8CF55ECF71B198433C) |
 | EC-Council Certified Ethical Hacker (CEH) v13 Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-ethical-hacker-v13-ceh-practice-exams/?couponCode=C4FE9E48AD85DC4FEA9D) |
 | EC-Council Computer Hacking Forensic Investigator (CHFI) Prep Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-computer-hacking-forensic-investigator-prep-exams/?couponCode=3455A5E0D72E5DCE4902) |
-
-
-
+| EC-Council Certified Network Defender (CND) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-network-defender-cnd-practice-exams-e/?couponCode=F4E1830D80F45BA7D29F) |
+| EC-Council Certified Incident Handler (ECIH) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-incident-handler-ecih-practice-exams/?couponCode=268D66551E4BDF3533E1) |
+| EC-Council Certified SOC Analyst (CSA) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-soc-analyst-csa-practice-exams/?couponCode=0557CE8956C5D695E0A4) |
+| EC-Council Certified Cybersecurity Technician (CCT) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-cybersecurity-technician-practice-exams/?couponCode=C67533AF323A90498ED2) |
 
 
 
