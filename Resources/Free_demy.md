@@ -79,10 +79,10 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | ISACA CISA Practice Exams – 1000+ Qs     |  ✅   | [Link](https://www.udemy.com/course/certified-information-systems-auditor-cisa-practice-exams-w/?couponCode=SEPOPEN1) |
 | Learn Subcontracting Process in SAP MM (SAP R/3)     |  ✅       | [Link](https://www.udemy.com/course/learn-subcontracting-process-in-sap-mm/)          |
 | Ethically Hack the Planet Part 2 |  ✅  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=8AB1D1585C5D04EC3582) |
-
-
-
-
+| EC-Council Certified Threat Intelligence Analyst Prep Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-threat-intelligence-analyst-prep-exams/?couponCode=FED746F0BAC8868742F9) |
+| EC-Council Certified CISO (CCISO) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-ciso-cciso-practice-exams/?couponCode=CB8CF55ECF71B198433C) |
+| EC-Council Certified Ethical Hacker (CEH) v13 Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-ethical-hacker-v13-ceh-practice-exams/?couponCode=C4FE9E48AD85DC4FEA9D) |
+| EC-Council Computer Hacking Forensic Investigator (CHFI) Prep Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-computer-hacking-forensic-investigator-prep-exams/?couponCode=3455A5E0D72E5DCE4902) |
 
 
 
