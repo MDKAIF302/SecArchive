@@ -76,7 +76,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Ethically Hack Human Mind: Social Engineering Fundamentals |  ✅   | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=LEARNINSEPT) |
 | Implement NIST Cybersecurity Framework (CSF) 2.0 – Step by Step | ✅     | [Link](https://www.udemy.com/course/implement-nist-cybersecurity-frameworkcsf-20-step-by-step/?couponCode=9D324C3ECC78B1E9FE10) |
 | ISACA Cybersecurity Fundamentals: Practice Exam Questions | ✅     | [Link](https://www.udemy.com/course/cybersecurity-fundamentals-isaca-practice-exam-questions/?couponCode=KOREA123) |
-
+| ISACA CISA Practice Exams – 1000+ Qs     |  ✅   | [Link](https://www.udemy.com/course/certified-information-systems-auditor-cisa-practice-exams-w/?couponCode=SEPOPEN1) |
 
 
 
