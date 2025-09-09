@@ -88,8 +88,35 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | EC-Council Certified Incident Handler (ECIH) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-incident-handler-ecih-practice-exams/?couponCode=268D66551E4BDF3533E1) |
 | EC-Council Certified SOC Analyst (CSA) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-soc-analyst-csa-practice-exams/?couponCode=0557CE8956C5D695E0A4) |
 | EC-Council Certified Cybersecurity Technician (CCT) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-cybersecurity-technician-practice-exams/?couponCode=C67533AF323A90498ED2) |
-| Master Network Security                | ✅ | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STAR-GIVE)           |
-| Computer Forensics and Digital Forensics Masterclass PRO+ | ✅ | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=DFIR-5-STAR-GIVE) |
-| Cybersecurity: Start Career 2022 – The Complete Course                       | ✅ | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=21C39B007E5BC290FA1E)                            |
+| Master Network Security                                                      | ✅        | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STAR-GIVE)                            |
+| Computer Forensics and Digital Forensics Masterclass PRO+                    | ✅        | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=DFIR-5-STAR-GIVE)   |
+| Cybersecurity: Start Career 2022 – The Complete Course                        | ✅        | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=21C39B007E5BC290FA1E)      |
+| Information Security Incident Management – Step by Step                       | ✅        | [Link](https://www.udemy.com/course/information-security-incident-management-step-by-step/?couponCode=CBC2DE40688631DA4F5D) |
+| ISC² CISSP & ISSAP Practice Exams                                            | ✅        | [Link](https://www.udemy.com/course/isc-cissp-issap-practice-exams/?couponCode=51A2392A6CD45F025B7E)                     |
+| ISC² CISSP & ISSMP Practice Exams                                            | ✅        | [Link](https://www.udemy.com/course/isc-cissp-issmp-practice-exams/?couponCode=AE6CAAEFAE9B2EF0472D)                     |
+| System Security Certified Practitioner (SSCP) Practice Exams                 | ✅        | [Link](https://www.udemy.com/course/system-security-certified-practitioner-sscp-practice-exams/?couponCode=72105A51BA66696EE67A) |
+| ISC² CSSLP Practice Exams                                                    | ✅        | [Link](https://www.udemy.com/course/isc-csslp-practice-exams/?couponCode=F995A4ED62DC54506C04)                           |
+| ISC CISSP Practice Exams                                                     | ✅        | [Link](https://www.udemy.com/course/isc-cissp-practice-exams/?couponCode=7D2509C666C7A19EB775)                          |
+| Certified Cloud Security Professional (CCSP) Practice Exams V                | ✅        | [Link](https://www.udemy.com/course/certified-cloud-security-professional-ccsp-practice-exams-v/?couponCode=03CEE9DC8F202C4F624C) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
