@@ -88,8 +88,8 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | EC-Council Certified Incident Handler (ECIH) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-incident-handler-ecih-practice-exams/?couponCode=268D66551E4BDF3533E1) |
 | EC-Council Certified SOC Analyst (CSA) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-soc-analyst-csa-practice-exams/?couponCode=0557CE8956C5D695E0A4) |
 | EC-Council Certified Cybersecurity Technician (CCT) Practice Exams | ✅  | [Link](https://www.udemy.com/course/ec-council-certified-cybersecurity-technician-practice-exams/?couponCode=C67533AF323A90498ED2) |
-
-
-
+| Master Network Security                | ✅ | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STAR-GIVE)           |
+| Computer Forensics and Digital Forensics Masterclass PRO+ | ✅ | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=DFIR-5-STAR-GIVE) |
+| Cybersecurity: Start Career 2022 – The Complete Course                       | ✅ | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=21C39B007E5BC290FA1E)                            |
 
 
