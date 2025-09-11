@@ -99,7 +99,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | ISC CISSP Practice Exams                                                     | ✅        | [Link](https://www.udemy.com/course/isc-cissp-practice-exams/?couponCode=7D2509C666C7A19EB775)                          |
 | Certified Cloud Security Professional (CCSP) Practice Exams V                | ⚠️        | [Link](https://www.udemy.com/course/certified-cloud-security-professional-ccsp-practice-exams-v/?couponCode=03CEE9DC8F202C4F624C) |
 | Certification in Cybersecurity and Data Analytics | ⚠️ | [Link](https://www.udemy.com/course/certification-in-cybersecurity-and-data-analytics/?couponCode=08B5303621937F61A7F5) |
-| Fundamentals of Cloud Computing | ⚠️ | [Link](https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?couponCode=95AC8A92AF941E5B9E2E) |
+| Fundamentals of Cloud Computing | ✅ | [Link](https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?couponCode=95AC8A92AF941E5B9E2E) |
 | CISA Certified Information Systems Auditor 2025 | ✅ | [Link](https://www.udemy.com/course/cisa-certified-information-systems-auditor-2025/?couponCode=SEPOPEN1) |
 | Network Mastery for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=DEC72CC586A402768748) |
 | Corporate Cyber Security Awareness for Employees 2022 | ✅ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=97FB3FB7C95F9A4754CD) |
