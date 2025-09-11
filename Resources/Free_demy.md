@@ -107,8 +107,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | OWASP Top 10 for Mobile Apps 2025 Edition | ✅ | [Link](https://www.udemy.com/course/owasp-top-10-for-mobile-apps-2025-edition/?couponCode=492BE0DDBB43098D88B7) |
 | Become a Hydra Expert: Advanced Brute Forcing Techniques | ✅ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=5D5282DF0AFC4255B97A) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=F4D42AD2305511BEE577) |
-| AI Cyber Security Mastery | ✅ | [Link](https://www.udemy.com/course/ai-cyber-security-mastery/?couponCode=KEEPLEARNING) |
-| Active Directory Pentesting with Kali Linux Practical Lab | ✅ | [Link](https://www.udemy.com/course/active-directory-pentesting-with-kali-linux-practical-lab/?couponCode=KEEPLEARNING) |
 | Malware Analysis & Incident Response for IT Technicians | ✅ | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=67E8A4B49F0E8D6C63C1) |
 
 
