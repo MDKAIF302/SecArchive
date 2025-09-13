@@ -100,11 +100,11 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Certified Cloud Security Professional (CCSP) Practice Exams V                | ⚠️        | [Link](https://www.udemy.com/course/certified-cloud-security-professional-ccsp-practice-exams-v/?couponCode=03CEE9DC8F202C4F624C) |
 | Certification in Cybersecurity and Data Analytics | ⚠️ | [Link](https://www.udemy.com/course/certification-in-cybersecurity-and-data-analytics/?couponCode=08B5303621937F61A7F5) |
 | Fundamentals of Cloud Computing | ✅ | [Link](https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?couponCode=95AC8A92AF941E5B9E2E) |
-| CISA Certified Information Systems Auditor 2025 | ✅ | [Link](https://www.udemy.com/course/cisa-certified-information-systems-auditor-2025/?couponCode=SEPOPEN1) |
+| CISA Certified Information Systems Auditor 2025 | ⚠️ | [Link](https://www.udemy.com/course/cisa-certified-information-systems-auditor-2025/?couponCode=SEPOPEN1) |
 | Network Mastery for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=DEC72CC586A402768748) |
 | Corporate Cyber Security Awareness for Employees 2022 | ✅ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=97FB3FB7C95F9A4754CD) |
-| NIST 800-30 Risk Assessment Step by Step | ✅ | [Link](https://www.udemy.com/course/nist-800-30-risk-assessment-step-by-step-w/?couponCode=AD25C708CAF22E497FE7) |
-| OWASP Top 10 for Mobile Apps 2025 Edition | ✅ | [Link](https://www.udemy.com/course/owasp-top-10-for-mobile-apps-2025-edition/?couponCode=492BE0DDBB43098D88B7) |
+| NIST 800-30 Risk Assessment Step by Step | ⚠️ | [Link](https://www.udemy.com/course/nist-800-30-risk-assessment-step-by-step-w/?couponCode=AD25C708CAF22E497FE7) |
+| OWASP Top 10 for Mobile Apps 2025 Edition | ⚠️ | [Link](https://www.udemy.com/course/owasp-top-10-for-mobile-apps-2025-edition/?couponCode=492BE0DDBB43098D88B7) |
 | Become a Hydra Expert: Advanced Brute Forcing Techniques | ✅ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=5D5282DF0AFC4255B97A) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=F4D42AD2305511BEE577) |
 | Malware Analysis & Incident Response for IT Technicians | ✅ | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=67E8A4B49F0E8D6C63C1) |
