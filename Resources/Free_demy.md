@@ -108,6 +108,13 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Become a Hydra Expert: Advanced Brute Forcing Techniques | ✅ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=5D5282DF0AFC4255B97A) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=F4D42AD2305511BEE577) |
 | Malware Analysis & Incident Response for IT Technicians | ✅ | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=67E8A4B49F0E8D6C63C1) |
+| Windows & Linux: A Cybersecurity Deep Dive | ✅ | [Link](https://www.udemy.com/course/windows-linux-a-cybersecurity-deep-dive/?couponCode=EBB264413B52FB5F9CDB) |
+| Advanced Metasploit Proficiency Exam | ✅ | [Link](https://www.udemy.com/course/advanced-metasploit-proficiency-exam/?couponCode=17E420C09E10E0521037) |
+| Hack Like a Pro: Kali Linux and System Vulnerabilities Quiz | ✅ | [Link](https://www.udemy.com/course/hack-like-a-pro-kali-linux-and-system-vulnerabilities-quiz/?couponCode=7A2BA8A91796D3FD4782) |
+| Network Security Protocols, Architecture, and Defense | ✅ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=D2C162632FA479A54CA8) |
+| Cybersecurity Essentials Quiz: Are You Ready to Defend? | ✅ | [Link](https://www.udemy.com/course/cybersecurity-essentials-quiz-are-you-ready-to-defend/?couponCode=9C0C4B45BC92C4F54CB9) |
+| Mega Pack: AZ-900, 104, 204, 305, 500, AI-102 Practice Tests | ✅ | [Link](https://www.udemy.com/course/mega-pack-az-900-104-204-305-500-ai-102-practice-tests/?couponCode=REALDISCOUNT2) |
+| ISO 42001 Lead Auditor: Auditing AI Management Systems | ✅ | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=84156C4C2697A1F10831) |
 
 
 
