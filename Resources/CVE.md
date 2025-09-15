@@ -11,7 +11,6 @@ A curated list of websites and sources where you can find **Common Vulnerabiliti
 ## 📰 Security Blogs & Advisories
 - [Praetorian Blog](https://www.praetorian.com/blog/) – Security research, vulnerability reports, and analysis.
 - [Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) – Published advisories for new vulnerabilities.
-- [SecurityFocus](https://www.securityfocus.com/vulnerabilities) – Archive of vulnerabilities and discussions.
 - [Exploit Database](https://www.exploit-db.com/) – Collection of public exploits and CVEs.
 
 ## 🏢 Vendor Security Advisories
