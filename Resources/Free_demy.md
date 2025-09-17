@@ -25,7 +25,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Reverse Engineering & Malware Analysis Fundamentals              | ⚠️     | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=RE-ENGINEERING-2025)     |
 | Gen AI Security Foundations      | ✅     | [Link](https://www.udemy.com/course/gen-ai-security-foundations/)                            |
 | Cyber Security & Ethical Hacking Online Course     | ⚠️     | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=5F513B54BB447C91BDA5) |
-| Mastering Software Defined Radio (SDR): GNU Radio and SDR++                   | ⚠️     | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=SDR-5-STAR-PLEASE)                               |
+| Mastering Software Defined Radio (SDR): GNU Radio and SDR++                   | ✅     | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=5-STAR-COURSE-PLEASE)                               |
 | Wireshark: Master Packet Analysis & Ethical Hacking Tools   | ✅     | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=5-STAR-COURSE-PLEASE)     |
 | Mastering Network Security: Defending Against Cyber Threats | ⚠️     | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STARPLS)                 |
 | Cyber Security Fundamentals – Don’t Get Hacked | ✅     | [Link](https://www.udemy.com/course/cybersecuritydticourse/)          |
@@ -125,6 +125,14 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Splunk Core Certified Power User - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-d/?couponCode=63F4D271F8F44069CB3B) |
 | Splunk Core Certified User - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-user-practice-exams/?couponCode=CC02D01DF793C0186E93) |
 | Complete Ethical Hacking Masterclass | ✅ | [Link](https://www.udemy.com/course/top-course/?couponCode=217D3E4C23A701139C8C) |
+| Complete Network Hacking Course 2024 - Beginner to Advanced | ✅ | [Link](https://www.udemy.com/course/complete-network-hacking-course-2024-beginner-to-advanced/?couponCode=CYBERFORT) |
+| CISSP Certification Practice Exams [Unofficial] | ✅ | [Link](https://www.udemy.com/course/cissp-certification-practice-exams-unofficial/?couponCode=089A732A5EB678F4522D) |
+| CompTIA A+ Core 1 (220-1101) Hardware, Networking, Mobile | ✅ | [Link](https://www.udemy.com/course/comptia-a-core-1-220-1101-hardware-networking-mobile/?couponCode=F5DF065EFAE588793760) |
+| CompTIA A+ Core 2 (220-1102) OS, Security, Troubleshooting | ✅ | [Link](https://www.udemy.com/course/comptia-a-core-2-220-1102-os-security-troubleshooting/?couponCode=88EDC493F41918468057) |
+| Reverse Engineering & Malware Analysis | ✅ | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=5-STAR-COURSE-PLEASE) |
+| AI-Powered Hacking with ChatGPT - All A.I. Dark Edition (2024) | ✅ | [Link](https://www.udemy.com/course/ai-powered-hacking-with-chatgpt-all-a-i-dark-edition-2024/?couponCode=36F26B925A48F68A1321) |
+| Advanced Blue Team Practice Test - Expertly Crafted MCQs (2024) | ✅ | [Link](https://www.udemy.com/course/advanced-blue-team-practice-test-expertly-crafted-mcqs-2024/?couponCode=A87A7A0074F31A39ED59) |
+| Web Hacking for Beginners | ✅ | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=3C41B9A646DE72BC744A) |
 
 
 
