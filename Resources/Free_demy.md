@@ -124,6 +124,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Splunk Enterprise Certified Admin - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-exams/?couponCode=8A1D31DF06743059B0BB) |
 | Splunk Core Certified Power User - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-d/?couponCode=63F4D271F8F44069CB3B) |
 | Splunk Core Certified User - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-user-practice-exams/?couponCode=CC02D01DF793C0186E93) |
+| Complete Ethical Hacking Masterclass | ✅ | [Link](https://www.udemy.com/course/top-course/?couponCode=217D3E4C23A701139C8C) |
 
 
 
