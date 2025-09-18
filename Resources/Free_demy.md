@@ -109,12 +109,12 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=F4D42AD2305511BEE577) |
 | Malware Analysis & Incident Response for IT Technicians | ⚠️ | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=67E8A4B49F0E8D6C63C1) |
 | Windows & Linux: A Cybersecurity Deep Dive | ⚠️ | [Link](https://www.udemy.com/course/windows-linux-a-cybersecurity-deep-dive/?couponCode=EBB264413B52FB5F9CDB) |
-| Advanced Metasploit Proficiency Exam | ✅ | [Link](https://www.udemy.com/course/advanced-metasploit-proficiency-exam/?couponCode=17E420C09E10E0521037) |
+| Advanced Metasploit Proficiency Exam | ⚠️ | [Link](https://www.udemy.com/course/advanced-metasploit-proficiency-exam/?couponCode=17E420C09E10E0521037) |
 | Hack Like a Pro: Kali Linux and System Vulnerabilities Quiz | ⚠️ | [Link](https://www.udemy.com/course/hack-like-a-pro-kali-linux-and-system-vulnerabilities-quiz/?couponCode=7A2BA8A91796D3FD4782) |
 | Network Security Protocols, Architecture, and Defense | ⚠️ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=D2C162632FA479A54CA8) |
-| Cybersecurity Essentials Quiz: Are You Ready to Defend? | ✅ | [Link](https://www.udemy.com/course/cybersecurity-essentials-quiz-are-you-ready-to-defend/?couponCode=9C0C4B45BC92C4F54CB9) |
-| Mega Pack: AZ-900, 104, 204, 305, 500, AI-102 Practice Tests | ✅ | [Link](https://www.udemy.com/course/mega-pack-az-900-104-204-305-500-ai-102-practice-tests/?couponCode=REALDISCOUNT2) |
-| ISO 42001 Lead Auditor: Auditing AI Management Systems | ✅ | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=84156C4C2697A1F10831) |
+| Cybersecurity Essentials Quiz: Are You Ready to Defend? | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-essentials-quiz-are-you-ready-to-defend/?couponCode=9C0C4B45BC92C4F54CB9) |
+| Mega Pack: AZ-900, 104, 204, 305, 500, AI-102 Practice Tests | ⚠️ | [Link](https://www.udemy.com/course/mega-pack-az-900-104-204-305-500-ai-102-practice-tests/?couponCode=REALDISCOUNT2) |
+| ISO 42001 Lead Auditor: Auditing AI Management Systems | ⚠️ | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=84156C4C2697A1F10831) |
 | Splunk Certified Cybersecurity Defense Analyst - Prep Exams | ✅ | [Link](https://www.udemy.com/course/splunk-certified-cybersecurity-defense-analyst-prep-exams/?couponCode=DED77AE15161A325324D) |
 | Splunk Core Certified Consultant - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-consultant-practice-exams/?couponCode=A611376EAC8ADECDD356) |
 | Splunk IT Service Intelligence Certified Admin - Prep Exams | ✅ | [Link](https://www.udemy.com/course/splunk-it-service-intelligence-certified-admin-prep-exams/?couponCode=24F2CFEAD3C26AF7D718) |
@@ -124,7 +124,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Splunk Enterprise Certified Admin - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-exams/?couponCode=8A1D31DF06743059B0BB) |
 | Splunk Core Certified Power User - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-d/?couponCode=63F4D271F8F44069CB3B) |
 | Splunk Core Certified User - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-user-practice-exams/?couponCode=CC02D01DF793C0186E93) |
-| Complete Ethical Hacking Masterclass | ✅ | [Link](https://www.udemy.com/course/top-course/?couponCode=217D3E4C23A701139C8C) |
+| Complete Ethical Hacking Masterclass | ⚠️ | [Link](https://www.udemy.com/course/top-course/?couponCode=217D3E4C23A701139C8C) |
 | Complete Network Hacking Course 2024 - Beginner to Advanced | ✅ | [Link](https://www.udemy.com/course/complete-network-hacking-course-2024-beginner-to-advanced/?couponCode=CYBERFORT) |
 | CISSP Certification Practice Exams [Unofficial] | ✅ | [Link](https://www.udemy.com/course/cissp-certification-practice-exams-unofficial/?couponCode=089A732A5EB678F4522D) |
 | CompTIA A+ Core 1 (220-1101) Hardware, Networking, Mobile | ✅ | [Link](https://www.udemy.com/course/comptia-a-core-1-220-1101-hardware-networking-mobile/?couponCode=F5DF065EFAE588793760) |
