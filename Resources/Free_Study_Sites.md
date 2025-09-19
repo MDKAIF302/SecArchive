@@ -18,3 +18,4 @@ A curated list of freely available platforms, notes, and study resources to lear
 | Academic Earth        |  ✅  | https://academicearth.org/      |
 | Limnology.co           |  ✅  | https://limnology.co/en |
 | FreeLearningList.org   |  ✅  | https://freelearninglist.org/     |
+| SecTube                           | ✅     | https://sectube.tv/                                                |
