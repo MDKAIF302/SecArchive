@@ -143,6 +143,13 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Oracle Database Administration II - Practice Exams | ✅ | [Link](https://www.udemy.com/course/oracle-database-administration-ii-practice-exams/?couponCode=SEP18FREE) |
 | Oracle Database Administration I - Practice Exams | ✅ | [Link](https://www.udemy.com/course/oracle-database-administration-i-practice-exams/?couponCode=AD0FF2F27F1938FC2C60) |
 | Oracle Database SQL Certified Associate - Practice Exams | ✅ | [Link](https://www.udemy.com/course/oracle-database-sql-certified-associate-practice-exams/?couponCode=E6BA98FA96223185462C) |
+| VMware Cloud Foundation 5.2 Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/vmware-cloud-foundation-52-administrator-practice-exams/?couponCode=SEP18FREE) |
+| VMware NSX 4.x Professional V2 Practice Exams (2025) | ✅ | [Link](https://www.udemy.com/course/vmware-nsx-4x-professional-v2-practice-exams-2025/?couponCode=SEP18FREE) |
+| VMware vSphere 8.x Professional Practice Exams 2025 | ✅ | [Link](https://www.udemy.com/course/vmware-vsphere-8x-professional-practice-exams-2025/?couponCode=SEP18FREE) |
+| VMware vSAN Specialist V2 Practice Exams | ✅ | [Link](https://www.udemy.com/course/vmware-vsan-specialist-v2-practice-exams/?couponCode=SEP18FREE) |
+| VMware vSphere with Tanzu Specialist Practice Exams | ✅ | [Link](https://www.udemy.com/course/vmware-vsphere-with-tanzu-specialist-practice-exams/?couponCode=SEP18FREE) |
+| VMware Horizon 8.x Professional Practice Exams | ✅ | [Link](https://www.udemy.com/course/vmware-horizon-8x-professional-practice-exams/?couponCode=SEP18FREE) |
+| VMware vSphere 8.x Advanced Design Practice Exams | ✅ | [Link](https://www.udemy.com/course/vmware-vsphere-8x-advanced-design-practice-exams/?couponCode=SEP18FREE) |
 
 
 
