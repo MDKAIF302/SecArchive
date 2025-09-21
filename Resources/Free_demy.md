@@ -150,6 +150,9 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | VMware vSphere with Tanzu Specialist Practice Exams | ✅ | [Link](https://www.udemy.com/course/vmware-vsphere-with-tanzu-specialist-practice-exams/?couponCode=SEP18FREE) |
 | VMware Horizon 8.x Professional Practice Exams | ✅ | [Link](https://www.udemy.com/course/vmware-horizon-8x-professional-practice-exams/?couponCode=SEP18FREE) |
 | VMware vSphere 8.x Advanced Design Practice Exams | ✅ | [Link](https://www.udemy.com/course/vmware-vsphere-8x-advanced-design-practice-exams/?couponCode=SEP18FREE) |
+| GIAC Certified Incident Handler (GCIH) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-certified-incident-handler-gcih-practice-exams-n/?couponCode=SEP21FREE) |
+| GIAC Security Leadership (GSLC) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-leadership-gslc-practice-exams/?couponCode=SEP21FREE) |
+| GIAC Certified Forensic Analyst (GCFA) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-certified-forensic-analyst-gcfa-practice-exams-r/?couponCode=SEP21FREE) |
 
 
 
