@@ -19,7 +19,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | The Ultimate BAC and IDOR Guide for Ethical Hacking                        | ⚠️     | [Link](https://www.udemy.com/course/the-ultimate-bac-and-idor-guide-for-ethical-hacking/?couponCode=A1ED7AF37002A40A600C) |
 | ISO 42001 Lead Auditor: Auditing AI Management Systems           | ⚠️     | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=32E184DCBB7BC3C34B3A) |
 | Red Team Mastery: Advanced Offensive Security                                | ⚠️     | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=3B6D3272B62D4E476C24) |
-| **SQLMap From Scratch for Ethical Hackers**       | ⚠️     | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=DCD44E7CE25CB85A580E) |
+| **SQLMap From Scratch for Ethical Hackers**       | ✅     | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=1E827891ABC1F0847B94) |
 | SOC Overview: Security Operations Center Intro | ✅     | [Link](https://www.udemy.com/course/soc-overview/)                                              |
 | Database Security & Privacy Fundamentals                | ✅     | [Link](https://www.udemy.com/course/database-security-privacy-fundamentals/)                      |
 | Reverse Engineering & Malware Analysis Fundamentals              | ⚠️     | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=RE-ENGINEERING-2025)     |
@@ -67,7 +67,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | CISSP 2025: 900 Practice Questions & Detailed Explanations | ⚠️     | [Link](https://www.udemy.com/course/cissp-900-practice-questions-detailed-explanations/?couponCode=D88A68B4736430C26410) |
 | Hacking the Human Mind: Social Engineering Fundamentals | ⚠️ | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=LEARNINSEPT) |
 | Become a Hydra Expert: Advanced Brute Forcing Techniques | ⚠️ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=LEARNINSEPT) |
-| Recon Ninja: Advanced Info Gathering for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=LEARNINSEPT) |
+| Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=DD18DF722582B7737FEA) |
 | Red Team Mastery: Advanced Offensive Security | ⚠️ | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=LEARNINSEPT) |
 | ISACA CCAK (Cloud Auditing Knowledge) Practice Exams 2025 | ✅ | [Link](https://www.udemy.com/course/isaca-ccak-cloud-auditing-knowledge-practice-exams-2025/?couponCode=SEP18FREE) |
 | ISACA CISM Certified Information Security Manager Prep Exams | ✅ | [Link](https://www.udemy.com/course/isaca-cism-certified-information-security-manager-prep-exams/?couponCode=SEP18FREE) |
@@ -124,7 +124,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Splunk Enterprise Certified Admin - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-exams/?couponCode=SEP21FREE) |
 | Splunk Core Certified Power User - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-d/?couponCode=SEP21FREE) |
 | Splunk Core Certified User - Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-user-practice-exams/?couponCode=SEP21FREE) |
-| Complete Ethical Hacking Masterclass | ⚠️ | [Link](https://www.udemy.com/course/top-course/?couponCode=217D3E4C23A701139C8C) |
+| Complete Ethical Hacking Masterclass | ✅ | [Link](https://www.udemy.com/course/top-course/?couponCode=0DC3B9F20ED1BACC587D) |
 | Complete Network Hacking Course 2024 - Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/complete-network-hacking-course-2024-beginner-to-advanced/?couponCode=CYBERFORT) |
 | CISSP Certification Practice Exams [Unofficial] | ⚠️ | [Link](https://www.udemy.com/course/cissp-certification-practice-exams-unofficial/?couponCode=089A732A5EB678F4522D) |
 | CompTIA A+ Core 1 (220-1101) Hardware, Networking, Mobile | ⚠️ | [Link](https://www.udemy.com/course/comptia-a-core-1-220-1101-hardware-networking-mobile/?couponCode=F5DF065EFAE588793760) |
@@ -153,6 +153,9 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | GIAC Certified Incident Handler (GCIH) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-certified-incident-handler-gcih-practice-exams-n/?couponCode=SEP21FREE) |
 | GIAC Security Leadership (GSLC) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-leadership-gslc-practice-exams/?couponCode=SEP21FREE) |
 | GIAC Certified Forensic Analyst (GCFA) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-certified-forensic-analyst-gcfa-practice-exams-r/?couponCode=SEP21FREE) |
+| GIAC Security Essentials (GSEC) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-essentials-gsec-practice-exams/?couponCode=SEP21FREE) |
+| ISO 27001:2022 Advanced ISMS Auditing Techniques Workshop | ✅ | [Link](https://www.udemy.com/course/iso-270012022-advanced-isms-auditing-techniques-workshop/?couponCode=B3B0561295743564310B) |
+
 
 
 
