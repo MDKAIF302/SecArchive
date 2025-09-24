@@ -66,7 +66,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | AZ-900: Microsoft Azure Fundamentals Practice Test | ⚠️ | [Link](https://www.udemy.com/course/azue-az-900-az-900-practice-test-exam-latest-questions/?couponCode=SEPOPEN0) |
 | CISSP 2025: 900 Practice Questions & Detailed Explanations | ⚠️     | [Link](https://www.udemy.com/course/cissp-900-practice-questions-detailed-explanations/?couponCode=D88A68B4736430C26410) |
 | Hacking the Human Mind: Social Engineering Fundamentals | ⚠️ | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=LEARNINSEPT) |
-| Become a Hydra Expert: Advanced Brute Forcing Techniques | ⚠️ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=LEARNINSEPT) |
+| Become a Hydra Expert: Advanced Brute Forcing Techniques | ✅ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=80CFFC6022CFB80265FF) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=DD18DF722582B7737FEA) |
 | Red Team Mastery: Advanced Offensive Security | ⚠️ | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=LEARNINSEPT) |
 | ISACA CCAK (Cloud Auditing Knowledge) Practice Exams 2025 | ✅ | [Link](https://www.udemy.com/course/isaca-ccak-cloud-auditing-knowledge-practice-exams-2025/?couponCode=SEP18FREE) |
@@ -105,7 +105,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Corporate Cyber Security Awareness for Employees 2022 | ⚠️ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=97FB3FB7C95F9A4754CD) |
 | NIST 800-30 Risk Assessment Step by Step | ⚠️ | [Link](https://www.udemy.com/course/nist-800-30-risk-assessment-step-by-step-w/?couponCode=AD25C708CAF22E497FE7) |
 | OWASP Top 10 for Mobile Apps 2025 Edition | ⚠️ | [Link](https://www.udemy.com/course/owasp-top-10-for-mobile-apps-2025-edition/?couponCode=492BE0DDBB43098D88B7) |
-| Become a Hydra Expert: Advanced Brute Forcing Techniques | ⚠️ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=5D5282DF0AFC4255B97A) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=F4D42AD2305511BEE577) |
 | Malware Analysis & Incident Response for IT Technicians | ⚠️ | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=67E8A4B49F0E8D6C63C1) |
 | Windows & Linux: A Cybersecurity Deep Dive | ⚠️ | [Link](https://www.udemy.com/course/windows-linux-a-cybersecurity-deep-dive/?couponCode=EBB264413B52FB5F9CDB) |
