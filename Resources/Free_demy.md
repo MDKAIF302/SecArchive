@@ -154,6 +154,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | GIAC Certified Forensic Analyst (GCFA) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-certified-forensic-analyst-gcfa-practice-exams-r/?couponCode=SEP21FREE) |
 | GIAC Security Essentials (GSEC) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-essentials-gsec-practice-exams/?couponCode=SEP21FREE) |
 | ISO 27001:2022 Advanced ISMS Auditing Techniques Workshop | ✅ | [Link](https://www.udemy.com/course/iso-270012022-advanced-isms-auditing-techniques-workshop/?couponCode=B3B0561295743564310B) |
+| Nmap — Mastery: Ultimate Guide to Network Scanning | ✅ | [Link](https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?couponCode=6EE550E40C4F4F21D3DA) |
 
 
 
