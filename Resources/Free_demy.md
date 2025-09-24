@@ -34,7 +34,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Kali Linux for Pentesters and Ethical Hackers – Exam 2025  | ⚠️     | [Link](https://www.udemy.com/course/kali-linux-for-pentesters-and-ethical-hackers-exam-2025-m/?couponCode=KALILINUX) |
 | Auditing ISO 27001:2022 – Technical Controls | ⚠️     | [Link](https://www.udemy.com/course/auditing-iso-270012022-technical-controls/?couponCode=4DEF1D7EEED030CB1EC8) |
 | Malware Analysis, Incident Response & Disaster Recovery   | ✅     | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=1D59ED3528438AB4A3A6) |
-| Metasploit from Scratch: Beginner to Professional | ⚠️     | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=01D66CDB22E5295746C7) |
+| Metasploit from Scratch: Beginner to Professional | ✅     | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=386694B63F007C906337) |
 | CompTIA A+ (220-1102) Core 2 Practice Tests            | ⚠️     | [Link](https://www.udemy.com/course/mhn-comptia-a-plus-220-1102-core-2-exam-prep-practice-tests/?couponCode=FIRST-FREE-COUPON) |
 | CompTIA Network+ (N10-007) Practice Tests          | ⚠️     | [Link](https://www.udemy.com/course/practice-test-comptia-network-n10-007/?couponCode=DC92920C699946402A96) |
 | OWASP API Security Top 10 (2021 & 2023) with Java Examples | ⚠️     | [Link](https://www.udemy.com/course/owasp-learnit/?couponCode=AUGUST_FREE3_2025)                     |
@@ -101,7 +101,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Certification in Cybersecurity and Data Analytics | ⚠️ | [Link](https://www.udemy.com/course/certification-in-cybersecurity-and-data-analytics/?couponCode=08B5303621937F61A7F5) |
 | Fundamentals of Cloud Computing | ⚠️ | [Link](https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?couponCode=95AC8A92AF941E5B9E2E) |
 | CISA Certified Information Systems Auditor 2025 | ⚠️ | [Link](https://www.udemy.com/course/cisa-certified-information-systems-auditor-2025/?couponCode=SEPOPEN1) |
-| Network Mastery for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=DEC72CC586A402768748) |
+| Network Mastery for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=A226EC58349C6C988FFC) |
 | Corporate Cyber Security Awareness for Employees 2022 | ⚠️ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=97FB3FB7C95F9A4754CD) |
 | NIST 800-30 Risk Assessment Step by Step | ⚠️ | [Link](https://www.udemy.com/course/nist-800-30-risk-assessment-step-by-step-w/?couponCode=AD25C708CAF22E497FE7) |
 | OWASP Top 10 for Mobile Apps 2025 Edition | ⚠️ | [Link](https://www.udemy.com/course/owasp-top-10-for-mobile-apps-2025-edition/?couponCode=492BE0DDBB43098D88B7) |
@@ -131,7 +131,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Reverse Engineering & Malware Analysis | ⚠️ | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=5-STAR-COURSE-PLEASE) |
 | AI-Powered Hacking with ChatGPT - All A.I. Dark Edition (2024) | ⚠️ | [Link](https://www.udemy.com/course/ai-powered-hacking-with-chatgpt-all-a-i-dark-edition-2024/?couponCode=36F26B925A48F68A1321) |
 | Advanced Blue Team Practice Test - Expertly Crafted MCQs (2024) | ⚠️ | [Link](https://www.udemy.com/course/advanced-blue-team-practice-test-expertly-crafted-mcqs-2024/?couponCode=A87A7A0074F31A39ED59) |
-| Web Hacking for Beginners | ⚠️ | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=3C41B9A646DE72BC744A) |
+| Web Hacking for Beginners | ✅ | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=DCCE939F9B38D8408F17) |
 | Implement GRC (Governance, Risk, Compliance) Step by Step | ✅ | [Link](https://www.udemy.com/course/implement-grc-governance-risk-compliance-step-by-step/?couponCode=A4CE1B893887EC3C1B4A) |
 | Palo Alto Networks PSE Strata System Engineer Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-pse-strata-system-engineer-practice-exams/?couponCode=SEP18FREE) |
 | Palo Alto Networks PCCSE Cloud Security Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-pccse-cloud-security-practice-exams/?couponCode=SEP18FREE) |
