@@ -51,7 +51,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | CompTIA IT Fundamentals+ (FC0-U61) Practice Test | ⚠️            | [Link](https://www.udemy.com/course/practice-test-comptia-it-fundamentals-fc0-u61/?couponCode=94711F799438DC72F81D)                      |
 | Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ⚠️  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=C184CB5F133B75CBB3F7) |
 | Ethically Hack the Planet Part 3 |  ⚠️  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=LEARNINSEPT) |
-| Ethically Hack the Planet Part 4          | ⚠️ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=LEARNINSEPT) |
+| Ethically Hack the Planet Part 4          | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=C2C0F94C2D48EE6D715A) |
 | CompTIA Project+ (PK0-005) Practice Exams – 2025   |  ⚠️  | [Link](https://www.udemy.com/course/comptia-project-pk0-005-practice-exams-2025-i/?couponCode=SEP18FREE) |
 | CompTIA Network+ (N10-009) Practice Exams – 2025                   | ⚠️     | [Link](https://www.udemy.com/course/comptia-network-n10-009-practice-exams-2025/?couponCode=SEP18FREE) |
 | CompTIA A+ Core 2 (220-1202) Practice Exams – 2025 | ⚠️     | [Link](https://www.udemy.com/course/comptia-a-core-2-220-1202-practice-exams-2025/?couponCode=SEP18FREE) |
@@ -80,14 +80,13 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Learn Subcontracting Process in SAP MM (SAP R/3)     |  ⚠️       | [Link](https://www.udemy.com/course/learn-subcontracting-process-in-sap-mm/)          |
 | Ethically Hack the Planet Part 1 | ⚠️  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=41F22684D46162FF88B2) |
 | Ethically Hack the Planet Part 2 |  ⚠️  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=8AB1D1585C5D04EC3582) |
-| EC-Council Certified Threat Intelligence Analyst Prep Exams | ⚠️  | [Link](https://www.udemy.com/course/ec-council-certified-threat-intelligence-analyst-prep-exams/?couponCode=FED746F0BAC8868742F9) |
-| EC-Council Certified CISO (CCISO) Practice Exams | ⚠️  | [Link](https://www.udemy.com/course/ec-council-certified-ciso-cciso-practice-exams/?couponCode=CB8CF55ECF71B198433C) |
-| EC-Council Certified Ethical Hacker (CEH) v13 Practice Exams | ⚠️  | [Link](https://www.udemy.com/course/ec-council-certified-ethical-hacker-v13-ceh-practice-exams/?couponCode=C4FE9E48AD85DC4FEA9D) |
-| EC-Council Computer Hacking Forensic Investigator (CHFI) Prep Exams | ⚠️  | [Link](https://www.udemy.com/course/ec-council-computer-hacking-forensic-investigator-prep-exams/?couponCode=3455A5E0D72E5DCE4902) |
-| EC-Council Certified Network Defender (CND) Practice Exams | ⚠️  | [Link](https://www.udemy.com/course/ec-council-certified-network-defender-cnd-practice-exams-e/?couponCode=F4E1830D80F45BA7D29F) |
-| EC-Council Certified Incident Handler (ECIH) Practice Exams | ⚠️  | [Link](https://www.udemy.com/course/ec-council-certified-incident-handler-ecih-practice-exams/?couponCode=268D66551E4BDF3533E1) |
-| EC-Council Certified SOC Analyst (CSA) Practice Exams | ⚠️  | [Link](https://www.udemy.com/course/ec-council-certified-soc-analyst-csa-practice-exams/?couponCode=0557CE8956C5D695E0A4) |
-| EC-Council Certified Cybersecurity Technician (CCT) Practice Exams | ⚠️  | [Link](https://www.udemy.com/course/ec-council-certified-cybersecurity-technician-practice-exams/?couponCode=C67533AF323A90498ED2) |
+| CHFI Exam Prep: Computer Hacking Forensic Investigator Prep | ✅ | [Link](https://www.udemy.com/course/computer-hacking-forensic-investigator-chfi-v/?couponCode=SEP26FREE) |
+| Certified Ethical Hacker (CEH) – Practice Exams | ✅ | [Link](https://www.udemy.com/course/eccouncil-exam-certified-ethical-hacker/?couponCode=SEP26FREE) |
+| Certified Network Defender (CND) – Practice Exams | ✅ | [Link](https://www.udemy.com/course/eccouncil-certified-network-defender-exam/?couponCode=SEP26FREE) |
+| EC-Council Certified SOC Analyst Exam Prep | ✅ | [Link](https://www.udemy.com/course/ec-council-certified-soc-analyst-exams/?couponCode=SEP26FREE) |
+| EC-Council Certified Incident Handler (ECIH) Practice Exams | ✅ | [Link](https://www.udemy.com/course/ec-council-certified-incident-handler/?couponCode=SEP26FREE) |
+| EC-Council Certified Threat Intelligence Analyst Exam Prep | ✅ | [Link](https://www.udemy.com/course/eccouncil-certified-threat-intelligence-analyst-exams/?couponCode=SEP26FREE) |
+| EC-Council Certified Chief Information Security Officer (CCISO) Exam Prep | ✅ | [Link](https://www.udemy.com/course/eccouncil-712-50-certified-chief-information-security-office/?couponCode=SEP26FREE) |
 | Master Network Security                                                      | ⚠️        | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STAR-GIVE)                            |
 | Computer Forensics and Digital Forensics Masterclass PRO+                    | ✅        | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=BEST-COURSE-OCSALY)   |
 | Cybersecurity: Start Career 2022 – The Complete Course                        | ⚠️        | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=21C39B007E5BC290FA1E)      |
@@ -132,11 +131,11 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Advanced Blue Team Practice Test - Expertly Crafted MCQs (2024) | ⚠️ | [Link](https://www.udemy.com/course/advanced-blue-team-practice-test-expertly-crafted-mcqs-2024/?couponCode=A87A7A0074F31A39ED59) |
 | Web Hacking for Beginners | ✅ | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=DCCE939F9B38D8408F17) |
 | Implement GRC (Governance, Risk, Compliance) Step by Step | ⚠️ | [Link](https://www.udemy.com/course/implement-grc-governance-risk-compliance-step-by-step/?couponCode=A4CE1B893887EC3C1B4A) |
-| Palo Alto Networks PSE Strata System Engineer Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-pse-strata-system-engineer-practice-exams/?couponCode=SEP18FREE) |
-| Palo Alto Networks PCCSE Cloud Security Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-pccse-cloud-security-practice-exams/?couponCode=SEP18FREE) |
-| Palo Alto Networks NGFW Engineer Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-ngfw-engineer-practice-exams/?couponCode=SEP18FREE) |
-| Palo Alto Networks PSE Prisma System Engineer Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-pse-prisma-system-engineer-practice-exams/?couponCode=SEP18FREE) |
-| Palo Alto Networks SSE Engineer Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-sse-engineer-practice-exams/?couponCode=SEP18FREE) |
+| Palo Alto Networks PSE Strata System Engineer Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-pse-strata-system-engineer-practice-exams/?couponCode=SEP25FREE) |
+| Palo Alto Networks PCCSE Cloud Security Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-pccse-cloud-security-practice-exams/?couponCode=SEP25FREE) |
+| Palo Alto Networks NGFW Engineer Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-ngfw-engineer-practice-exams/?couponCode=SEP25FREE) |
+| Palo Alto Networks PSE Prisma System Engineer Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-pse-prisma-system-engineer-practice-exams/?couponCode=SEP25FREE) |
+| Palo Alto Networks SSE Engineer Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-sse-engineer-practice-exams/?couponCode=SEP25FREE) |
 | Implement NIST Zero Trust Architecture (ZTA) Step by Step | ⚠️ | [Link](https://www.udemy.com/course/implement-nist-zero-trust-architecture-zta-step-by-step/?couponCode=F6B3D1DD79CFA779DF81) |
 | Oracle Database Administration II - Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/oracle-database-administration-ii-practice-exams/?couponCode=SEP18FREE) |
 | Oracle Database Administration I - Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/oracle-database-administration-i-practice-exams/?couponCode=AD0FF2F27F1938FC2C60) |
@@ -162,6 +161,10 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Nmap — Training | ✅ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=NMAP-OCSALY-2025) |
 | Assembly — Best | ✅ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=NASM-OCSALY-2025) |
 | Master Ethical Hacking & Cybersecurity: CEH+ Certification | ✅ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=MASTER-HACKER-OCSALY) |
+| GenAI Cybersecurity Solutions | ✅ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=893D9820F1E1662C5B59) |
+| Fortinet Azure Cloud Security Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-azure-cloud-security-administrator-practice-exams/?couponCode=1D66CE9340F33D51CA2B) |
+| Fortinet AWS Cloud Security Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-aws-cloud-security-administrator-practice-exams/?couponCode=9F578FD7AC9F2555D5F3) |
+| Fortinet FortiAnalyzer Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-fortianalyzer-74-administrator-practice-exams/?couponCode=18DE9F84A7CD402CB78B) |
 
 
 
