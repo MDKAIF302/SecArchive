@@ -165,6 +165,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Fortinet AWS Cloud Security Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-aws-cloud-security-administrator-practice-exams/?couponCode=9F578FD7AC9F2555D5F3) |
 | Fortinet FortiAnalyzer Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-fortianalyzer-74-administrator-practice-exams/?couponCode=18DE9F84A7CD402CB78B) |
 | Python Hacking (PyCEH) | ✅ | [Link](https://www.udemy.com/course/python-hacking-pyceh/?couponCode=5-STAR-REVIEW-PLS) |
+| Attacking and Defending Active Directory | ✅ | [Link](https://www.udemy.com/course/attacking-and-defending-active-directory/?couponCode=B08621179897AEE042C8) |
 
 
 
