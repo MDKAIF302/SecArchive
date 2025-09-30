@@ -166,6 +166,15 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Fortinet FortiAnalyzer Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-fortianalyzer-74-administrator-practice-exams/?couponCode=18DE9F84A7CD402CB78B) |
 | Python Hacking (PyCEH) | ✅ | [Link](https://www.udemy.com/course/python-hacking-pyceh/?couponCode=5-STAR-REVIEW-PLS) |
 | Attacking and Defending Active Directory | ✅ | [Link](https://www.udemy.com/course/attacking-and-defending-active-directory/?couponCode=B08621179897AEE042C8) |
+| Palo Alto Networks Certified Network Security Administrator (PCNSA) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-network-security-administrator-x/?couponCode=SEPFREELAST) |
+| Palo Alto Networks Prisma Certified Cloud Security Engineer (PCCSE) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-prisma-certified-cloud-security-engineer/?couponCode=SEPFREELAST) |
+| Palo Alto Networks Certified Detection and Remediation Analyst (PCDRA) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-detection-remediation-analyst/?couponCode=SEPFREELAST) |
+| Palo Alto Networks Certified Security Automation Engineer (PCSAE) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-security-automation-engineer/?couponCode=64E1CA11EBB3EAD77C02) |
+| CGEIT - Certified in the Governance of Enterprise IT Exams | ✅ | [Link](https://www.udemy.com/course/cgeit-certified-in-the-governance-of-enterprise-it-exams/?couponCode=SEPFREELAST) |
+| CISA - Certified Information Systems Auditor Exams | ✅ | [Link](https://www.udemy.com/course/cisa-certified-information-systems-auditor-exams/?couponCode=SEPFREELAST) |
+| CISM - Certified Information Security Manager Exams | ✅ | [Link](https://www.udemy.com/course/cism-certified-information-security-manager-exams/?couponCode=SEPFREELAST) |
+| CRISC - Certified in Risk and Information Systems Control Exam | ✅ | [Link](https://www.udemy.com/course/crisc-certified-in-risk-and-information-systems-control-exam-qog/?couponCode=SEPFREELAST) |
+| ISO/IEC 27001: Security Guidelines for Organizational Users | ✅ | [Link](https://www.udemy.com/course/isoiec-27001-security-guidelines-for-organizational-users/?couponCode=I-M-SAFE) |
 
 
 
