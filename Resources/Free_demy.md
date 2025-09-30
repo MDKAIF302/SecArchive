@@ -10,7 +10,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Burp Suite: In-Depth Survival Guide      | ⚠️     | [Link](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7)       |
 | The NIST Privacy Framework: A Step-by-Step Implementation | ⚠️     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=3D86C22455EB987F746D) |
 | Practical IoT Security and Penetration Testing for Beginners | ⚠️  | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
-| Red Teaming Exploit Development with Assembly and C (Shellcode) | ✅     | [Link](https://www.udemy.com/course/shellcode/?couponCode=REDTEAM-OCSALY-2025)                      |
+| Red Teaming Exploit Development with Assembly and C (Shellcode) | ⚠️     | [Link](https://www.udemy.com/course/shellcode/?couponCode=REDTEAM-OCSALY-2025)                      |
 | Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ⚠️     | [Link](https://www.udemy.com/course/real_pentest/?couponCode=5-STAR-HACKING)                    |
 | Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts               | ⚠️     | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=5-G-5-STAR-PLEASE) |
 | Web Hacking For Beginners — Unlocking the Secrets of Web Security         | ⚠️     | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=09515B48FDEE55F0A758) |
@@ -22,12 +22,12 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | **SQLMap From Scratch for Ethical Hackers**       | ⚠️     | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=1E827891ABC1F0847B94) |
 | SOC Overview: Security Operations Center Intro | ✅     | [Link](https://www.udemy.com/course/soc-overview/)                                              |
 | Database Security & Privacy Fundamentals                | ✅     | [Link](https://www.udemy.com/course/database-security-privacy-fundamentals/)                      |
-| Reverse Engineering & Malware Analysis Fundamentals              | ✅     | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=REVERSE-OCSALY-2025)     |
+| Reverse Engineering & Malware Analysis Fundamentals              | ⚠️     | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=REVERSE-OCSALY-2025)     |
 | Gen AI Security Foundations      | ✅     | [Link](https://www.udemy.com/course/gen-ai-security-foundations/)                            |
 | Cyber Security & Ethical Hacking Online Course     | ⚠️     | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=5F513B54BB447C91BDA5) |
 | Mastering Software Defined Radio (SDR): GNU Radio and SDR++                   | ⚠️     | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=5-STAR-COURSE-PLEASE)                               |
 | Wireshark: Master Packet Analysis & Ethical Hacking Tools   | ⚠️     | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=5-STAR-COURSE-PLEASE)     |
-| Mastering Network Security: Defending Against Cyber Threats | ✅     | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-OCSALY-2025)                 |
+| Mastering Network Security: Defending Against Cyber Threats | ⚠️     | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-OCSALY-2025)                 |
 | Cyber Security Fundamentals – Don’t Get Hacked | ✅     | [Link](https://www.udemy.com/course/cybersecuritydticourse/)          |
 | Introduction to Cloud Security       | ⚠️     | [Link](https://www.udemy.com/course/introduction-to-cloud-security/)                                           |
 | CompTIA IT Fundamentals Exam FC0-U61 Simplified      | ⚠️     | [Link](https://www.udemy.com/course/comptia-it-fundamentals-simplified/?couponCode=76261A3190E3313CFB68)       |
@@ -50,8 +50,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Offensive Security Pathway – Beginner to Offensive General |  ⚠️ | [Link](https://www.udemy.com/course/offensive-security-pathway/?couponCode=18621BC80F9308FC52E8) |
 | CompTIA IT Fundamentals+ (FC0-U61) Practice Test | ⚠️            | [Link](https://www.udemy.com/course/practice-test-comptia-it-fundamentals-fc0-u61/?couponCode=94711F799438DC72F81D)                      |
 | Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ⚠️  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=C184CB5F133B75CBB3F7) |
-| Ethically Hack the Planet Part 3 |  ✅  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=17C6182E53AD1D9446FF) |
-| Ethically Hack the Planet Part 4          | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=C2C0F94C2D48EE6D715A) |
 | CompTIA Project+ (PK0-005) Practice Exams – 2025   |  ⚠️  | [Link](https://www.udemy.com/course/comptia-project-pk0-005-practice-exams-2025-i/?couponCode=SEP18FREE) |
 | CompTIA Network+ (N10-009) Practice Exams – 2025                   | ⚠️     | [Link](https://www.udemy.com/course/comptia-network-n10-009-practice-exams-2025/?couponCode=SEP18FREE) |
 | CompTIA A+ Core 2 (220-1202) Practice Exams – 2025 | ⚠️     | [Link](https://www.udemy.com/course/comptia-a-core-2-220-1202-practice-exams-2025/?couponCode=SEP18FREE) |
@@ -86,9 +84,9 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | EC-Council Certified SOC Analyst Exam Prep | ✅ | [Link](https://www.udemy.com/course/ec-council-certified-soc-analyst-exams/?couponCode=SEP26FREE) |
 | EC-Council Certified Incident Handler (ECIH) Practice Exams | ✅ | [Link](https://www.udemy.com/course/ec-council-certified-incident-handler/?couponCode=SEP26FREE) |
 | EC-Council Certified Threat Intelligence Analyst Exam Prep | ✅ | [Link](https://www.udemy.com/course/eccouncil-certified-threat-intelligence-analyst-exams/?couponCode=SEP26FREE) |
-| EC-Council Certified Chief Information Security Officer (CCISO) Exam Prep | ✅ | [Link](https://www.udemy.com/course/eccouncil-712-50-certified-chief-information-security-office/?couponCode=SEP26FREE) |
+| EC-Council Certified Chief Information Security Officer (CCISO) Exam Prep | ⚠️ | [Link](https://www.udemy.com/course/eccouncil-712-50-certified-chief-information-security-office/?couponCode=SEP26FREE) |
 | Master Network Security                                                      | ⚠️        | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STAR-GIVE)                            |
-| Computer Forensics and Digital Forensics Masterclass PRO+                    | ✅        | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=BEST-COURSE-OCSALY)   |
+| Computer Forensics and Digital Forensics Masterclass PRO+                    | ⚠️        | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=BEST-COURSE-OCSALY)   |
 | Cybersecurity: Start Career 2022 – The Complete Course                        | ⚠️        | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=21C39B007E5BC290FA1E)      |
 | Information Security Incident Management – Step by Step                       | ⚠️        | [Link](https://www.udemy.com/course/information-security-incident-management-step-by-step/?couponCode=CBC2DE40688631DA4F5D) |
 | ISC² CISSP & ISSAP Practice Exams                                            | ⚠️        | [Link](https://www.udemy.com/course/isc-cissp-issap-practice-exams/?couponCode=SEP20FREE)                     |
@@ -156,16 +154,16 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Certified Kubernetes Security Specialist (CKS) | ⚠️ | [Link](https://www.udemy.com/course/certified-kubernetes-security-specialist-cks-exam/?couponCode=D5C53935110D1FB60624) |
 | AI — Cyber Security Mastery | ⚠️ | [Link](https://www.udemy.com/course/ai-cyber-security-mastery/?couponCode=4991C70970BCD4EA8799) |
 | Personal Digital Security — Everyone Must Have Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=CE2F7C3AD5995BB80D12) |
-| Digital Forensics — Course | ✅ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=5-STAR-REVIEW_PLS) |
-| Nmap — Training | ✅ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=NMAP-OCSALY-2025) |
-| Assembly — Best | ✅ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=NASM-OCSALY-2025) |
+| Digital Forensics — Course | ⚠️ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=5-STAR-REVIEW_PLS) |
+| Nmap — Training | ⚠️ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=NMAP-OCSALY-2025) |
+| Assembly — Best | ⚠️ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=NASM-OCSALY-2025) |
 | Master Ethical Hacking & Cybersecurity: CEH+ Certification | ⚠️ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=MASTER-HACKER-OCSALY) |
 | GenAI Cybersecurity Solutions | ⚠️ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=893D9820F1E1662C5B59) |
 | Fortinet Azure Cloud Security Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-azure-cloud-security-administrator-practice-exams/?couponCode=1D66CE9340F33D51CA2B) |
 | Fortinet AWS Cloud Security Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-aws-cloud-security-administrator-practice-exams/?couponCode=9F578FD7AC9F2555D5F3) |
 | Fortinet FortiAnalyzer Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-fortianalyzer-74-administrator-practice-exams/?couponCode=18DE9F84A7CD402CB78B) |
-| Python Hacking (PyCEH) | ✅ | [Link](https://www.udemy.com/course/python-hacking-pyceh/?couponCode=5-STAR-REVIEW-PLS) |
-| Attacking and Defending Active Directory | ✅ | [Link](https://www.udemy.com/course/attacking-and-defending-active-directory/?couponCode=B08621179897AEE042C8) |
+| Python Hacking (PyCEH) | ⚠️ | [Link](https://www.udemy.com/course/python-hacking-pyceh/?couponCode=5-STAR-REVIEW-PLS) |
+| Attacking and Defending Active Directory | ⚠️ | [Link](https://www.udemy.com/course/attacking-and-defending-active-directory/?couponCode=B08621179897AEE042C8) |
 | Palo Alto Networks Certified Network Security Administrator (PCNSA) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-network-security-administrator-x/?couponCode=SEPFREELAST) |
 | Palo Alto Networks Prisma Certified Cloud Security Engineer (PCCSE) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-prisma-certified-cloud-security-engineer/?couponCode=SEPFREELAST) |
 | Palo Alto Networks Certified Detection and Remediation Analyst (PCDRA) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-detection-remediation-analyst/?couponCode=SEPFREELAST) |
