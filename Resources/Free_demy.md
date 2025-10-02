@@ -79,12 +79,12 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Learn Subcontracting Process in SAP MM (SAP R/3)     |  ⚠️       | [Link](https://www.udemy.com/course/learn-subcontracting-process-in-sap-mm/)          |
 | Ethically Hack the Planet Part 1 | ⚠️  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=41F22684D46162FF88B2) |
 | Ethically Hack the Planet Part 2 |  ⚠️  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=8AB1D1585C5D04EC3582) |
-| CHFI Exam Prep: Computer Hacking Forensic Investigator Prep | ✅ | [Link](https://www.udemy.com/course/computer-hacking-forensic-investigator-chfi-v/?couponCode=SEP26FREE) |
-| Certified Ethical Hacker (CEH) – Practice Exams | ✅ | [Link](https://www.udemy.com/course/eccouncil-exam-certified-ethical-hacker/?couponCode=SEP26FREE) |
-| Certified Network Defender (CND) – Practice Exams | ✅ | [Link](https://www.udemy.com/course/eccouncil-certified-network-defender-exam/?couponCode=SEP26FREE) |
-| EC-Council Certified SOC Analyst Exam Prep | ✅ | [Link](https://www.udemy.com/course/ec-council-certified-soc-analyst-exams/?couponCode=SEP26FREE) |
-| EC-Council Certified Incident Handler (ECIH) Practice Exams | ✅ | [Link](https://www.udemy.com/course/ec-council-certified-incident-handler/?couponCode=SEP26FREE) |
-| EC-Council Certified Threat Intelligence Analyst Exam Prep | ✅ | [Link](https://www.udemy.com/course/eccouncil-certified-threat-intelligence-analyst-exams/?couponCode=SEP26FREE) |
+| CHFI Exam Prep: Computer Hacking Forensic Investigator Prep | ⚠️ | [Link](https://www.udemy.com/course/computer-hacking-forensic-investigator-chfi-v/?couponCode=SEP26FREE) |
+| Certified Ethical Hacker (CEH) – Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/eccouncil-exam-certified-ethical-hacker/?couponCode=SEP26FREE) |
+| Certified Network Defender (CND) – Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/eccouncil-certified-network-defender-exam/?couponCode=SEP26FREE) |
+| EC-Council Certified SOC Analyst Exam Prep | ⚠️ | [Link](https://www.udemy.com/course/ec-council-certified-soc-analyst-exams/?couponCode=SEP26FREE) |
+| EC-Council Certified Incident Handler (ECIH) Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/ec-council-certified-incident-handler/?couponCode=SEP26FREE) |
+| EC-Council Certified Threat Intelligence Analyst Exam Prep | ⚠️ | [Link](https://www.udemy.com/course/eccouncil-certified-threat-intelligence-analyst-exams/?couponCode=SEP26FREE) |
 | EC-Council Certified Chief Information Security Officer (CCISO) Exam Prep | ⚠️ | [Link](https://www.udemy.com/course/eccouncil-712-50-certified-chief-information-security-office/?couponCode=SEP26FREE) |
 | Master Network Security                                                      | ⚠️        | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STAR-GIVE)                            |
 | Computer Forensics and Digital Forensics Masterclass PRO+                    | ⚠️        | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=BEST-COURSE-OCSALY)   |
