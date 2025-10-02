@@ -129,11 +129,11 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | AI-Powered Hacking with ChatGPT - All A.I. Dark Edition (2024) | ⚠️ | [Link](https://www.udemy.com/course/ai-powered-hacking-with-chatgpt-all-a-i-dark-edition-2024/?couponCode=36F26B925A48F68A1321) |
 | Advanced Blue Team Practice Test - Expertly Crafted MCQs (2024) | ⚠️ | [Link](https://www.udemy.com/course/advanced-blue-team-practice-test-expertly-crafted-mcqs-2024/?couponCode=A87A7A0074F31A39ED59) |
 | Implement GRC (Governance, Risk, Compliance) Step by Step | ⚠️ | [Link](https://www.udemy.com/course/implement-grc-governance-risk-compliance-step-by-step/?couponCode=A4CE1B893887EC3C1B4A) |
-| Palo Alto Networks PSE Strata System Engineer Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-pse-strata-system-engineer-practice-exams/?couponCode=SEP25FREE) |
-| Palo Alto Networks PCCSE Cloud Security Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-pccse-cloud-security-practice-exams/?couponCode=SEP25FREE) |
-| Palo Alto Networks NGFW Engineer Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-ngfw-engineer-practice-exams/?couponCode=SEP25FREE) |
-| Palo Alto Networks PSE Prisma System Engineer Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-pse-prisma-system-engineer-practice-exams/?couponCode=SEP25FREE) |
-| Palo Alto Networks SSE Engineer Practice Exams | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-sse-engineer-practice-exams/?couponCode=SEP25FREE) |
+| Palo Alto Networks PSE Strata System Engineer Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-pse-strata-system-engineer-practice-exams/?couponCode=SEP25FREE) |
+| Palo Alto Networks PCCSE Cloud Security Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-pccse-cloud-security-practice-exams/?couponCode=SEP25FREE) |
+| Palo Alto Networks NGFW Engineer Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-ngfw-engineer-practice-exams/?couponCode=SEP25FREE) |
+| Palo Alto Networks PSE Prisma System Engineer Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-pse-prisma-system-engineer-practice-exams/?couponCode=SEP25FREE) |
+| Palo Alto Networks SSE Engineer Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-sse-engineer-practice-exams/?couponCode=SEP25FREE) |
 | Implement NIST Zero Trust Architecture (ZTA) Step by Step | ⚠️ | [Link](https://www.udemy.com/course/implement-nist-zero-trust-architecture-zta-step-by-step/?couponCode=F6B3D1DD79CFA779DF81) |
 | Oracle Database Administration II - Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/oracle-database-administration-ii-practice-exams/?couponCode=SEP18FREE) |
 | Oracle Database Administration I - Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/oracle-database-administration-i-practice-exams/?couponCode=AD0FF2F27F1938FC2C60) |
