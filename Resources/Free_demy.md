@@ -160,9 +160,9 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Assembly — Best | ⚠️ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=NASM-OCSALY-2025) |
 | Master Ethical Hacking & Cybersecurity: CEH+ Certification | ⚠️ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=MASTER-HACKER-OCSALY) |
 | GenAI Cybersecurity Solutions | ⚠️ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=893D9820F1E1662C5B59) |
-| Fortinet Azure Cloud Security Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-azure-cloud-security-administrator-practice-exams/?couponCode=1D66CE9340F33D51CA2B) |
-| Fortinet AWS Cloud Security Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-aws-cloud-security-administrator-practice-exams/?couponCode=9F578FD7AC9F2555D5F3) |
-| Fortinet FortiAnalyzer Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-fortianalyzer-74-administrator-practice-exams/?couponCode=18DE9F84A7CD402CB78B) |
+| Fortinet Azure Cloud Security Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-azure-cloud-security-administrator-practice-exams/?couponCode=OCT01FREEB1) |
+| Fortinet AWS Cloud Security Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-aws-cloud-security-administrator-practice-exams/?couponCode=OCT01FREEB1) |
+| Fortinet FortiAnalyzer Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-fortianalyzer-74-administrator-practice-exams/?couponCode=OCT01FREEB1) |
 | Python Hacking (PyCEH) | ⚠️ | [Link](https://www.udemy.com/course/python-hacking-pyceh/?couponCode=5-STAR-REVIEW-PLS) |
 | Attacking and Defending Active Directory | ⚠️ | [Link](https://www.udemy.com/course/attacking-and-defending-active-directory/?couponCode=B08621179897AEE042C8) |
 | Palo Alto Networks Certified Network Security Administrator (PCNSA) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-network-security-administrator-x/?couponCode=SEPFREELAST) |
