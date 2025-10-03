@@ -13,7 +13,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Red Teaming Exploit Development with Assembly and C (Shellcode) | ⚠️     | [Link](https://www.udemy.com/course/shellcode/?couponCode=REDTEAM-OCSALY-2025)                      |
 | Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ⚠️     | [Link](https://www.udemy.com/course/real_pentest/?couponCode=5-STAR-HACKING)                    |
 | Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts               | ⚠️     | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=5-G-5-STAR-PLEASE) |
-| Web Hacking For Beginners — Unlocking the Secrets of Web Security         | ✅     | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=BE12C0BC98BE384AFC83) |
+| Web Hacking For Beginners — Unlocking the Secrets of Web Security         | ⚠️     | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=BE12C0BC98BE384AFC83) |
 | Cyber Security Fundamentals – Don’t Get Hacked | ✅   | [Link](https://www.udemy.com/course/cybersecuritydticourse/)                          |
 | API Security Testing Guide by The XSS Rat                                 | ⚠️     | [Link](https://www.udemy.com/course/uncle-rats-api-security-testing-guide/?couponCode=05795A30DFF56FA7F08B) |
 | The Ultimate BAC and IDOR Guide for Ethical Hacking                        | ⚠️     | [Link](https://www.udemy.com/course/the-ultimate-bac-and-idor-guide-for-ethical-hacking/?couponCode=A1ED7AF37002A40A600C) |
@@ -99,7 +99,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Certification in Cybersecurity and Data Analytics | ⚠️ | [Link](https://www.udemy.com/course/certification-in-cybersecurity-and-data-analytics/?couponCode=08B5303621937F61A7F5) |
 | Fundamentals of Cloud Computing | ⚠️ | [Link](https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?couponCode=95AC8A92AF941E5B9E2E) |
 | CISA Certified Information Systems Auditor 2025 | ⚠️ | [Link](https://www.udemy.com/course/cisa-certified-information-systems-auditor-2025/?couponCode=SEPOPEN1) |
-| Network Mastery for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=FAF0FD381FC7C3D105AF) |
+| Network Mastery for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=FAF0FD381FC7C3D105AF) |
 | Corporate Cyber Security Awareness for Employees 2022 | ⚠️ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=97FB3FB7C95F9A4754CD) |
 | NIST 800-30 Risk Assessment Step by Step | ⚠️ | [Link](https://www.udemy.com/course/nist-800-30-risk-assessment-step-by-step-w/?couponCode=AD25C708CAF22E497FE7) |
 | OWASP Top 10 for Mobile Apps 2025 Edition | ⚠️ | [Link](https://www.udemy.com/course/owasp-top-10-for-mobile-apps-2025-edition/?couponCode=492BE0DDBB43098D88B7) |
@@ -173,14 +173,13 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | CISA - Certified Information Systems Auditor Exams | ✅ | [Link](https://www.udemy.com/course/cisa-certified-information-systems-auditor-exams/?couponCode=SEPFREELAST) |
 | CISM - Certified Information Security Manager Exams | ✅ | [Link](https://www.udemy.com/course/cism-certified-information-security-manager-exams/?couponCode=SEPFREELAST) |
 | CRISC - Certified in Risk and Information Systems Control Exam | ✅ | [Link](https://www.udemy.com/course/crisc-certified-in-risk-and-information-systems-control-exam-qog/?couponCode=SEPFREELAST) |
-| ISO/IEC 27001: Security Guidelines for Organizational Users | ✅ | [Link](https://www.udemy.com/course/isoiec-27001-security-guidelines-for-organizational-users/?couponCode=I-M-SAFE) |
+| ISO/IEC 27001: Security Guidelines for Organizational Users | ⚠️ | [Link](https://www.udemy.com/course/isoiec-27001-security-guidelines-for-organizational-users/?couponCode=I-M-SAFE) |
 | Practice Tests for Certified Information System Auditor (CISA) | ✅ | [Link](https://www.udemy.com/course/cisa-exam-questions-for-2023-06-full-hard-test/?couponCode=OCTOPEN0) |
 | Ultimate RHCE Professional Certification Exam | ✅ | [Link](https://www.udemy.com/course/ultimate-rhce-professional-certification-exam/?couponCode=HACKER002) |
 | CEH v12 Professional Exam | ✅ | [Link](https://www.udemy.com/course/ceh-v12-professional-exam/?couponCode=HACKER002) |
-| Burp Suite Mastery: From Beginner to Advanced | ✅ | [Link](https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=94AE37B9D745EB058AC1) |
-| Nmap Mastery: Ultimate Guide to Network Scanning | ✅ | [Link](https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?couponCode=44F05F5E298D433AFE92) |
-| Metasploit From Scratch - Beginner to Professional | ✅ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=9B632E3FCB385A62E2EF) |
-| Network Mastery for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=FAF0FD381FC7C3D105AF) |
+| Burp Suite Mastery: From Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=94AE37B9D745EB058AC1) |
+| Nmap Mastery: Ultimate Guide to Network Scanning | ⚠️ | [Link](https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?couponCode=44F05F5E298D433AFE92) |
+| Metasploit From Scratch - Beginner to Professional | ⚠️ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=9B632E3FCB385A62E2EF) |
 | AI Powered Hacking with ChatGPT - All A.I. Dark Edition 2024 | ✅ | [Link](https://www.udemy.com/course/ai-powered-hacking-with-chatgpt-all-a-i-dark-edition-2024/?couponCode=17A0EBA1EAAC345A1542) |
 | Mastering Nmap Commands / Network Scanning Practice Pro | ✅ | [Link](https://www.udemy.com/course/mastering-nmap-commandsnetwork-scanning-practice-pro/?couponCode=4FCCAA7BDE952B693911) |
 
