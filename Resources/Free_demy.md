@@ -8,7 +8,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Udemy Free Resource Center |  ✅  | [Link](https://www.udemy.com/courses/free/) |
 | Cyber Security Awareness Training Course For Beginners 2025 | ✅     | [Link](https://www.udemy.com/course/cyber-security-awareness-training-course/?LSNPUBID=0F1O0otUXQc&ranMID=47901&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-eC0dWwM5rIN3hFs2pgxSDg) |
 | Burp Suite: In-Depth Survival Guide      | ⚠️     | [Link](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7)       |
-| The NIST Privacy Framework: A Step-by-Step Implementation | ⚠️     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=3D86C22455EB987F746D) |
+| The NIST Privacy Framework: A Step-by-Step Implementation | ✅     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=2542EA3F98C76CC88EDE) |
 | Practical IoT Security and Penetration Testing for Beginners | ⚠️  | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
 | Red Teaming Exploit Development with Assembly and C (Shellcode) | ⚠️     | [Link](https://www.udemy.com/course/shellcode/?couponCode=REDTEAM-OCSALY-2025)                      |
 | Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ⚠️     | [Link](https://www.udemy.com/course/real_pentest/?couponCode=5-STAR-HACKING)                    |
@@ -65,7 +65,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | CISSP 2025: 900 Practice Questions & Detailed Explanations | ⚠️     | [Link](https://www.udemy.com/course/cissp-900-practice-questions-detailed-explanations/?couponCode=D88A68B4736430C26410) |
 | Hacking the Human Mind: Social Engineering Fundamentals | ⚠️ | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=LEARNINSEPT) |
 | Become a Hydra Expert: Advanced Brute Forcing Techniques | ⚠️ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=80CFFC6022CFB80265FF) |
-| Recon Ninja: Advanced Info Gathering for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=DD18DF722582B7737FEA) |
+| Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=745BA4CC8747FA3356CC) |
 | Red Team Mastery: Advanced Offensive Security | ⚠️ | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=LEARNINSEPT) |
 | ISACA CCAK (Cloud Auditing Knowledge) Practice Exams 2025 | ✅ | [Link](https://www.udemy.com/course/isaca-ccak-cloud-auditing-knowledge-practice-exams-2025/?couponCode=OCT01FREE) |
 | ISACA CISM Certified Information Security Manager Prep Exams | ✅ | [Link](https://www.udemy.com/course/isaca-cism-certified-information-security-manager-prep-exams/?couponCode=OCT01FREE) |
@@ -181,6 +181,8 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Nmap Mastery: Ultimate Guide to Network Scanning | ✅ | [Link](https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?couponCode=44F05F5E298D433AFE92) |
 | Metasploit From Scratch - Beginner to Professional | ✅ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=9B632E3FCB385A62E2EF) |
 | Network Mastery for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=FAF0FD381FC7C3D105AF) |
+| AI Powered Hacking with ChatGPT - All A.I. Dark Edition 2024 | ✅ | [Link](https://www.udemy.com/course/ai-powered-hacking-with-chatgpt-all-a-i-dark-edition-2024/?couponCode=17A0EBA1EAAC345A1542) |
+| Mastering Nmap Commands / Network Scanning Practice Pro | ✅ | [Link](https://www.udemy.com/course/mastering-nmap-commandsnetwork-scanning-practice-pro/?couponCode=4FCCAA7BDE952B693911) |
 
 
 
