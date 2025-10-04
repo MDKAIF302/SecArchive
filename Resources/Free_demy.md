@@ -24,7 +24,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Database Security & Privacy Fundamentals                | ✅     | [Link](https://www.udemy.com/course/database-security-privacy-fundamentals/)                      |
 | Reverse Engineering & Malware Analysis Fundamentals              | ⚠️     | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=REVERSE-OCSALY-2025)     |
 | Gen AI Security Foundations      | ✅     | [Link](https://www.udemy.com/course/gen-ai-security-foundations/)                            |
-| Cyber Security & Ethical Hacking Online Course     | ⚠️     | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=5F513B54BB447C91BDA5) |
+| Cyber Security & Ethical Hacking Online Course     | ✅     | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=754F452F98438350512B) |
 | Mastering Software Defined Radio (SDR): GNU Radio and SDR++                   | ⚠️     | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=5-STAR-COURSE-PLEASE)                               |
 | Wireshark: Master Packet Analysis & Ethical Hacking Tools   | ⚠️     | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=5-STAR-COURSE-PLEASE)     |
 | Mastering Network Security: Defending Against Cyber Threats | ⚠️     | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-OCSALY-2025)                 |
