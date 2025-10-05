@@ -24,7 +24,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Database Security & Privacy Fundamentals                | ✅     | [Link](https://www.udemy.com/course/database-security-privacy-fundamentals/)                      |
 | Reverse Engineering & Malware Analysis Fundamentals              | ⚠️     | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=REVERSE-OCSALY-2025)     |
 | Gen AI Security Foundations      | ✅     | [Link](https://www.udemy.com/course/gen-ai-security-foundations/)                            |
-| Cyber Security & Ethical Hacking Online Course     | ✅     | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=754F452F98438350512B) |
+| Cyber Security & Ethical Hacking Online Course     | ⚠️     | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=754F452F98438350512B) |
 | Mastering Software Defined Radio (SDR): GNU Radio and SDR++                   | ⚠️     | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=5-STAR-COURSE-PLEASE)                               |
 | Wireshark: Master Packet Analysis & Ethical Hacking Tools   | ⚠️     | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=5-STAR-COURSE-PLEASE)     |
 | Mastering Network Security: Defending Against Cyber Threats | ⚠️     | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-OCSALY-2025)                 |
@@ -65,7 +65,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | CISSP 2025: 900 Practice Questions & Detailed Explanations | ⚠️     | [Link](https://www.udemy.com/course/cissp-900-practice-questions-detailed-explanations/?couponCode=D88A68B4736430C26410) |
 | Hacking the Human Mind: Social Engineering Fundamentals | ⚠️ | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=LEARNINSEPT) |
 | Become a Hydra Expert: Advanced Brute Forcing Techniques | ⚠️ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=80CFFC6022CFB80265FF) |
-| Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=745BA4CC8747FA3356CC) |
+| Recon Ninja: Advanced Info Gathering for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=745BA4CC8747FA3356CC) |
 | Red Team Mastery: Advanced Offensive Security | ⚠️ | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=LEARNINSEPT) |
 | ISACA CCAK (Cloud Auditing Knowledge) Practice Exams 2025 | ✅ | [Link](https://www.udemy.com/course/isaca-ccak-cloud-auditing-knowledge-practice-exams-2025/?couponCode=OCT01FREE) |
 | ISACA CISM Certified Information Security Manager Prep Exams | ✅ | [Link](https://www.udemy.com/course/isaca-cism-certified-information-security-manager-prep-exams/?couponCode=OCT01FREE) |
@@ -165,14 +165,14 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Fortinet FortiAnalyzer Administrator Practice Exams | ✅ | [Link](https://www.udemy.com/course/fortinet-fortianalyzer-74-administrator-practice-exams/?couponCode=OCT01FREEB1) |
 | Python Hacking (PyCEH) | ⚠️ | [Link](https://www.udemy.com/course/python-hacking-pyceh/?couponCode=5-STAR-REVIEW-PLS) |
 | Attacking and Defending Active Directory | ⚠️ | [Link](https://www.udemy.com/course/attacking-and-defending-active-directory/?couponCode=B08621179897AEE042C8) |
-| Palo Alto Networks Certified Network Security Administrator (PCNSA) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-network-security-administrator-x/?couponCode=SEPFREELAST) |
-| Palo Alto Networks Prisma Certified Cloud Security Engineer (PCCSE) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-prisma-certified-cloud-security-engineer/?couponCode=SEPFREELAST) |
-| Palo Alto Networks Certified Detection and Remediation Analyst (PCDRA) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-detection-remediation-analyst/?couponCode=SEPFREELAST) |
-| Palo Alto Networks Certified Security Automation Engineer (PCSAE) | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-security-automation-engineer/?couponCode=64E1CA11EBB3EAD77C02) |
-| CGEIT - Certified in the Governance of Enterprise IT Exams | ✅ | [Link](https://www.udemy.com/course/cgeit-certified-in-the-governance-of-enterprise-it-exams/?couponCode=SEPFREELAST) |
-| CISA - Certified Information Systems Auditor Exams | ✅ | [Link](https://www.udemy.com/course/cisa-certified-information-systems-auditor-exams/?couponCode=SEPFREELAST) |
-| CISM - Certified Information Security Manager Exams | ✅ | [Link](https://www.udemy.com/course/cism-certified-information-security-manager-exams/?couponCode=SEPFREELAST) |
-| CRISC - Certified in Risk and Information Systems Control Exam | ✅ | [Link](https://www.udemy.com/course/crisc-certified-in-risk-and-information-systems-control-exam-qog/?couponCode=SEPFREELAST) |
+| Palo Alto Networks Certified Network Security Administrator (PCNSA) | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-network-security-administrator-x/?couponCode=SEPFREELAST) |
+| Palo Alto Networks Prisma Certified Cloud Security Engineer (PCCSE) | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-prisma-certified-cloud-security-engineer/?couponCode=SEPFREELAST) |
+| Palo Alto Networks Certified Detection and Remediation Analyst (PCDRA) | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-detection-remediation-analyst/?couponCode=SEPFREELAST) |
+| Palo Alto Networks Certified Security Automation Engineer (PCSAE) | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-security-automation-engineer/?couponCode=64E1CA11EBB3EAD77C02) |
+| CGEIT - Certified in the Governance of Enterprise IT Exams | ⚠️ | [Link](https://www.udemy.com/course/cgeit-certified-in-the-governance-of-enterprise-it-exams/?couponCode=SEPFREELAST) |
+| CISA - Certified Information Systems Auditor Exams | ⚠️ | [Link](https://www.udemy.com/course/cisa-certified-information-systems-auditor-exams/?couponCode=SEPFREELAST) |
+| CISM - Certified Information Security Manager Exams | ⚠️ | [Link](https://www.udemy.com/course/cism-certified-information-security-manager-exams/?couponCode=SEPFREELAST) |
+| CRISC - Certified in Risk and Information Systems Control Exam | ⚠️ | [Link](https://www.udemy.com/course/crisc-certified-in-risk-and-information-systems-control-exam-qog/?couponCode=SEPFREELAST) |
 | ISO/IEC 27001: Security Guidelines for Organizational Users | ⚠️ | [Link](https://www.udemy.com/course/isoiec-27001-security-guidelines-for-organizational-users/?couponCode=I-M-SAFE) |
 | Practice Tests for Certified Information System Auditor (CISA) | ✅ | [Link](https://www.udemy.com/course/cisa-exam-questions-for-2023-06-full-hard-test/?couponCode=OCTOPEN0) |
 | Ultimate RHCE Professional Certification Exam | ✅ | [Link](https://www.udemy.com/course/ultimate-rhce-professional-certification-exam/?couponCode=HACKER002) |
