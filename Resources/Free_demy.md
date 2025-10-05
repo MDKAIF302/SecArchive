@@ -182,6 +182,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Metasploit From Scratch - Beginner to Professional | ⚠️ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=9B632E3FCB385A62E2EF) |
 | AI Powered Hacking with ChatGPT - All A.I. Dark Edition 2024 | ✅ | [Link](https://www.udemy.com/course/ai-powered-hacking-with-chatgpt-all-a-i-dark-edition-2024/?couponCode=17A0EBA1EAAC345A1542) |
 | Mastering Nmap Commands / Network Scanning Practice Pro | ✅ | [Link](https://www.udemy.com/course/mastering-nmap-commandsnetwork-scanning-practice-pro/?couponCode=4FCCAA7BDE952B693911) |
+| Cybersecurity Stories: Learn from Real World Experience | ✅ | [Link](https://www.udemy.com/course/cybersecurity-stories-learn-from-real-world-experience/?couponCode=CFF6086CD3DE30EE9CF1) |
 
 
 
