@@ -19,3 +19,4 @@ A curated list of freely available platforms, notes, and study resources to lear
 | Limnology.co           |  ✅  | https://limnology.co/en |
 | FreeLearningList.org   |  ✅  | https://freelearninglist.org/     |
 | SecTube                           | ✅     | https://sectube.tv/                                                |
+| CyberSources                     | ✅     | https://www.cybersources.site/                                    |
