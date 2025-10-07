@@ -41,7 +41,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Mastering Linux: The Complete Guide to Becoming a Linux Pro | ⚠️     | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-5-STAR-PLS) |
 | NIST Incident Management: A Step-by-Step Guide     | ⚠️     | [Link](https://www.udemy.com/course/the-nist-incident-management-a-step-by-step-guide/?couponCode=9B59A7A9E9C76B6D9F1B) |
 | Growth Hacking Certification for Startups – Scale Smarter |  ⚠️ | [Link](https://www.udemy.com/course/growth-hacking-certification-for-startups-scale-smarter/?couponCode=AUG-FREE) |
-| Start Career in CyberSecurity – The Ultimate Guide | ⚠️     | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=E79FCCC897C5A648BFF2) |
+| Start Career in CyberSecurity – The Ultimate Guide | ✅     | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=3577EE900F11B352E9C9) |
 | Web3 & Blockchain Security: Pen Testing & Bug Bounty (Part 1)        | ⚠️     | [Link](https://www.udemy.com/course/web3-and-blockchain-securitypen-testing-bug-bounty-part1/?couponCode=31D116F31539AAC26197) |
 | Mastering Active Directory in a Home Lab | ✅     | [Link](https://www.udemy.com/course/mastering-active-directory-in-a-home-lab/)     |
 | Computer Networking Basics for Desktop Support Technicians | ⚠️     | [Link](https://www.udemy.com/course/computer-networking-basics-for-desktop-support-technicians/?couponCode=BCBB6B9C75E567FF0E76) |
@@ -190,6 +190,8 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Cyber Security 101 | ✅ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DISCUDEMY.COM) |
 | Corporate Cyber Security Awareness for Employees | ✅ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=D9B0267B879636E0FD47) |
 | Chief Technology Officer (CTO) Mastery Program | ✅ | [Link](https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=OCT_FREE_01) |
+| Online Safety: Cybersecurity Health & Scam Prevention | ✅ | [Link](https://www.udemy.com/course/online-safety-cybersecurity-health-scam-prevention/?couponCode=C88A479D7E2AD79C7F58) |
+| Mastering Cybersecurity: Essential Knowledge and Techniques | ✅ | [Link](https://www.udemy.com/course/mastering-cybersecurity-essential-knowledge-and-techniques/?couponCode=80B2A67D91BAB74C0AF0) |
 
 
 
