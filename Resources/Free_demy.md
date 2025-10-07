@@ -186,9 +186,10 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Cybersecurity Mastery: Hacking Techniques | ✅ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM4) |
 | PHP REST API Cybersecurity | ✅ | [Link](https://www.udemy.com/course/php-rest-api-cybersecurity/?couponCode=10CYBERSECURITY1) |
 | Cybersecurity 101: Foundations for Absolute Beginners | ✅ | [Link](https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=OCT_FREE_01) |
-| Cybersecurity 101: Foundations for Absolute Beginners | ✅ | [Link](https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=OCT_FREE_01) |
 | Cyber Kill Chain: From Attack to Defense in Cybersecurity | ✅ | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=572160B0DDD92A864287) |
 | Cyber Security 101 | ✅ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DISCUDEMY.COM) |
+| Corporate Cyber Security Awareness for Employees | ✅ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=D9B0267B879636E0FD47) |
+| Chief Technology Officer (CTO) Mastery Program | ✅ | [Link](https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=OCT_FREE_01) |
 
 
 
