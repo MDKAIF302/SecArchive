@@ -193,6 +193,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Webservices API Testing with Postman - Complete Guide | ✅ | [Link](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=OCTOBER_FREE_2025) |
 | Secure Coding: Security Best Practices in Web Applications | ✅ | [Link](https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=OCTOBER_FREE_2025) |
 | Kali Linux for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=LEARNINOCT) |
+| OWASP Security Testing of Web, API, Android & Source Code App | ✅ | [Link](https://www.udemy.com/course/end-to-end-security-testing-owasp-burp-suite-nmap-vooki/?couponCode=403175D5F91ECBF00569) |
 
 
 
