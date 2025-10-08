@@ -14,6 +14,7 @@ Community-driven notes and cheat sheets for various OffSec certifications includ
 | Awesome OSCP by 0x4D31         | ✅     | https://github.com/0x4D31/awesome-oscp                     |
 | Hemal Maniar OSCP Journey Blog | ✅     | https://hemal-maniar.github.io/oscp/2024/11/19/oscp-journey.html |
 | Emmanuel Solis OSCP Page       | ✅     | https://www.emmanuelsolis.com/oscp.html                    |
+| Aditya OSCP Guide              | ✅     | https://aditya-3.gitbook.io/oscp                           |
 
 ---
 
