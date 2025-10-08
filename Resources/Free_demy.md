@@ -49,7 +49,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Webservices API Testing with Postman – Complete Guide | ⚠️     | [Link](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=AUGUST_FREE3_2025) |
 | Offensive Security Pathway – Beginner to Offensive General |  ⚠️ | [Link](https://www.udemy.com/course/offensive-security-pathway/?couponCode=18621BC80F9308FC52E8) |
 | CompTIA IT Fundamentals+ (FC0-U61) Practice Test | ⚠️            | [Link](https://www.udemy.com/course/practice-test-comptia-it-fundamentals-fc0-u61/?couponCode=94711F799438DC72F81D)                      |
-| Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ⚠️  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=C184CB5F133B75CBB3F7) |
+| Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ✅  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=32AECAD7E284B2BAE903) |
 | CompTIA Project+ (PK0-005) Practice Exams – 2025   |  ⚠️  | [Link](https://www.udemy.com/course/comptia-project-pk0-005-practice-exams-2025-i/?couponCode=SEP18FREE) |
 | CompTIA Network+ (N10-009) Practice Exams – 2025                   | ⚠️     | [Link](https://www.udemy.com/course/comptia-network-n10-009-practice-exams-2025/?couponCode=SEP18FREE) |
 | CompTIA A+ Core 2 (220-1202) Practice Exams – 2025 | ⚠️     | [Link](https://www.udemy.com/course/comptia-a-core-2-220-1202-practice-exams-2025/?couponCode=SEP18FREE) |
@@ -88,7 +88,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | EC-Council Certified Chief Information Security Officer (CCISO) Exam Prep | ⚠️ | [Link](https://www.udemy.com/course/eccouncil-712-50-certified-chief-information-security-office/?couponCode=SEP26FREE) |
 | Master Network Security                                                      | ⚠️        | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STAR-GIVE)                            |
 | Computer Forensics and Digital Forensics Masterclass PRO+                    | ⚠️        | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=BEST-COURSE-OCSALY)   |
-| Cybersecurity: Start Career 2022 – The Complete Course                        | ⚠️        | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=21C39B007E5BC290FA1E)      |
 | Information Security Incident Management – Step by Step                       | ⚠️        | [Link](https://www.udemy.com/course/information-security-incident-management-step-by-step/?couponCode=CBC2DE40688631DA4F5D) |
 | ISC² CISSP & ISSAP Practice Exams                                            | ⚠️        | [Link](https://www.udemy.com/course/isc-cissp-issap-practice-exams/?couponCode=SEP20FREE)                     |
 | ISC² CISSP & ISSMP Practice Exams                                            | ⚠️        | [Link](https://www.udemy.com/course/isc-cissp-issmp-practice-exams/?couponCode=SEP20FREE)                     |
@@ -121,7 +120,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Splunk Enterprise Certified Admin - Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-exams/?couponCode=SEP21FREE) |
 | Splunk Core Certified Power User - Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-d/?couponCode=SEP21FREE) |
 | Splunk Core Certified User - Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/splunk-core-certified-user-practice-exams/?couponCode=SEP21FREE) |
-| Complete Ethical Hacking Masterclass | ⚠️ | [Link](https://www.udemy.com/course/top-course/?couponCode=0DC3B9F20ED1BACC587D) |
+| Complete Ethical Hacking Masterclass | ✅ | [Link](https://www.udemy.com/course/top-course/?couponCode=59F33FA9DDB2DA41C724) |
 | Complete Network Hacking Course 2024 - Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/complete-network-hacking-course-2024-beginner-to-advanced/?couponCode=CYBERFORT) |
 | CISSP Certification Practice Exams [Unofficial] | ⚠️ | [Link](https://www.udemy.com/course/cissp-certification-practice-exams-unofficial/?couponCode=089A732A5EB678F4522D) |
 | CompTIA A+ Core 1 (220-1101) Hardware, Networking, Mobile | ⚠️ | [Link](https://www.udemy.com/course/comptia-a-core-1-220-1101-hardware-networking-mobile/?couponCode=F5DF065EFAE588793760) |
@@ -149,8 +148,8 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | GIAC Security Leadership (GSLC) Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/giac-security-leadership-gslc-practice-exams/?couponCode=SEP21FREE) |
 | GIAC Certified Forensic Analyst (GCFA) Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/giac-certified-forensic-analyst-gcfa-practice-exams-r/?couponCode=SEP21FREE) |
 | GIAC Security Essentials (GSEC) Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/giac-security-essentials-gsec-practice-exams/?couponCode=SEP21FREE) |
-| ISO 27001:2022 Advanced ISMS Auditing Techniques Workshop | ⚠️ | [Link](https://www.udemy.com/course/iso-270012022-advanced-isms-auditing-techniques-workshop/?couponCode=B3B0561295743564310B) |
-| Cybersecurity — Start Career : The Complete Course | ⚠️ | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=EAF6688D82B78607C621) |
+| ISO 27001:2022 Advanced ISMS Auditing Techniques Workshop | ✅ | [Link](https://www.udemy.com/course/iso-270012022-advanced-isms-auditing-techniques-workshop/?couponCode=0AD81F39128F21F8B91F) |
+| Cybersecurity — Start Career : The Complete Course | ✅ | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=3577EE900F11B352E9C9) |
 | Hacking — Websites for Beginners | ⚠️ | [Link](https://www.udemy.com/course/hacking-websites-for-beginners/?couponCode=WEBHACKING777) |
 | Certified Kubernetes Security Specialist (CKS) | ⚠️ | [Link](https://www.udemy.com/course/certified-kubernetes-security-specialist-cks-exam/?couponCode=D5C53935110D1FB60624) |
 | AI — Cyber Security Mastery | ⚠️ | [Link](https://www.udemy.com/course/ai-cyber-security-mastery/?couponCode=4991C70970BCD4EA8799) |
@@ -186,12 +185,14 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Cybersecurity Mastery: Hacking Techniques | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM4) |
 | PHP REST API Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/php-rest-api-cybersecurity/?couponCode=10CYBERSECURITY1) |
 | Cybersecurity 101: Foundations for Absolute Beginners | ✅ | [Link](https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=OCT_FREE_01) |
-| Cyber Kill Chain: From Attack to Defense in Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=572160B0DDD92A864287) |
 | Cyber Security 101 | ✅ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DISCUDEMY.COM) |
 | Corporate Cyber Security Awareness for Employees | ✅ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=D9B0267B879636E0FD47) |
 | Chief Technology Officer (CTO) Mastery Program | ✅ | [Link](https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=OCT_FREE_01) |
 | Online Safety: Cybersecurity Health & Scam Prevention | ✅ | [Link](https://www.udemy.com/course/online-safety-cybersecurity-health-scam-prevention/?couponCode=C88A479D7E2AD79C7F58) |
 | Mastering Cybersecurity: Essential Knowledge and Techniques | ✅ | [Link](https://www.udemy.com/course/mastering-cybersecurity-essential-knowledge-and-techniques/?couponCode=80B2A67D91BAB74C0AF0) |
+| Webservices API Testing with Postman - Complete Guide | ✅ | [Link](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=OCTOBER_FREE_2025) |
+| Secure Coding: Security Best Practices in Web Applications | ✅ | [Link](https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=OCTOBER_FREE_2025) |
+| Kali Linux for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=LEARNINOCT) |
 
 
 
