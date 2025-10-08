@@ -8,7 +8,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Udemy Free Resource Center |  ✅  | [Link](https://www.udemy.com/courses/free/) |
 | Cyber Security Awareness Training Course For Beginners 2025 | ✅     | [Link](https://www.udemy.com/course/cyber-security-awareness-training-course/?LSNPUBID=0F1O0otUXQc&ranMID=47901&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-eC0dWwM5rIN3hFs2pgxSDg) |
 | Burp Suite: In-Depth Survival Guide      | ⚠️     | [Link](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7)       |
-| The NIST Privacy Framework: A Step-by-Step Implementation | ✅     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=2542EA3F98C76CC88EDE) |
+| The NIST Privacy Framework: A Step-by-Step Implementation | ⚠️     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=2542EA3F98C76CC88EDE) |
 | Practical IoT Security and Penetration Testing for Beginners | ⚠️  | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
 | Red Teaming Exploit Development with Assembly and C (Shellcode) | ⚠️     | [Link](https://www.udemy.com/course/shellcode/?couponCode=REDTEAM-OCSALY-2025)                      |
 | Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ⚠️     | [Link](https://www.udemy.com/course/real_pentest/?couponCode=5-STAR-HACKING)                    |
