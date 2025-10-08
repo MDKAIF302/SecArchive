@@ -20,3 +20,4 @@ A curated list of freely available platforms, notes, and study resources to lear
 | FreeLearningList.org   |  ✅  | https://freelearninglist.org/     |
 | SecTube                           | ✅     | https://sectube.tv/                                                |
 | CyberSources                     | ✅     | https://www.cybersources.site/                                    |
+| Coursesity                       | ✅     | https://coursesity.com/                                          |
