@@ -26,6 +26,5 @@ Hand-picked resources to level up your bug bounty journey — including tips, sc
 ## 🌐 Community & Target Lists
 | Name / Author                       | Status | Link                                                                 |
 |------------------------------------|--------|----------------------------------------------------------------------|
-| kaeferjaeger blog                  | ✅     | https://kaeferjaeger.gay/                                           |
 | Bounty Targets Data by Arkadiyt      | ✅     | https://github.com/arkadiyt/bounty-targets-data                           |
 | BugBountyHunting.com                   | ✅     | https://www.bugbountyhunting.com/                                         |
