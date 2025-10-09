@@ -5,7 +5,7 @@ Hand-picked resources to level up your bug bounty journey — including tips, sc
 ## 🛠️ Tools & Scanners
 | Name / Author                       | Status | Link                                                                 |
 |------------------------------------|--------|----------------------------------------------------------------------|
-| OWASP ZAP Scanner List             | ✅     | https://github.com/psiinon/open-source-web-scanners                 |
+| Open Source-web scanners List             | ✅     | https://github.com/psiinon/open-source-web-scanners                 |
 
 ## 💡 Learning Guides & Roadmaps
 | Name / Author                       | Status | Link                                                                 |
