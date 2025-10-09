@@ -144,10 +144,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | VMware vSphere with Tanzu Specialist Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/vmware-vsphere-with-tanzu-specialist-practice-exams/?couponCode=SEP18FREE) |
 | VMware Horizon 8.x Professional Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/vmware-horizon-8x-professional-practice-exams/?couponCode=SEP18FREE) |
 | VMware vSphere 8.x Advanced Design Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/vmware-vsphere-8x-advanced-design-practice-exams/?couponCode=SEP18FREE) |
-| GIAC Certified Incident Handler (GCIH) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-certified-incident-handler-gcih-practice-exams-n/?couponCode=GIACOCT) |
-| GIAC Security Leadership (GSLC) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-leadership-gslc-practice-exams/?couponCode=GIACOCT) |
-| GIAC Certified Forensic Analyst (GCFA) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-certified-forensic-analyst-gcfa-practice-exams-r/?couponCode=GIACOCT) |
-| GIAC Security Essentials (GSEC) Practice Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-essentials-gsec-practice-exams/?couponCode=GIACOCT) |
 | ISO 27001:2022 Advanced ISMS Auditing Techniques Workshop | ✅ | [Link](https://www.udemy.com/course/iso-270012022-advanced-isms-auditing-techniques-workshop/?couponCode=0AD81F39128F21F8B91F) |
 | Cybersecurity — Start Career : The Complete Course | ✅ | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=3577EE900F11B352E9C9) |
 | Hacking — Websites for Beginners | ⚠️ | [Link](https://www.udemy.com/course/hacking-websites-for-beginners/?couponCode=WEBHACKING777) |
@@ -184,10 +180,10 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Cybersecurity Stories: Learn from Real World Experience | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-stories-learn-from-real-world-experience/?couponCode=CFF6086CD3DE30EE9CF1) |
 | Cybersecurity Mastery: Hacking Techniques | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM4) |
 | PHP REST API Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/php-rest-api-cybersecurity/?couponCode=10CYBERSECURITY1) |
-| Cybersecurity 101: Foundations for Absolute Beginners | ✅ | [Link](https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=OCT_FREE_01) |
+| Cybersecurity 101: Foundations for Absolute Beginners | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=OCT_FREE_01) |
 | Cyber Security 101 | ✅ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DISCUDEMY.COM) |
 | Corporate Cyber Security Awareness for Employees | ✅ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=D9B0267B879636E0FD47) |
-| Chief Technology Officer (CTO) Mastery Program | ✅ | [Link](https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=OCT_FREE_01) |
+| Chief Technology Officer (CTO) Mastery Program | ⚠️ | [Link](https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=OCT_FREE_01) |
 | Online Safety: Cybersecurity Health & Scam Prevention | ✅ | [Link](https://www.udemy.com/course/online-safety-cybersecurity-health-scam-prevention/?couponCode=C88A479D7E2AD79C7F58) |
 | Mastering Cybersecurity: Essential Knowledge and Techniques | ✅ | [Link](https://www.udemy.com/course/mastering-cybersecurity-essential-knowledge-and-techniques/?couponCode=80B2A67D91BAB74C0AF0) |
 | Webservices API Testing with Postman - Complete Guide | ✅ | [Link](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=OCTOBER_FREE_2025) |
