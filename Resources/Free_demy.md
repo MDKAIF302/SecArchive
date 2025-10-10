@@ -119,7 +119,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Splunk Enterprise Certified Admin - Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-exams/?couponCode=SEP21FREE) |
 | Splunk Core Certified Power User - Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-d/?couponCode=SEP21FREE) |
 | Splunk Core Certified User - Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/splunk-core-certified-user-practice-exams/?couponCode=SEP21FREE) |
-| Complete Ethical Hacking Masterclass | ✅ | [Link](https://www.udemy.com/course/top-course/?couponCode=59F33FA9DDB2DA41C724) |
+| Complete Ethical Hacking Masterclass | ⚠️ | [Link](https://www.udemy.com/course/top-course/?couponCode=59F33FA9DDB2DA41C724) |
 | Complete Network Hacking Course 2024 - Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/complete-network-hacking-course-2024-beginner-to-advanced/?couponCode=CYBERFORT) |
 | CISSP Certification Practice Exams [Unofficial] | ⚠️ | [Link](https://www.udemy.com/course/cissp-certification-practice-exams-unofficial/?couponCode=089A732A5EB678F4522D) |
 | CompTIA A+ Core 1 (220-1101) Hardware, Networking, Mobile | ⚠️ | [Link](https://www.udemy.com/course/comptia-a-core-1-220-1101-hardware-networking-mobile/?couponCode=F5DF065EFAE588793760) |
@@ -180,7 +180,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Cybersecurity Mastery: Hacking Techniques | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM4) |
 | PHP REST API Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/php-rest-api-cybersecurity/?couponCode=10CYBERSECURITY1) |
 | Cybersecurity 101: Foundations for Absolute Beginners | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=OCT_FREE_01) |
-| Cyber Security 101 | ✅ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DISCUDEMY.COM) |
+| Cyber Security 101 | ⚠️ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DISCUDEMY.COM) |
 | Corporate Cyber Security Awareness for Employees | ✅ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=D9B0267B879636E0FD47) |
 | Chief Technology Officer (CTO) Mastery Program | ⚠️ | [Link](https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=OCT_FREE_01) |
 | Online Safety: Cybersecurity Health & Scam Prevention | ✅ | [Link](https://www.udemy.com/course/online-safety-cybersecurity-health-scam-prevention/?couponCode=C88A479D7E2AD79C7F58) |
@@ -189,11 +189,10 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Secure Coding: Security Best Practices in Web Applications | ✅ | [Link](https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=OCTOBER_FREE_2025) |
 | Kali Linux for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=LEARNINOCT) |
 | OWASP Security Testing of Web, API, Android & Source Code App | ✅ | [Link](https://www.udemy.com/course/end-to-end-security-testing-owasp-burp-suite-nmap-vooki/?couponCode=403175D5F91ECBF00569) |
-| Network Security: Mastering Cybersecurity, Ethical Hacking | ✅ | [Link](https://www.udemy.com/course/hacking-network/?couponCode=OCSALY-5-STAR-NOW) |
-| Cryptography & Cybersecurity | ✅ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-5-STAR-NOW) |
-| Zero Trust Linux: Root & Sudo Security | ✅ | [Link](https://www.udemy.com/course/zero-trust-linux-root-sudo-security/?couponCode=89B4669B88CF1C4690D0) |
+| Network Security: Mastering Cybersecurity, Ethical Hacking | ⚠️ | [Link](https://www.udemy.com/course/hacking-network/?couponCode=OCSALY-5-STAR-NOW) |
+| Cryptography & Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-5-STAR-NOW) |
+| Zero Trust Linux: Root & Sudo Security | ⚠️ | [Link](https://www.udemy.com/course/zero-trust-linux-root-sudo-security/?couponCode=89B4669B88CF1C4690D0) |
 | Wireshark Training | ✅ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=OCSALY-5-STAR-NOW) |
-| Complete Web Application Penetration Testing (Practical) - CWAPT | ✅ | [Link](https://www.udemy.com/course/complete-webapplication-penetration-testing-practical-cwapt/?couponCode=LEARN_CYBER) |
 
 
 
