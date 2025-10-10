@@ -66,7 +66,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Hacking the Human Mind: Social Engineering Fundamentals | ⚠️ | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=LEARNINSEPT) |
 | Become a Hydra Expert: Advanced Brute Forcing Techniques | ⚠️ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=80CFFC6022CFB80265FF) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=745BA4CC8747FA3356CC) |
-| Red Team Mastery: Advanced Offensive Security | ⚠️ | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=LEARNINSEPT) |
 | ISACA CCAK (Cloud Auditing Knowledge) Practice Exams 2025 | ⚠️ | [Link](https://www.udemy.com/course/isaca-ccak-cloud-auditing-knowledge-practice-exams-2025/?couponCode=OCT01FREE) |
 | ISACA CISM Certified Information Security Manager Prep Exams | ⚠️ | [Link](https://www.udemy.com/course/isaca-cism-certified-information-security-manager-prep-exams/?couponCode=OCT01FREE) |
 | ISACA CRISC (Risk & Information Systems Control) Prep Exams | ⚠️ | [Link](https://www.udemy.com/course/isaca-criscrisk-and-information-systems-control-prep-exams/?couponCode=OCT01FREE) |
@@ -77,8 +76,8 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | ISACA Cybersecurity Fundamentals: Practice Exam Questions | ⚠️     | [Link](https://www.udemy.com/course/cybersecurity-fundamentals-isaca-practice-exam-questions/?couponCode=KOREA123) |
 | ISACA CISA Practice Exams – 1000+ Qs     |  ⚠️   | [Link](https://www.udemy.com/course/certified-information-systems-auditor-cisa-practice-exams-w/?couponCode=SEPOPEN1) |
 | Learn Subcontracting Process in SAP MM (SAP R/3)     |  ⚠️       | [Link](https://www.udemy.com/course/learn-subcontracting-process-in-sap-mm/)          |
-| Ethically Hack the Planet Part 1 | ⚠️  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=41F22684D46162FF88B2) |
-| Ethically Hack the Planet Part 2 |  ⚠️  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=8AB1D1585C5D04EC3582) |
+| Ethically Hack the Planet Part 1 | ✅  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=7207A1323904755230D2) |
+| Ethically Hack the Planet Part 2 |  ✅  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=4CC2A2C3EF69431F7EFD) |
 | CHFI Exam Prep: Computer Hacking Forensic Investigator Prep | ⚠️ | [Link](https://www.udemy.com/course/computer-hacking-forensic-investigator-chfi-v/?couponCode=SEP26FREE) |
 | Certified Ethical Hacker (CEH) – Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/eccouncil-exam-certified-ethical-hacker/?couponCode=SEP26FREE) |
 | Certified Network Defender (CND) – Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/eccouncil-certified-network-defender-exam/?couponCode=SEP26FREE) |
@@ -194,6 +193,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Cryptography & Cybersecurity | ✅ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-5-STAR-NOW) |
 | Zero Trust Linux: Root & Sudo Security | ✅ | [Link](https://www.udemy.com/course/zero-trust-linux-root-sudo-security/?couponCode=89B4669B88CF1C4690D0) |
 | Wireshark Training | ✅ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=OCSALY-5-STAR-NOW) |
+| Complete Web Application Penetration Testing (Practical) - CWAPT | ✅ | [Link](https://www.udemy.com/course/complete-webapplication-penetration-testing-practical-cwapt/?couponCode=LEARN_CYBER) |
 
 
 
