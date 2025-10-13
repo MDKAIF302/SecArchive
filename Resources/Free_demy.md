@@ -47,7 +47,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Computer Networking Basics for Desktop Support Technicians | ⚠️     | [Link](https://www.udemy.com/course/computer-networking-basics-for-desktop-support-technicians/?couponCode=BCBB6B9C75E567FF0E76) |
 | NIST Incident Management: A Step-by-Step Guide | ⚠️     | [Link](https://www.udemy.com/course/the-nist-incident-management-a-step-by-step-guide/?couponCode=9B59A7A9E9C76B6D9F1B) |
 | Webservices API Testing with Postman – Complete Guide | ⚠️     | [Link](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=AUGUST_FREE3_2025) |
-| Offensive Security Pathway – Beginner to Offensive General |  ⚠️ | [Link](https://www.udemy.com/course/offensive-security-pathway/?couponCode=18621BC80F9308FC52E8) |
+| Offensive Security Pathway – Beginner to Offensive General |  ✅ | [Link](https://www.udemy.com/course/offensive-security-pathway/?couponCode=866E5B4AA9710BDD02AB) |
 | CompTIA IT Fundamentals+ (FC0-U61) Practice Test | ⚠️            | [Link](https://www.udemy.com/course/practice-test-comptia-it-fundamentals-fc0-u61/?couponCode=94711F799438DC72F81D)                      |
 | Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ✅  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=32AECAD7E284B2BAE903) |
 | CompTIA Project+ (PK0-005) Practice Exams – 2025   |  ⚠️  | [Link](https://www.udemy.com/course/comptia-project-pk0-005-practice-exams-2025-i/?couponCode=SEP18FREE) |
@@ -71,7 +71,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | ISACA CRISC (Risk & Information Systems Control) Prep Exams | ⚠️ | [Link](https://www.udemy.com/course/isaca-criscrisk-and-information-systems-control-prep-exams/?couponCode=OCT01FREE) |
 | ISACA CISA: Certified Information Systems Auditor Prep Exams | ⚠️ | [Link](https://www.udemy.com/course/isaca-cisa-certified-information-systems-auditor-prep-exams/?couponCode=OCT01FREE) |
 | ISO 27001:2022 for Emerging Technologies | ⚠️ | [Link](https://www.udemy.com/course/iso-270012022-for-emerging-technologies/?couponCode=B6994CAFDE8FA45DC8B7) |
-| Ethically Hack Human Mind: Social Engineering Fundamentals |  ⚠️   | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=LEARNINSEPT) |
+| Ethically Hack Human Mind: Social Engineering Fundamentals |  ✅   | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=28EACE8E7A95EF4A0B8D) |
 | Implement NIST Cybersecurity Framework (CSF) 2.0 – Step by Step | ⚠️     | [Link](https://www.udemy.com/course/implement-nist-cybersecurity-frameworkcsf-20-step-by-step/?couponCode=9D324C3ECC78B1E9FE10) |
 | ISACA Cybersecurity Fundamentals: Practice Exam Questions | ⚠️     | [Link](https://www.udemy.com/course/cybersecurity-fundamentals-isaca-practice-exam-questions/?couponCode=KOREA123) |
 | ISACA CISA Practice Exams – 1000+ Qs     |  ⚠️   | [Link](https://www.udemy.com/course/certified-information-systems-auditor-cisa-practice-exams-w/?couponCode=SEPOPEN1) |
@@ -203,6 +203,8 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | LLM Pentesting: Mastering Security Testing for AI Models | ✅ | [Link](https://www.udemy.com/course/llm-pentesting-red-teaming/?couponCode=6A3E0591903D342F24DF) |
 | Nmap for Ethical Hacking Bootcamp - Masterclass for Bug Bounty 2025 | ✅ | [Link](https://www.udemy.com/course/nmap-for-ethical-hacking-bootcamp-masterclass-for-bug-bounty-2025/?couponCode=B88764D9FEC09C2942FC) |
 | Master Ethical Hacking & Bug Bounty - OSCP 2 From Scratch | ✅ | [Link](https://www.udemy.com/course/master-ethical-hacking-bug-bounty-oscp-2-from-scratch/?couponCode=D68F276714B5A42618A0) |
+| Web3 and Blockchain Security: Pen Testing & Bug Bounty - Part 1 | ✅ | [Link](https://www.udemy.com/course/web3-and-blockchain-securitypen-testing-bug-bounty-part1/?couponCode=E83A023EF3D68A997659) |
+| Certificate in Compliance, Audit & Risk Management | ✅ | [Link](https://www.udemy.com/course/fundamentals-of-compliance-management-and-risk-management/?couponCode=0186C7D69BF853730783) |
 
 
 
