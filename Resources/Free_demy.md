@@ -197,6 +197,12 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Secure Code: Python Django - Build Hack Proof Web Applications | ✅ | [Link](https://www.udemy.com/course/secure-code-python-django-build-hack-proof-web-applications/?couponCode=15A55C9D49F6151DBC47) |
 | Personal Digital Security: Everyone Must Have Cybersecurity | ✅ | [Link](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=56495A2750A2448259B0) |
 | Digital Forensics Course | ✅ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=OCSALY-5-STARPLS) |
+| Live Master Email Security Spot Phishing & Spam Fast 2025 | ✅ | [Link](https://www.udemy.com/course/live-master-email-security-spot-phishing-spam-fast-2025/?couponCode=FB2CB577546160B0D28F) |
+| OWASP Top 10 - 2025 | ✅ | [Link](https://www.udemy.com/course/owasp-top-10-2025/?couponCode=B6143125D74A7296CE19) |
+| Bug Bounty with CVE Hunting along with Ethical Hacking | ✅ | [Link](https://www.udemy.com/course/bug-bounty-with-cve-hunting-along-with-ethical-hacking/?couponCode=FDBF27DE4AB4B4FA8713) |
+| LLM Pentesting: Mastering Security Testing for AI Models | ✅ | [Link](https://www.udemy.com/course/llm-pentesting-red-teaming/?couponCode=6A3E0591903D342F24DF) |
+| Nmap for Ethical Hacking Bootcamp - Masterclass for Bug Bounty 2025 | ✅ | [Link](https://www.udemy.com/course/nmap-for-ethical-hacking-bootcamp-masterclass-for-bug-bounty-2025/?couponCode=B88764D9FEC09C2942FC) |
+| Master Ethical Hacking & Bug Bounty - OSCP 2 From Scratch | ✅ | [Link](https://www.udemy.com/course/master-ethical-hacking-bug-bounty-oscp-2-from-scratch/?couponCode=D68F276714B5A42618A0) |
 
 
 
