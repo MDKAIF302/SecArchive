@@ -96,10 +96,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | GenAI Cybersecurity Solutions | ⚠️ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=893D9820F1E1662C5B59) |
 | Python Hacking (PyCEH) | ⚠️ | [Link](https://www.udemy.com/course/python-hacking-pyceh/?couponCode=5-STAR-REVIEW-PLS) |
 | Attacking and Defending Active Directory | ⚠️ | [Link](https://www.udemy.com/course/attacking-and-defending-active-directory/?couponCode=B08621179897AEE042C8) |
-| Palo Alto Networks Certified Network Security Administrator (PCNSA) | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-network-security-administrator-x/?couponCode=SEPFREELAST) |
-| Palo Alto Networks Prisma Certified Cloud Security Engineer (PCCSE) | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-prisma-certified-cloud-security-engineer/?couponCode=SEPFREELAST) |
-| Palo Alto Networks Certified Detection and Remediation Analyst (PCDRA) | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-detection-remediation-analyst/?couponCode=SEPFREELAST) |
-| Palo Alto Networks Certified Security Automation Engineer (PCSAE) | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-security-automation-engineer/?couponCode=64E1CA11EBB3EAD77C02) |
 | ISO/IEC 27001: Security Guidelines for Organizational Users | ⚠️ | [Link](https://www.udemy.com/course/isoiec-27001-security-guidelines-for-organizational-users/?couponCode=I-M-SAFE) |
 | Burp Suite Mastery: From Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=94AE37B9D745EB058AC1) |
 | Nmap Mastery: Ultimate Guide to Network Scanning | ⚠️ | [Link](https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?couponCode=44F05F5E298D433AFE92) |
