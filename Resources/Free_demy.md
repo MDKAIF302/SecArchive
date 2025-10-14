@@ -33,8 +33,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Auditing ISO 27001:2022 – Technical Controls | ⚠️     | [Link](https://www.udemy.com/course/auditing-iso-270012022-technical-controls/?couponCode=4DEF1D7EEED030CB1EC8) |
 | Malware Analysis, Incident Response & Disaster Recovery   | ⚠️     | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=1D59ED3528438AB4A3A6) |
 | Metasploit from Scratch: Beginner to Professional | ⚠️     | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=386694B63F007C906337) |
-| CompTIA A+ (220-1102) Core 2 Practice Tests            | ⚠️     | [Link](https://www.udemy.com/course/mhn-comptia-a-plus-220-1102-core-2-exam-prep-practice-tests/?couponCode=FIRST-FREE-COUPON) |
-| CompTIA Network+ (N10-007) Practice Tests          | ⚠️     | [Link](https://www.udemy.com/course/practice-test-comptia-network-n10-007/?couponCode=DC92920C699946402A96) |
 | OWASP API Security Top 10 (2021 & 2023) with Java Examples | ⚠️     | [Link](https://www.udemy.com/course/owasp-learnit/?couponCode=AUGUST_FREE3_2025)                     |
 | Mastering Linux: The Complete Guide to Becoming a Linux Pro | ⚠️     | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-5-STAR-PLS) |
 | NIST Incident Management: A Step-by-Step Guide     | ⚠️     | [Link](https://www.udemy.com/course/the-nist-incident-management-a-step-by-step-guide/?couponCode=9B59A7A9E9C76B6D9F1B) |
@@ -46,10 +44,8 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | NIST Incident Management: A Step-by-Step Guide | ⚠️     | [Link](https://www.udemy.com/course/the-nist-incident-management-a-step-by-step-guide/?couponCode=9B59A7A9E9C76B6D9F1B) |
 | Webservices API Testing with Postman – Complete Guide | ⚠️     | [Link](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=AUGUST_FREE3_2025) |
 | Offensive Security Pathway – Beginner to Offensive General |  ✅ | [Link](https://www.udemy.com/course/offensive-security-pathway/?couponCode=866E5B4AA9710BDD02AB) |
-| CompTIA IT Fundamentals+ (FC0-U61) Practice Test | ⚠️            | [Link](https://www.udemy.com/course/practice-test-comptia-it-fundamentals-fc0-u61/?couponCode=94711F799438DC72F81D)                      |
 | Cyber Kill Chain: From Attack to Defense in Cybersecurity       |  ⚠️  | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=32AECAD7E284B2BAE903) |
 | Auditing ISO 27001:2022 – People Controls      | ⚠️     | [Link](https://www.udemy.com/course/auditing-iso-270012022-people-controls/?couponCode=E04B0F7DD185FC9460F0) |
-| AZ-900: Microsoft Azure Fundamentals Practice Test | ⚠️ | [Link](https://www.udemy.com/course/azue-az-900-az-900-practice-test-exam-latest-questions/?couponCode=SEPOPEN0) |
 | CISSP 2025: 900 Practice Questions & Detailed Explanations | ⚠️     | [Link](https://www.udemy.com/course/cissp-900-practice-questions-detailed-explanations/?couponCode=D88A68B4736430C26410) |
 | Hacking the Human Mind: Social Engineering Fundamentals | ⚠️ | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=LEARNINSEPT) |
 | Become a Hydra Expert: Advanced Brute Forcing Techniques | ⚠️ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=80CFFC6022CFB80265FF) |
