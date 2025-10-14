@@ -6,7 +6,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Course Title                          | Status | Link |
 |--------------------------------------|--------|------|
 | Udemy Free Resource Center |  ✅  | [Link](https://www.udemy.com/courses/free/) |
-| Cyber Security Awareness Training Course For Beginners 2025 | ✅     | [Link](https://www.udemy.com/course/cyber-security-awareness-training-course/?LSNPUBID=0F1O0otUXQc&ranMID=47901&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-eC0dWwM5rIN3hFs2pgxSDg) |
 | Burp Suite: In-Depth Survival Guide      | ⚠️     | [Link](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7)       |
 | The NIST Privacy Framework: A Step-by-Step Implementation | ⚠️     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=2542EA3F98C76CC88EDE) |
 | Practical IoT Security and Penetration Testing for Beginners | ⚠️  | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
@@ -14,21 +13,16 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ⚠️     | [Link](https://www.udemy.com/course/real_pentest/?couponCode=5-STAR-HACKING)                    |
 | Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts               | ✅     | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=OCSALY-5-STAR-NOW) |
 | Web Hacking For Beginners — Unlocking the Secrets of Web Security         | ⚠️     | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=BE12C0BC98BE384AFC83) |
-| Cyber Security Fundamentals – Don’t Get Hacked | ✅   | [Link](https://www.udemy.com/course/cybersecuritydticourse/)                          |
 | API Security Testing Guide by The XSS Rat                                 | ⚠️     | [Link](https://www.udemy.com/course/uncle-rats-api-security-testing-guide/?couponCode=05795A30DFF56FA7F08B) |
 | The Ultimate BAC and IDOR Guide for Ethical Hacking                        | ⚠️     | [Link](https://www.udemy.com/course/the-ultimate-bac-and-idor-guide-for-ethical-hacking/?couponCode=A1ED7AF37002A40A600C) |
 | ISO 42001 Lead Auditor: Auditing AI Management Systems           | ⚠️     | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=32E184DCBB7BC3C34B3A) |
 | Red Team Mastery: Advanced Offensive Security                                | ✅     | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=9FF40DC2B04585EED952) |
 | **SQLMap From Scratch for Ethical Hackers**       | ⚠️     | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=1E827891ABC1F0847B94) |
-| SOC Overview: Security Operations Center Intro | ✅     | [Link](https://www.udemy.com/course/soc-overview/)                                              |
-| Database Security & Privacy Fundamentals                | ✅     | [Link](https://www.udemy.com/course/database-security-privacy-fundamentals/)                      |
 | Reverse Engineering & Malware Analysis Fundamentals              | ✅     | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=OCSALY-5-STAR-NOW)     |
-| Gen AI Security Foundations      | ✅     | [Link](https://www.udemy.com/course/gen-ai-security-foundations/)                            |
 | Cyber Security & Ethical Hacking Online Course     | ✅     | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=D6B5444CC3AB82A0DF27) |
 | Mastering Software Defined Radio (SDR): GNU Radio and SDR++                   | ✅     | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=OCSALY-5-STAR-NOW)                               |
 | Wireshark: Master Packet Analysis & Ethical Hacking Tools   | ⚠️     | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=5-STAR-COURSE-PLEASE)     |
 | Mastering Network Security: Defending Against Cyber Threats | ✅     | [Link](https://www.udemy.com/course/master-network-security/?couponCode=OCSALY-5-STAR-NOW)                 |
-| Cyber Security Fundamentals – Don’t Get Hacked | ✅     | [Link](https://www.udemy.com/course/cybersecuritydticourse/)          |
 | Introduction to Cloud Security       | ⚠️     | [Link](https://www.udemy.com/course/introduction-to-cloud-security/)                                           |
 | Auditing ISO 27001:2022 – Technical Controls | ⚠️     | [Link](https://www.udemy.com/course/auditing-iso-270012022-technical-controls/?couponCode=4DEF1D7EEED030CB1EC8) |
 | Malware Analysis, Incident Response & Disaster Recovery   | ⚠️     | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=1D59ED3528438AB4A3A6) |
@@ -39,7 +33,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Growth Hacking Certification for Startups – Scale Smarter |  ⚠️ | [Link](https://www.udemy.com/course/growth-hacking-certification-for-startups-scale-smarter/?couponCode=AUG-FREE) |
 | Start Career in CyberSecurity – The Ultimate Guide | ⚠️     | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=3577EE900F11B352E9C9) |
 | Web3 & Blockchain Security: Pen Testing & Bug Bounty (Part 1)        | ⚠️     | [Link](https://www.udemy.com/course/web3-and-blockchain-securitypen-testing-bug-bounty-part1/?couponCode=31D116F31539AAC26197) |
-| Mastering Active Directory in a Home Lab | ✅     | [Link](https://www.udemy.com/course/mastering-active-directory-in-a-home-lab/)     |
 | Computer Networking Basics for Desktop Support Technicians | ⚠️     | [Link](https://www.udemy.com/course/computer-networking-basics-for-desktop-support-technicians/?couponCode=BCBB6B9C75E567FF0E76) |
 | NIST Incident Management: A Step-by-Step Guide | ⚠️     | [Link](https://www.udemy.com/course/the-nist-incident-management-a-step-by-step-guide/?couponCode=9B59A7A9E9C76B6D9F1B) |
 | Webservices API Testing with Postman – Complete Guide | ⚠️     | [Link](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=AUGUST_FREE3_2025) |
