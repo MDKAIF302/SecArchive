@@ -8,21 +8,21 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Udemy Free Resource Center |  ✅  | [Link](https://www.udemy.com/courses/free/) |
 | Burp Suite: In-Depth Survival Guide      | ⚠️     | [Link](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7)       |
 | The NIST Privacy Framework: A Step-by-Step Implementation | ⚠️     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=2542EA3F98C76CC88EDE) |
-| Practical IoT Security and Penetration Testing for Beginners | ⚠️  | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
-| Red Teaming Exploit Development with Assembly and C (Shellcode) | ⚠️     | [Link](https://www.udemy.com/course/shellcode/?couponCode=OCSALY-5-STAR-NOW)                      |
-| Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ⚠️     | [Link](https://www.udemy.com/course/real_pentest/?couponCode=5-STAR-HACKING)                    |
-| Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts               | ⚠️     | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=OCSALY-5-STAR-NOW) |
+| Practical IoT Security and Penetration Testing for Beginners | ✅  | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
+| Red Teaming Exploit Development with Assembly and C (Shellcode) | ✅     | [Link](https://www.udemy.com/course/shellcode/?couponCode=OCSALY-ACADEMY-2025)                      |
+| Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ✅     | [Link](https://www.udemy.com/course/real_pentest/?couponCode=OCSALY-ACADEMY-2025)                    |
+| Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts               | ⚠️     | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=OCSALY-ACADEMY-2025) |
 | Web Hacking For Beginners — Unlocking the Secrets of Web Security         | ⚠️     | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=BE12C0BC98BE384AFC83) |
 | API Security Testing Guide by The XSS Rat                                 | ⚠️     | [Link](https://www.udemy.com/course/uncle-rats-api-security-testing-guide/?couponCode=05795A30DFF56FA7F08B) |
 | The Ultimate BAC and IDOR Guide for Ethical Hacking                        | ⚠️     | [Link](https://www.udemy.com/course/the-ultimate-bac-and-idor-guide-for-ethical-hacking/?couponCode=A1ED7AF37002A40A600C) |
-| ISO 42001 Lead Auditor: Auditing AI Management Systems           | ⚠️     | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=32E184DCBB7BC3C34B3A) |
+| ISO 42001 Lead Auditor: Auditing AI Management Systems           | ✅     | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=CD9CC70CEBE903D32A5C) |
 | Red Team Mastery: Advanced Offensive Security                                | ⚠️     | [Link](https://www.udemy.com/course/red-team-mastery-advanced-offensive-security/?couponCode=9FF40DC2B04585EED952) |
-| **SQLMap From Scratch for Ethical Hackers**       | ⚠️     | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=1E827891ABC1F0847B94) |
-| Reverse Engineering & Malware Analysis Fundamentals              | ⚠️     | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=OCSALY-5-STAR-NOW)     |
+| **SQLMap From Scratch for Ethical Hackers**       | ✅     | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=1E827891ABC1F0847B94) |
+| Reverse Engineering & Malware Analysis Fundamentals              | ⚠️     | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=OCSALY-ACADEMY-2025)     |
 | Cyber Security & Ethical Hacking Online Course     | ✅     | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=D6B5444CC3AB82A0DF27) |
-| Mastering Software Defined Radio (SDR): GNU Radio and SDR++                   | ⚠️     | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=OCSALY-5-STAR-NOW)                               |
+| Mastering Software Defined Radio (SDR): GNU Radio and SDR++                   | ✅     | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=OCSALY-ACADEMY-2025)                               |
 | Wireshark: Master Packet Analysis & Ethical Hacking Tools   | ⚠️     | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=5-STAR-COURSE-PLEASE)     |
-| Mastering Network Security: Defending Against Cyber Threats | ⚠️     | [Link](https://www.udemy.com/course/master-network-security/?couponCode=OCSALY-5-STAR-NOW)                 |
+| Mastering Network Security: Defending Against Cyber Threats | ✅     | [Link](https://www.udemy.com/course/master-network-security/?couponCode=OCSALY-ACADEMY-2025)                 |
 | Introduction to Cloud Security       | ⚠️     | [Link](https://www.udemy.com/course/introduction-to-cloud-security/)                                           |
 | Auditing ISO 27001:2022 – Technical Controls | ⚠️     | [Link](https://www.udemy.com/course/auditing-iso-270012022-technical-controls/?couponCode=4DEF1D7EEED030CB1EC8) |
 | Malware Analysis, Incident Response & Disaster Recovery   | ⚠️     | [Link](https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=1D59ED3528438AB4A3A6) |
@@ -68,7 +68,6 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Network Security Protocols, Architecture, and Defense | ⚠️ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=D2C162632FA479A54CA8) |
 | Cybersecurity Essentials Quiz: Are You Ready to Defend? | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-essentials-quiz-are-you-ready-to-defend/?couponCode=9C0C4B45BC92C4F54CB9) |
 | Mega Pack: AZ-900, 104, 204, 305, 500, AI-102 Practice Tests | ⚠️ | [Link](https://www.udemy.com/course/mega-pack-az-900-104-204-305-500-ai-102-practice-tests/?couponCode=REALDISCOUNT2) |
-| ISO 42001 Lead Auditor: Auditing AI Management Systems | ⚠️ | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=84156C4C2697A1F10831) |
 | Complete Ethical Hacking Masterclass | ⚠️ | [Link](https://www.udemy.com/course/top-course/?couponCode=59F33FA9DDB2DA41C724) |
 | Complete Network Hacking Course 2024 - Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/complete-network-hacking-course-2024-beginner-to-advanced/?couponCode=CYBERFORT) |
 | CompTIA A+ Core 1 (220-1101) Hardware, Networking, Mobile | ⚠️ | [Link](https://www.udemy.com/course/comptia-a-core-1-220-1101-hardware-networking-mobile/?couponCode=F5DF065EFAE588793760) |
@@ -83,8 +82,8 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | AI — Cyber Security Mastery | ⚠️ | [Link](https://www.udemy.com/course/ai-cyber-security-mastery/?couponCode=4991C70970BCD4EA8799) |
 | Personal Digital Security — Everyone Must Have Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=CE2F7C3AD5995BB80D12) |
 | Digital Forensics — Course | ⚠️ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=5-STAR-REVIEW_PLS) |
-| Nmap — Training | ⚠️ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=OCSALY-5-STAR-NOW) |
-| Assembly — Best | ⚠️ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=OCSALY-5-STAR-NOW) |
+| Nmap — Training | ✅ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=OCSALY-ACADEMY-2025) |
+| Assembly — Best | ✅ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=OCSALY-ACADEMY-2025) |
 | Master Ethical Hacking & Cybersecurity: CEH+ Certification | ⚠️ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=OCSALY-5-STARPLS) |
 | GenAI Cybersecurity Solutions | ⚠️ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=893D9820F1E1662C5B59) |
 | Python Hacking (PyCEH) | ⚠️ | [Link](https://www.udemy.com/course/python-hacking-pyceh/?couponCode=5-STAR-REVIEW-PLS) |
@@ -108,10 +107,10 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Secure Coding: Security Best Practices in Web Applications | ⚠️ | [Link](https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=OCTOBER_FREE_2025) |
 | Kali Linux for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=LEARNINOCT) |
 | OWASP Security Testing of Web, API, Android & Source Code App | ⚠️ | [Link](https://www.udemy.com/course/end-to-end-security-testing-owasp-burp-suite-nmap-vooki/?couponCode=403175D5F91ECBF00569) |
-| Network Security: Mastering Cybersecurity, Ethical Hacking | ⚠️ | [Link](https://www.udemy.com/course/hacking-network/?couponCode=OCSALY-5-STAR-NOW) |
-| Cryptography & Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-5-STAR-NOW) |
-| Zero Trust Linux: Root & Sudo Security | ⚠️ | [Link](https://www.udemy.com/course/zero-trust-linux-root-sudo-security/?couponCode=89B4669B88CF1C4690D0) |
-| Wireshark Training | ⚠️ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=OCSALY-5-STAR-NOW) |
+| Network Security: Mastering Cybersecurity, Ethical Hacking | ✅ | [Link](https://www.udemy.com/course/hacking-network/?couponCode=OCSALY-ACADEMY-2025) |
+| Cryptography & Cybersecurity | ✅ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-ACADEMY-2025) |
+| Zero Trust Linux: Root & Sudo Security | ✅ | [Link](https://www.udemy.com/course/zero-trust-linux-root-sudo-security/?couponCode=AEB134DB1111C1859413) |
+| Wireshark Training | ✅ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=OCSALY-ACADEMY-2025) |
 | Secure Code: Python Django - Build Hack Proof Web Applications | ⚠️ | [Link](https://www.udemy.com/course/secure-code-python-django-build-hack-proof-web-applications/?couponCode=15A55C9D49F6151DBC47) |
 | Personal Digital Security: Everyone Must Have Cybersecurity | ✅ | [Link](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=56495A2750A2448259B0) |
 | Digital Forensics Course | ✅ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=OCSALY-5-STARPLS) |
@@ -123,6 +122,8 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Master Ethical Hacking & Bug Bounty - OSCP 2 From Scratch | ✅ | [Link](https://www.udemy.com/course/master-ethical-hacking-bug-bounty-oscp-2-from-scratch/?couponCode=D68F276714B5A42618A0) |
 | Web3 and Blockchain Security: Pen Testing & Bug Bounty - Part 1 | ✅ | [Link](https://www.udemy.com/course/web3-and-blockchain-securitypen-testing-bug-bounty-part1/?couponCode=E83A023EF3D68A997659) |
 | Certificate in Compliance, Audit & Risk Management | ✅ | [Link](https://www.udemy.com/course/fundamentals-of-compliance-management-and-risk-management/?couponCode=0186C7D69BF853730783) |
+| DVWA for Ethical Hackers: Master Web App Attacks | ✅ | [Link](https://www.udemy.com/course/dvwa-for-ethical-hackers-master-web-app-attacks/?couponCode=96965E9105D977B84620) |
+| Learn Ethical Hacking: Build Python Attack & Defense Tools | ✅ | [Link](https://www.udemy.com/course/learn-ethical-hacking-build-python-attack-defense-tools/?couponCode=FC447A3373D83FEB9091) |
 
 
 
