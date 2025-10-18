@@ -67,13 +67,11 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Hack Like a Pro: Kali Linux and System Vulnerabilities Quiz | ⚠️ | [Link](https://www.udemy.com/course/hack-like-a-pro-kali-linux-and-system-vulnerabilities-quiz/?couponCode=7A2BA8A91796D3FD4782) |
 | Network Security Protocols, Architecture, and Defense | ⚠️ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=D2C162632FA479A54CA8) |
 | Cybersecurity Essentials Quiz: Are You Ready to Defend? | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-essentials-quiz-are-you-ready-to-defend/?couponCode=9C0C4B45BC92C4F54CB9) |
-| Mega Pack: AZ-900, 104, 204, 305, 500, AI-102 Practice Tests | ⚠️ | [Link](https://www.udemy.com/course/mega-pack-az-900-104-204-305-500-ai-102-practice-tests/?couponCode=REALDISCOUNT2) |
 | Complete Ethical Hacking Masterclass | ✅ | [Link](https://www.udemy.com/course/top-course/?couponCode=0947368C7A50633DA6C3) |
 | Complete Network Hacking Course 2024 - Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/complete-network-hacking-course-2024-beginner-to-advanced/?couponCode=CYBERFORT) |
 | CompTIA A+ Core 1 (220-1101) Hardware, Networking, Mobile | ⚠️ | [Link](https://www.udemy.com/course/comptia-a-core-1-220-1101-hardware-networking-mobile/?couponCode=F5DF065EFAE588793760) |
 | CompTIA A+ Core 2 (220-1102) OS, Security, Troubleshooting | ⚠️ | [Link](https://www.udemy.com/course/comptia-a-core-2-220-1102-os-security-troubleshooting/?couponCode=88EDC493F41918468057) |
 | AI-Powered Hacking with ChatGPT - All A.I. Dark Edition (2024) | ⚠️ | [Link](https://www.udemy.com/course/ai-powered-hacking-with-chatgpt-all-a-i-dark-edition-2024/?couponCode=36F26B925A48F68A1321) |
-| Advanced Blue Team Practice Test - Expertly Crafted MCQs (2024) | ⚠️ | [Link](https://www.udemy.com/course/advanced-blue-team-practice-test-expertly-crafted-mcqs-2024/?couponCode=A87A7A0074F31A39ED59) |
 | Implement GRC (Governance, Risk, Compliance) Step by Step | ⚠️ | [Link](https://www.udemy.com/course/implement-grc-governance-risk-compliance-step-by-step/?couponCode=A4CE1B893887EC3C1B4A) |
 | ISO 27001:2022 Advanced ISMS Auditing Techniques Workshop | ⚠️ | [Link](https://www.udemy.com/course/iso-270012022-advanced-isms-auditing-techniques-workshop/?couponCode=0AD81F39128F21F8B91F) |
 | Cybersecurity — Start Career : The Complete Course | ⚠️ | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=3577EE900F11B352E9C9) |
