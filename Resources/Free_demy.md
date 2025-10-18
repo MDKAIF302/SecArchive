@@ -47,9 +47,9 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Ethically Hack Human Mind: Social Engineering Fundamentals |  ✅   | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=28EACE8E7A95EF4A0B8D) |
 | Implement NIST Cybersecurity Framework (CSF) 2.0 – Step by Step | ⚠️     | [Link](https://www.udemy.com/course/implement-nist-cybersecurity-frameworkcsf-20-step-by-step/?couponCode=9D324C3ECC78B1E9FE10) |
 | Learn Subcontracting Process in SAP MM (SAP R/3)     |  ⚠️       | [Link](https://www.udemy.com/course/learn-subcontracting-process-in-sap-mm/)          |
-| Ethically Hack the Planet Part 1 | ✅  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=7207A1323904755230D2) |
-| Ethically Hack the Planet Part 2 |  ✅  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=4CC2A2C3EF69431F7EFD) |
-| Ethically Hack the Planet - Part 4 | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=A0D0F3D483C417D48218) |
+| Ethically Hack the Planet Part 1 | ⚠️  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=7207A1323904755230D2) |
+| Ethically Hack the Planet Part 2 |  ⚠️  | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=4CC2A2C3EF69431F7EFD) |
+| Ethically Hack the Planet - Part 4 | ⚠️ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=A0D0F3D483C417D48218) |
 | Master Network Security                                                      | ⚠️        | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-5-STAR-GIVE)                            |
 | Computer Forensics and Digital Forensics Masterclass PRO+                    | ⚠️        | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=BEST-COURSE-OCSALY)   |
 | Information Security Incident Management – Step by Step                       | ⚠️        | [Link](https://www.udemy.com/course/information-security-incident-management-step-by-step/?couponCode=CBC2DE40688631DA4F5D) |
@@ -98,7 +98,7 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Cybersecurity Mastery: Hacking Techniques | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM4) |
 | PHP REST API Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/php-rest-api-cybersecurity/?couponCode=10CYBERSECURITY2) |
 | Cybersecurity 101: Foundations for Absolute Beginners | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=OCT_FREE_01) |
-| Cyber Security 101 | ✅ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=ADITYA001) |
+| Cyber Security 101 | ⚠️ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=ADITYA001) |
 | Corporate Cyber Security Awareness for Employees | ⚠️ | [Link](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=D9B0267B879636E0FD47) |
 | Chief Technology Officer (CTO) Mastery Program | ⚠️ | [Link](https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=OCT_FREE_01) |
 | Online Safety: Cybersecurity Health & Scam Prevention | ⚠️ | [Link](https://www.udemy.com/course/online-safety-cybersecurity-health-scam-prevention/?couponCode=C88A479D7E2AD79C7F58) |
@@ -109,21 +109,21 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | OWASP Security Testing of Web, API, Android & Source Code App | ⚠️ | [Link](https://www.udemy.com/course/end-to-end-security-testing-owasp-burp-suite-nmap-vooki/?couponCode=403175D5F91ECBF00569) |
 | Network Security: Mastering Cybersecurity, Ethical Hacking | ✅ | [Link](https://www.udemy.com/course/hacking-network/?couponCode=OCSALY-ACADEMY-2025) |
 | Cryptography & Cybersecurity | ✅ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-ACADEMY-2025) |
-| Zero Trust Linux: Root & Sudo Security | ✅ | [Link](https://www.udemy.com/course/zero-trust-linux-root-sudo-security/?couponCode=AEB134DB1111C1859413) |
+| Zero Trust Linux: Root & Sudo Security | ⚠️ | [Link](https://www.udemy.com/course/zero-trust-linux-root-sudo-security/?couponCode=AEB134DB1111C1859413) |
 | Wireshark Training | ✅ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=OCSALY-ACADEMY-2025) |
 | Secure Code: Python Django - Build Hack Proof Web Applications | ⚠️ | [Link](https://www.udemy.com/course/secure-code-python-django-build-hack-proof-web-applications/?couponCode=15A55C9D49F6151DBC47) |
-| Personal Digital Security: Everyone Must Have Cybersecurity | ✅ | [Link](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=56495A2750A2448259B0) |
-| Digital Forensics Course | ✅ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=OCSALY-5-STARPLS) |
-| Live Master Email Security Spot Phishing & Spam Fast 2025 | ✅ | [Link](https://www.udemy.com/course/live-master-email-security-spot-phishing-spam-fast-2025/?couponCode=FB2CB577546160B0D28F) |
-| OWASP Top 10 - 2025 | ✅ | [Link](https://www.udemy.com/course/owasp-top-10-2025/?couponCode=B6143125D74A7296CE19) |
+| Personal Digital Security: Everyone Must Have Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=56495A2750A2448259B0) |
+| Digital Forensics Course | ⚠️ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=OCSALY-5-STARPLS) |
+| Live Master Email Security Spot Phishing & Spam Fast 2025 | ⚠️ | [Link](https://www.udemy.com/course/live-master-email-security-spot-phishing-spam-fast-2025/?couponCode=FB2CB577546160B0D28F) |
+| OWASP Top 10 - 2025 | ⚠️ | [Link](https://www.udemy.com/course/owasp-top-10-2025/?couponCode=B6143125D74A7296CE19) |
 | Bug Bounty with CVE Hunting along with Ethical Hacking | ⚠️ | [Link](https://www.udemy.com/course/bug-bounty-with-cve-hunting-along-with-ethical-hacking/?couponCode=FDBF27DE4AB4B4FA8713) |
 | LLM Pentesting: Mastering Security Testing for AI Models | ⚠️ | [Link](https://www.udemy.com/course/llm-pentesting-red-teaming/?couponCode=6A3E0591903D342F24DF) |
 | Nmap for Ethical Hacking Bootcamp - Masterclass for Bug Bounty 2025 | ⚠️ | [Link](https://www.udemy.com/course/nmap-for-ethical-hacking-bootcamp-masterclass-for-bug-bounty-2025/?couponCode=B88764D9FEC09C2942FC) |
-| Master Ethical Hacking & Bug Bounty - OSCP 2 From Scratch | ✅ | [Link](https://www.udemy.com/course/master-ethical-hacking-bug-bounty-oscp-2-from-scratch/?couponCode=D68F276714B5A42618A0) |
+| Master Ethical Hacking & Bug Bounty - OSCP 2 From Scratch | ⚠️ | [Link](https://www.udemy.com/course/master-ethical-hacking-bug-bounty-oscp-2-from-scratch/?couponCode=D68F276714B5A42618A0) |
 | Web3 and Blockchain Security: Pen Testing & Bug Bounty - Part 1 | ⚠️ | [Link](https://www.udemy.com/course/web3-and-blockchain-securitypen-testing-bug-bounty-part1/?couponCode=E83A023EF3D68A997659) |
 | Certificate in Compliance, Audit & Risk Management | ⚠️ | [Link](https://www.udemy.com/course/fundamentals-of-compliance-management-and-risk-management/?couponCode=0186C7D69BF853730783) |
-| DVWA for Ethical Hackers: Master Web App Attacks | ✅ | [Link](https://www.udemy.com/course/dvwa-for-ethical-hackers-master-web-app-attacks/?couponCode=96965E9105D977B84620) |
-| Learn Ethical Hacking: Build Python Attack & Defense Tools | ✅ | [Link](https://www.udemy.com/course/learn-ethical-hacking-build-python-attack-defense-tools/?couponCode=FC447A3373D83FEB9091) |
+| DVWA for Ethical Hackers: Master Web App Attacks | ⚠️ | [Link](https://www.udemy.com/course/dvwa-for-ethical-hackers-master-web-app-attacks/?couponCode=96965E9105D977B84620) |
+| Learn Ethical Hacking: Build Python Attack & Defense Tools | ⚠️ | [Link](https://www.udemy.com/course/learn-ethical-hacking-build-python-attack-defense-tools/?couponCode=FC447A3373D83FEB9091) |
 
 
 
