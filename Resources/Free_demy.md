@@ -1,10 +1,13 @@
 # 🎓 Free-demy (Free Udemy Courses)
 
-Curated list of free Udemy courses related to cybersecurity, ethical hacking, programming, and IT skills.  
-(*Note: Free availability may change, always check before enrolling.*)
+Curated list of free Training Courses and exam tests focused on **cybersecurity, ethical hacking, programming, and IT skills**.  
+(*Note: Free availability may change, always verify before enrolling.*)
 
 | Course Title                          | Status | Link |
 |--------------------------------------|--------|------|
+
+## 🎓 Training Courses
+
 | Udemy Free Resource Center |  ✅  | [Link](https://www.udemy.com/courses/free/) |
 | Burp Suite: In-Depth Survival Guide      | ⚠️     | [Link](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7)       |
 | The NIST Privacy Framework: A Step-by-Step Implementation | ⚠️     | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=2542EA3F98C76CC88EDE) |
@@ -124,24 +127,10 @@ Curated list of free Udemy courses related to cybersecurity, ethical hacking, pr
 | Learn Ethical Hacking: Build Python Attack & Defense Tools | ⚠️ | [Link](https://www.udemy.com/course/learn-ethical-hacking-build-python-attack-defense-tools/?couponCode=FC447A3373D83FEB9091) |
 | Network Security: Protocols, Architecture, and Defense | ✅ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=8023583C79B2B049D46A) |
 
+---
 
+## 🧠 Exam Test
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Splunk Enterprise Security Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-enterprise-security-certified-admin-practice-exam-d/?couponCode=OCT19FREE) |
 
 
