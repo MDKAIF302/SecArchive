@@ -44,4 +44,31 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 
 | Course Title | Status | Link |
 |--------------|--------|------|
+| Palo Alto Networks Certified Security Automation Engineer | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-security-automation-engineer/?couponCode=OCT19FREE) |
+| Implementing Cisco Data Center Core Technologies (DCCOR) | ✅ | [Link](https://www.udemy.com/course/implementing-cisco-data-center-core-technologies-dccor/?couponCode=OCT19FREE) |
+| Cisco Developing Applications (DEVCOR) Exams | ✅ | [Link](https://www.udemy.com/course/cisco-developing-applications-devcor-exams/?couponCode=OCT19FREE) |
+| Implementing Cisco Security Core Technologies (SCOR) Exams | ✅ | [Link](https://www.udemy.com/course/implementing-cisco-security-core-technologies-scor-exams/?couponCode=OCT19FREE) |
 | Splunk Enterprise Security Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-enterprise-security-certified-admin-practice-exam-d/?couponCode=OCT19FREE) |
+| Splunk Certified Cybersecurity Defense Analyst Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-certified-cybersecurity-defense-analyst-practice-exam/?couponCode=OCT19FREE) |
+| Splunk IT Service Intelligence Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-it-service-intelligence-certified-admin-practice-exam/?couponCode=OCT19FREE) |
+| Splunk Certified Developer Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-certified-developer-practice-exams/?couponCode=OCT19FREE) |
+| Splunk Core Certified Power User Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-t/?couponCode=OCT19FREE) |
+| GIAC Security Essentials (GSEC) Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-essentials-gsec-exams/?couponCode=OCT19FREE) |
+| GIAC Security Leadership (GSLC) Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-leadership-gslc-exams/?couponCode=OCT19FREE) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
