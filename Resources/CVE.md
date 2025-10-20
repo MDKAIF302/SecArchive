@@ -8,6 +8,7 @@ A curated list of websites and sources where you can find **Common Vulnerabiliti
 - [CVE Official Database](https://cve.mitre.org/) – Authoritative source for CVE IDs and descriptions.
 - [National Vulnerability Database (NVD)](https://nvd.nist.gov/) – Detailed CVE data with severity metrics and CVSS scores.
 - [CVE Details](https://www.cvedetails.com/) – Database: Searchable CVE database with vendor, product, and version filtering, plus statistics and trends.
+- [CVE.circl.lu](https://cve.circl.lu/) – Official: Searchable CVE database and intelligence feed by CIRCL, offering vulnerability details, statistics, and API access.
 
 ## 📰 Security Blogs & Advisories
 - [Praetorian Blog](https://www.praetorian.com/blog/) – Security research, vulnerability reports, and analysis.
