@@ -24,6 +24,9 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Metasploit from Scratch: Beginner to Professional | ⚠️ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=8E0707323E691076330B) |
 | Mastering Linux: The Complete Guide to Becoming a Linux Pro | ✅ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-5-STAR-PLEASE) |
 | Start Career in CyberSecurity – The Ultimate Guide | ⚠️ | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=3577EE900F11B352E9C9) |
+| Ethically Hack the Planet Part 1 | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=BFF9A67E3C9B75DC3E38) |
+| Ethically Hack the Planet Part 2 | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=91F39BCEF6CDE4A421E5) |
+| Ethically Hack the Planet Part 3 | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=6F9E8C1DA7BAD3AA0E0F) |
 | Ethically Hack the Planet - Part 4 | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=7A1B7F94D7868F0ECF15) |
 | Network Security: Protocols, Architecture, and Defense | ✅ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=8023583C79B2B049D46A) |
 | Cyber Security 101 | ✅ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DIPAWALIOFFER) |
@@ -31,7 +34,7 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Assembly — Best | ⚠️ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=OCSALY-ACADEMY-2025) |
 | Master Ethical Hacking & Cybersecurity: CEH+ Certification | ✅ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=HACKING-5_STAR-PLS) |
 | GenAI Cybersecurity Solutions | ✅ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=C86875012255C7EB474C) |
-| Burp Suite Mastery: From Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=4962F9EF8D89F4534654) |
+| Burp Suite Mastery: From Beginner to Advanced | ✅ | [Link](https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=1B8CD0444FFE3216873B) |
 | Network Security: Mastering Cybersecurity, Ethical Hacking | ⚠️ | [Link](https://www.udemy.com/course/hacking-network/?couponCode=OCSALY-ACADEMY-2025) |
 | Cryptography & Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-ACADEMY-2025) |
 | Wireshark Training | ⚠️ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=OCSALY-ACADEMY-2025) |
@@ -39,6 +42,8 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Cybersecurity Mastery: Hacking Techniques | ✅ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM5) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=37FDA9AF0DD9F1CF1A2A) |
 | Crack Windows Passwords | ✅ | [Link](https://www.udemy.com/course/crack-windows-passwords/?couponCode=5CA14BD0020CD243F5DF) |
+| Mastering Kali Linux for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=BD636C97716CF4D81DB8) |
+| Quick Mastery of Jenkins with Uncle Rat | ✅ | [Link](https://www.udemy.com/course/quick-mastery-of-jenkins-with-uncle-rat/?couponCode=F68EBE7034E0A2078B7F) |
 
 ---
 
