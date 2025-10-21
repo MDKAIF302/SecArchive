@@ -34,7 +34,7 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Assembly — Best | ⚠️ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=OCSALY-ACADEMY-2025) |
 | Master Ethical Hacking & Cybersecurity: CEH+ Certification | ✅ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=HACKING-5_STAR-PLS) |
 | GenAI Cybersecurity Solutions | ⚠️ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=C86875012255C7EB474C) |
-| Burp Suite Mastery: From Beginner to Advanced | ✅ | [Link](https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=1B8CD0444FFE3216873B) |
+| Burp Suite Mastery: From Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=1B8CD0444FFE3216873B) |
 | Network Security: Mastering Cybersecurity, Ethical Hacking | ⚠️ | [Link](https://www.udemy.com/course/hacking-network/?couponCode=OCSALY-ACADEMY-2025) |
 | Cryptography & Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-ACADEMY-2025) |
 | Wireshark Training | ⚠️ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=OCSALY-ACADEMY-2025) |
