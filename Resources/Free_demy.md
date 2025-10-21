@@ -44,6 +44,7 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Crack Windows Passwords | ✅ | [Link](https://www.udemy.com/course/crack-windows-passwords/?couponCode=5CA14BD0020CD243F5DF) |
 | Mastering Kali Linux for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=BD636C97716CF4D81DB8) |
 | Quick Mastery of Jenkins with Uncle Rat | ✅ | [Link](https://www.udemy.com/course/quick-mastery-of-jenkins-with-uncle-rat/?couponCode=F68EBE7034E0A2078B7F) |
+| CAPIHE: Certified API Hacking Expert | ✅ | [Link](https://www.udemy.com/course/capie-certified-api-hacking-expert-course-content/?couponCode=473D9237C839B8D00E2D) |
 
 ---
 
