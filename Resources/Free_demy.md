@@ -39,11 +39,11 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Cryptography & Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-ACADEMY-2025) |
 | Wireshark Training | ⚠️ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=OCSALY-ACADEMY-2025) |
 | Digital Forensics Course | ✅ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=DFIR_5-STAR-PLS) |
-| Cybersecurity Mastery: Hacking Techniques | ✅ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM5) |
+| Cybersecurity Mastery: Hacking Techniques | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM5) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=37FDA9AF0DD9F1CF1A2A) |
 | Crack Windows Passwords | ✅ | [Link](https://www.udemy.com/course/crack-windows-passwords/?couponCode=5CA14BD0020CD243F5DF) |
-| Mastering Kali Linux for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=BD636C97716CF4D81DB8) |
-| Quick Mastery of Jenkins with Uncle Rat | ✅ | [Link](https://www.udemy.com/course/quick-mastery-of-jenkins-with-uncle-rat/?couponCode=F68EBE7034E0A2078B7F) |
+| Mastering Kali Linux for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=BD636C97716CF4D81DB8) |
+| Quick Mastery of Jenkins with Uncle Rat | ⚠️ | [Link](https://www.udemy.com/course/quick-mastery-of-jenkins-with-uncle-rat/?couponCode=F68EBE7034E0A2078B7F) |
 | CAPIHE: Certified API Hacking Expert | ✅ | [Link](https://www.udemy.com/course/capie-certified-api-hacking-expert-course-content/?couponCode=473D9237C839B8D00E2D) |
 | Excel Malware Investigation | ✅ | [Link](https://www.udemy.com/course/excel-malware-investigation/?couponCode=EDDC041DE579B28DF587) |
 
