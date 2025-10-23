@@ -38,7 +38,7 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Network Security: Mastering Cybersecurity, Ethical Hacking | ⚠️ | [Link](https://www.udemy.com/course/hacking-network/?couponCode=OCSALY-ACADEMY-2025) |
 | Cryptography & Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-ACADEMY-2025) |
 | Wireshark Training | ⚠️ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=WIRESHARK-OCSALY.COM) |
-| Digital Forensics Course | ✅ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=DFIR_5-STAR-PLS) |
+| Digital Forensics Course | ✅ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=FORENSICS-OCSALY.COM) |
 | Cybersecurity Mastery: Hacking Techniques | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM5) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=37FDA9AF0DD9F1CF1A2A) |
 | Crack Windows Passwords | ✅ | [Link](https://www.udemy.com/course/crack-windows-passwords/?couponCode=5CA14BD0020CD243F5DF) |
@@ -50,6 +50,7 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Hacking Websites for Beginners | ✅ | [Link](https://www.udemy.com/course/hacking-websites-for-beginners/?couponCode=WEBHACKING433) |
 | Linux Training | ✅ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-OCSALY.COM) |
 | Open Source Intelligence (OSINT) | ✅ | [Link](https://www.udemy.com/course/open-source-intelligence/?couponCode=OSINT-OCSALY.COM) |
+| Computer Forensics and Digital Forensics for Everyone | ✅ | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=FORENSICS-OCSALY.COM) |
 
 
 ---
