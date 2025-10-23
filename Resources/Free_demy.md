@@ -20,7 +20,7 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | ISO 42001 Lead Auditor: Auditing AI Management Systems | ⚠️ | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=CD9CC70CEBE903D32A5C) |
 | Mastering Software Defined Radio (SDR): GNU Radio and SDR++ | ⚠️ | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=OCSALY-ACADEMY-2025) |
 | Wireshark: Master Packet Analysis & Ethical Hacking Tools | ⚠️ | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=5-STAR-COURSE-PLEASE) |
-| Mastering Network Security: Defending Against Cyber Threats | ⚠️ | [Link](https://www.udemy.com/course/master-network-security/?couponCode=OCSALY-ACADEMY-2025) |
+| Mastering Network Security: Defending Against Cyber Threats | ✅ | [Link](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-OCSALY.COM) |
 | Metasploit from Scratch: Beginner to Professional | ⚠️ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=8E0707323E691076330B) |
 | Mastering Linux: The Complete Guide to Becoming a Linux Pro | ✅ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-5-STAR-PLEASE) |
 | Start Career in CyberSecurity – The Ultimate Guide | ⚠️ | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=3577EE900F11B352E9C9) |
@@ -30,22 +30,27 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Ethically Hack the Planet - Part 4 | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=7A1B7F94D7868F0ECF15) |
 | Network Security: Protocols, Architecture, and Defense | ✅ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=8023583C79B2B049D46A) |
 | Cyber Security 101 | ✅ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DIPAWALIOFFER) |
-| Nmap — Training | ⚠️ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=OCSALY-ACADEMY-2025) |
+| Nmap — Training | ⚠️ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=NMAP_OCSALY.COM) |
 | Assembly — Best | ⚠️ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=OCSALY-ACADEMY-2025) |
-| Master Ethical Hacking & Cybersecurity: CEH+ Certification | ✅ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=HACKING-5_STAR-PLS) |
+| Master Ethical Hacking & Cybersecurity: CEH+ Certification | ✅ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=HACKING-OCSALY.COM) |
 | GenAI Cybersecurity Solutions | ⚠️ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=C86875012255C7EB474C) |
 | Burp Suite Mastery: From Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=1B8CD0444FFE3216873B) |
 | Network Security: Mastering Cybersecurity, Ethical Hacking | ⚠️ | [Link](https://www.udemy.com/course/hacking-network/?couponCode=OCSALY-ACADEMY-2025) |
 | Cryptography & Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-ACADEMY-2025) |
-| Wireshark Training | ⚠️ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=OCSALY-ACADEMY-2025) |
+| Wireshark Training | ⚠️ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=WIRESHARK-OCSALY.COM) |
 | Digital Forensics Course | ✅ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=DFIR_5-STAR-PLS) |
 | Cybersecurity Mastery: Hacking Techniques | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM5) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=37FDA9AF0DD9F1CF1A2A) |
 | Crack Windows Passwords | ✅ | [Link](https://www.udemy.com/course/crack-windows-passwords/?couponCode=5CA14BD0020CD243F5DF) |
 | Mastering Kali Linux for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=BD636C97716CF4D81DB8) |
-| Quick Mastery of Jenkins with Uncle Rat | ⚠️ | [Link](https://www.udemy.com/course/quick-mastery-of-jenkins-with-uncle-rat/?couponCode=F68EBE7034E0A2078B7F) |
+| Quick Mastery of Jenkins with Uncle Rat | ✅ | [Link](https://www.udemy.com/course/quick-mastery-of-jenkins-with-uncle-rat/?couponCode=79551CE12B52C047876F) |
 | CAPIHE: Certified API Hacking Expert | ✅ | [Link](https://www.udemy.com/course/capie-certified-api-hacking-expert-course-content/?couponCode=473D9237C839B8D00E2D) |
 | Excel Malware Investigation | ✅ | [Link](https://www.udemy.com/course/excel-malware-investigation/?couponCode=EDDC041DE579B28DF587) |
+| Pentesting: The Ultimate Guide | ✅ | [Link](https://www.udemy.com/course/pentesting-the-ultimate-guide/?couponCode=0DD90707D5ECBF2E6773) |
+| Hacking Websites for Beginners | ✅ | [Link](https://www.udemy.com/course/hacking-websites-for-beginners/?couponCode=WEBHACKING433) |
+| Linux Training | ✅ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-OCSALY.COM) |
+| Open Source Intelligence (OSINT) | ✅ | [Link](https://www.udemy.com/course/open-source-intelligence/?couponCode=OSINT-OCSALY.COM) |
+
 
 ---
 
