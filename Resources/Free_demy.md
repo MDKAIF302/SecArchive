@@ -62,10 +62,10 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 
 | Course Title | Status | Link |
 |--------------|--------|------|
-| Palo Alto Networks Certified Security Automation Engineer | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-security-automation-engineer/?couponCode=OCT24FREE) |
-| Implementing Cisco Data Center Core Technologies (DCCOR) | ✅ | [Link](https://www.udemy.com/course/implementing-cisco-data-center-core-technologies-dccor/?couponCode=OCT24FREE) |
-| Cisco Developing Applications (DEVCOR) Exams | ✅ | [Link](https://www.udemy.com/course/cisco-developing-applications-devcor-exams/?couponCode=OCT24FREE) |
-| Implementing Cisco Security Core Technologies (SCOR) Exams | ✅ | [Link](https://www.udemy.com/course/implementing-cisco-security-core-technologies-scor-exams/?couponCode=OCT24FREE) |
+| Palo Alto Networks Certified Security Automation Engineer | ⚠️ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-security-automation-engineer/?couponCode=OCT24FREE) |
+| Implementing Cisco Data Center Core Technologies (DCCOR) | ⚠️ | [Link](https://www.udemy.com/course/implementing-cisco-data-center-core-technologies-dccor/?couponCode=OCT24FREE) |
+| Cisco Developing Applications (DEVCOR) Exams | ⚠️ | [Link](https://www.udemy.com/course/cisco-developing-applications-devcor-exams/?couponCode=OCT24FREE) |
+| Implementing Cisco Security Core Technologies (SCOR) Exams | ⚠️ | [Link](https://www.udemy.com/course/implementing-cisco-security-core-technologies-scor-exams/?couponCode=OCT24FREE) |
 | Splunk Enterprise Security Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-enterprise-security-certified-admin-practice-exam-d/?couponCode=OCT24FREE) |
 | Splunk Certified Cybersecurity Defense Analyst Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-certified-cybersecurity-defense-analyst-practice-exam/?couponCode=OCT24FREE) |
 | Splunk IT Service Intelligence Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-it-service-intelligence-certified-admin-practice-exam/?couponCode=OCT24FREE) |
