@@ -24,9 +24,9 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Metasploit from Scratch: Beginner to Professional | ⚠️ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=8E0707323E691076330B) |
 | Mastering Linux: The Complete Guide to Becoming a Linux Pro | ⚠️ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-5-STAR-PLEASE) |
 | Start Career in CyberSecurity – The Ultimate Guide | ⚠️ | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=3577EE900F11B352E9C9) |
-| Ethically Hack the Planet Part 1 | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=BFF9A67E3C9B75DC3E38) |
-| Ethically Hack the Planet Part 2 | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=91F39BCEF6CDE4A421E5) |
-| Ethically Hack the Planet Part 3 | ✅ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=6F9E8C1DA7BAD3AA0E0F) |
+| Ethically Hack the Planet Part 1 | ⚠️ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=BFF9A67E3C9B75DC3E38) |
+| Ethically Hack the Planet Part 2 | ⚠️ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=91F39BCEF6CDE4A421E5) |
+| Ethically Hack the Planet Part 3 | ⚠️ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-3/?couponCode=6F9E8C1DA7BAD3AA0E0F) |
 | Ethically Hack the Planet - Part 4 | ⚠️ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=7A1B7F94D7868F0ECF15) |
 | Network Security: Protocols, Architecture, and Defense | ⚠️ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=8023583C79B2B049D46A) |
 | Cyber Security 101 | ⚠️ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DIPAWALIOFFER) |
@@ -45,8 +45,8 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Mastering Kali Linux for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=BD636C97716CF4D81DB8) |
 | Quick Mastery of Jenkins with Uncle Rat | ✅ | [Link](https://www.udemy.com/course/quick-mastery-of-jenkins-with-uncle-rat/?couponCode=79551CE12B52C047876F) |
 | CAPIHE: Certified API Hacking Expert | ⚠️ | [Link](https://www.udemy.com/course/capie-certified-api-hacking-expert-course-content/?couponCode=473D9237C839B8D00E2D) |
-| Excel Malware Investigation | ✅ | [Link](https://www.udemy.com/course/excel-malware-investigation/?couponCode=EDDC041DE579B28DF587) |
-| Pentesting: The Ultimate Guide | ✅ | [Link](https://www.udemy.com/course/pentesting-the-ultimate-guide/?couponCode=0DD90707D5ECBF2E6773) |
+| Excel Malware Investigation | ⚠️ | [Link](https://www.udemy.com/course/excel-malware-investigation/?couponCode=EDDC041DE579B28DF587) |
+| Pentesting: The Ultimate Guide | ⚠️ | [Link](https://www.udemy.com/course/pentesting-the-ultimate-guide/?couponCode=0DD90707D5ECBF2E6773) |
 | Hacking Websites for Beginners | ✅ | [Link](https://www.udemy.com/course/hacking-websites-for-beginners/?couponCode=WEBHACKING433) |
 | Linux Training | ✅ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-OCSALY.COM) |
 | Open Source Intelligence (OSINT) | ✅ | [Link](https://www.udemy.com/course/open-source-intelligence/?couponCode=OSINT-OCSALY.COM) |
@@ -62,17 +62,17 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 
 | Course Title | Status | Link |
 |--------------|--------|------|
-| Palo Alto Networks Certified Security Automation Engineer | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-security-automation-engineer/?couponCode=OCT19FREE) |
-| Implementing Cisco Data Center Core Technologies (DCCOR) | ✅ | [Link](https://www.udemy.com/course/implementing-cisco-data-center-core-technologies-dccor/?couponCode=OCT19FREE) |
-| Cisco Developing Applications (DEVCOR) Exams | ✅ | [Link](https://www.udemy.com/course/cisco-developing-applications-devcor-exams/?couponCode=OCT19FREE) |
-| Implementing Cisco Security Core Technologies (SCOR) Exams | ✅ | [Link](https://www.udemy.com/course/implementing-cisco-security-core-technologies-scor-exams/?couponCode=OCT19FREE) |
-| Splunk Enterprise Security Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-enterprise-security-certified-admin-practice-exam-d/?couponCode=OCT19FREE) |
-| Splunk Certified Cybersecurity Defense Analyst Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-certified-cybersecurity-defense-analyst-practice-exam/?couponCode=OCT19FREE) |
-| Splunk IT Service Intelligence Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-it-service-intelligence-certified-admin-practice-exam/?couponCode=OCT19FREE) |
-| Splunk Certified Developer Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-certified-developer-practice-exams/?couponCode=OCT19FREE) |
-| Splunk Core Certified Power User Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-t/?couponCode=OCT19FREE) |
-| GIAC Security Essentials (GSEC) Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-essentials-gsec-exams/?couponCode=OCT19FREE) |
-| GIAC Security Leadership (GSLC) Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-leadership-gslc-exams/?couponCode=OCT19FREE) |
+| Palo Alto Networks Certified Security Automation Engineer | ✅ | [Link](https://www.udemy.com/course/palo-alto-networks-certified-security-automation-engineer/?couponCode=OCT24FREE) |
+| Implementing Cisco Data Center Core Technologies (DCCOR) | ✅ | [Link](https://www.udemy.com/course/implementing-cisco-data-center-core-technologies-dccor/?couponCode=OCT24FREE) |
+| Cisco Developing Applications (DEVCOR) Exams | ✅ | [Link](https://www.udemy.com/course/cisco-developing-applications-devcor-exams/?couponCode=OCT24FREE) |
+| Implementing Cisco Security Core Technologies (SCOR) Exams | ✅ | [Link](https://www.udemy.com/course/implementing-cisco-security-core-technologies-scor-exams/?couponCode=OCT24FREE) |
+| Splunk Enterprise Security Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-enterprise-security-certified-admin-practice-exam-d/?couponCode=OCT24FREE) |
+| Splunk Certified Cybersecurity Defense Analyst Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-certified-cybersecurity-defense-analyst-practice-exam/?couponCode=OCT24FREE) |
+| Splunk IT Service Intelligence Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-it-service-intelligence-certified-admin-practice-exam/?couponCode=OCT24FREE) |
+| Splunk Certified Developer Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-certified-developer-practice-exams/?couponCode=OCT24FREE) |
+| Splunk Core Certified Power User Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-t/?couponCode=OCT24FREE) |
+| GIAC Security Essentials (GSEC) Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-essentials-gsec-exams/?couponCode=OCT24FREE) |
+| GIAC Security Leadership (GSLC) Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-leadership-gslc-exams/?couponCode=OCT24FREE) |
 
 
 
