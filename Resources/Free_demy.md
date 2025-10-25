@@ -51,7 +51,10 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Linux Training | ✅ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-OCSALY.COM) |
 | Open Source Intelligence (OSINT) | ✅ | [Link](https://www.udemy.com/course/open-source-intelligence/?couponCode=OSINT-OCSALY.COM) |
 | Computer Forensics and Digital Forensics for Everyone | ✅ | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=FORENSICS-OCSALY.COM) |
-
+| Metasploit: From Scratch — Beginner to Professional | ✅ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=E8C8EFD00EA0BD355448) |
+| Uncle Rat's Ultimate Broad Scope and API Hacking Guide | ✅ | [Link](https://www.udemy.com/course/uncle-rats-ultimate-broad-scope-and-api-hacking-guide/?couponCode=27154588606E904FCE14) |
+| Cyber Security & Ethical Hacking (Online Course) | ✅ | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=11E42C70CA32BD584A92) |
+| SQLMap from Scratch for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=E1D21720008689432512) |
 
 ---
 
