@@ -47,12 +47,12 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | CAPIHE: Certified API Hacking Expert | ⚠️ | [Link](https://www.udemy.com/course/capie-certified-api-hacking-expert-course-content/?couponCode=473D9237C839B8D00E2D) |
 | Excel Malware Investigation | ⚠️ | [Link](https://www.udemy.com/course/excel-malware-investigation/?couponCode=EDDC041DE579B28DF587) |
 | Pentesting: The Ultimate Guide | ⚠️ | [Link](https://www.udemy.com/course/pentesting-the-ultimate-guide/?couponCode=0DD90707D5ECBF2E6773) |
-| Hacking Websites for Beginners | ✅ | [Link](https://www.udemy.com/course/hacking-websites-for-beginners/?couponCode=WEBHACKING433) |
+| Hacking Websites for Beginners | ⚠️ | [Link](https://www.udemy.com/course/hacking-websites-for-beginners/?couponCode=WEBHACKING433) |
 | Linux Training | ✅ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-OCSALY.COM) |
 | Open Source Intelligence (OSINT) | ✅ | [Link](https://www.udemy.com/course/open-source-intelligence/?couponCode=OSINT-OCSALY.COM) |
 | Computer Forensics and Digital Forensics for Everyone | ✅ | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=FORENSICS-OCSALY.COM) |
 | Metasploit: From Scratch — Beginner to Professional | ✅ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=E8C8EFD00EA0BD355448) |
-| Uncle Rat's Ultimate Broad Scope and API Hacking Guide | ✅ | [Link](https://www.udemy.com/course/uncle-rats-ultimate-broad-scope-and-api-hacking-guide/?couponCode=27154588606E904FCE14) |
+| Uncle Rat's Ultimate Broad Scope and API Hacking Guide | ⚠️ | [Link](https://www.udemy.com/course/uncle-rats-ultimate-broad-scope-and-api-hacking-guide/?couponCode=27154588606E904FCE14) |
 | Cyber Security & Ethical Hacking (Online Course) | ✅ | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=11E42C70CA32BD584A92) |
 | SQLMap from Scratch for Ethical Hackers | ✅ | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=E1D21720008689432512) |
 
