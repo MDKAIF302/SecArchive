@@ -67,13 +67,11 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Implementing Cisco Data Center Core Technologies (DCCOR) | ⚠️ | [Link](https://www.udemy.com/course/implementing-cisco-data-center-core-technologies-dccor/?couponCode=OCT24FREE) |
 | Cisco Developing Applications (DEVCOR) Exams | ⚠️ | [Link](https://www.udemy.com/course/cisco-developing-applications-devcor-exams/?couponCode=OCT24FREE) |
 | Implementing Cisco Security Core Technologies (SCOR) Exams | ⚠️ | [Link](https://www.udemy.com/course/implementing-cisco-security-core-technologies-scor-exams/?couponCode=OCT24FREE) |
-| Splunk Enterprise Security Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-enterprise-security-certified-admin-practice-exam-d/?couponCode=OCT24FREE) |
-| Splunk Certified Cybersecurity Defense Analyst Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-certified-cybersecurity-defense-analyst-practice-exam/?couponCode=OCT24FREE) |
-| Splunk IT Service Intelligence Certified Admin Practice Exam | ✅ | [Link](https://www.udemy.com/course/splunk-it-service-intelligence-certified-admin-practice-exam/?couponCode=OCT24FREE) |
-| Splunk Certified Developer Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-certified-developer-practice-exams/?couponCode=OCT24FREE) |
-| Splunk Core Certified Power User Practice Exams | ✅ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-t/?couponCode=OCT24FREE) |
-| GIAC Security Essentials (GSEC) Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-essentials-gsec-exams/?couponCode=OCT24FREE) |
-| GIAC Security Leadership (GSLC) Exams | ✅ | [Link](https://www.udemy.com/course/giac-security-leadership-gslc-exams/?couponCode=OCT24FREE) |
+| Splunk Enterprise Security Certified Admin Practice Exam | ⚠️ | [Link](https://www.udemy.com/course/splunk-enterprise-security-certified-admin-practice-exam-d/?couponCode=OCT24FREE) |
+| Splunk Certified Cybersecurity Defense Analyst Practice Exam | ⚠️ | [Link](https://www.udemy.com/course/splunk-certified-cybersecurity-defense-analyst-practice-exam/?couponCode=OCT24FREE) |
+| Splunk IT Service Intelligence Certified Admin Practice Exam | ⚠️ | [Link](https://www.udemy.com/course/splunk-it-service-intelligence-certified-admin-practice-exam/?couponCode=OCT24FREE) |
+| Splunk Certified Developer Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/splunk-certified-developer-practice-exams/?couponCode=OCT24FREE) |
+| Splunk Core Certified Power User Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-t/?couponCode=OCT24FREE) |
 
 
 
