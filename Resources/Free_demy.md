@@ -12,14 +12,14 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | The NIST Privacy Framework: A Step-by-Step Implementation | ⚠️ | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=2542EA3F98C76CC88EDE) |
 | Practical IoT Security and Penetration Testing for Beginners | ⚠️ | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
 | Red Teaming Exploit Development with Assembly and C (Shellcode) | ✅ | [Link](https://www.udemy.com/course/shellcode/?couponCode=NEW_YEAR-GIFT-2025) |
-| Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/real_pentest/?couponCode=OCSALY-ACADEMY-2025) |
-| Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts | ⚠️ | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=OCSALY-ACADEMY-2025) |
+| Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ✅ | [Link](https://www.udemy.com/course/real_pentest/?couponCode=ETHICAL-HACKING2026) |
+| Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts | ✅ | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=WIFI-SECTORNULL.COM) |
 | Web Hacking For Beginners — Unlocking the Secrets of Web Security | ⚠️ | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=BE12C0BC98BE384AFC83) |
 | API Security Testing Guide by The XSS Rat | ⚠️ | [Link](https://www.udemy.com/course/uncle-rats-api-security-testing-guide/?couponCode=05795A30DFF56FA7F08B) |
 | The Ultimate BAC and IDOR Guide for Ethical Hacking | ⚠️ | [Link](https://www.udemy.com/course/the-ultimate-bac-and-idor-guide-for-ethical-hacking/?couponCode=A1ED7AF37002A40A600C) |
 | ISO 42001 Lead Auditor: Auditing AI Management Systems | ⚠️ | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=CD9CC70CEBE903D32A5C) |
-| Mastering Software Defined Radio (SDR): GNU Radio and SDR++ | ⚠️ | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=SDR-SECTORNULL.COM) |
-| Wireshark: Master Packet Analysis & Ethical Hacking Tools | ⚠️ | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=5-STAR-COURSE-PLEASE) |
+| Mastering Software Defined Radio (SDR): GNU Radio and SDR++ | ✅ | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=SDR-SECTORNULL.COM) |
+| Wireshark: Master Packet Analysis & Ethical Hacking Tools | ✅ | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=WSHAK-SECTORNULL.COM) |
 | Mastering Network Security: Defending Against Cyber Threats | ✅ | [Link](https://www.udemy.com/course/master-network-security/?couponCode=SECTORNULL.COM-2026) |
 | Metasploit from Scratch: Beginner to Professional | ⚠️ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=8E0707323E691076330B) |
 | Mastering Linux: The Complete Guide to Becoming a Linux Pro | ⚠️ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-5-STAR-PLEASE) |
@@ -30,14 +30,13 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Ethically Hack the Planet - Part 4 | ⚠️ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=7A1B7F94D7868F0ECF15) |
 | Network Security: Protocols, Architecture, and Defense | ⚠️ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=8023583C79B2B049D46A) |
 | Cyber Security 101 | ⚠️ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DIPAWALIOFFER) |
-| Nmap — Training | ⚠️ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=NMAP_OCSALY.COM) |
+| Real NMAP: Network Scanning, Recon & Exploit Discovery|CNMP+ | ✅ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=NMAP-SECTORNULL.COM) |
 | Assembly — Best | ⚠️ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=OCSALY-ACADEMY-2025) |
 | Master Ethical Hacking & Cybersecurity: CEH+ Certification | ⚠️ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=HACKING-OCSALY.COM) |
 | GenAI Cybersecurity Solutions | ⚠️ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=C86875012255C7EB474C) |
 | Burp Suite Mastery: From Beginner to Advanced | ⚠️ | [Link](https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/?couponCode=1B8CD0444FFE3216873B) |
 | Network Security: Mastering Cybersecurity, Ethical Hacking | ⚠️ | [Link](https://www.udemy.com/course/hacking-network/?couponCode=OCSALY-ACADEMY-2025) |
 | Cryptography & Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/cryptography-cybersecurity/?couponCode=OCSALY-ACADEMY-2025) |
-| Wireshark Training | ⚠️ | [Link](https://www.udemy.com/course/wireshark-training/?couponCode=WIRESHARK-OCSALY.COM) |
 | Digital Forensics Course | ⚠️ | [Link](https://www.udemy.com/course/digital-forensics-course/?couponCode=FORENSICS-OCSALY.COM) |
 | Cybersecurity Mastery: Hacking Techniques | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=DISCUDEMY.COM5) |
 | Recon Ninja: Advanced Info Gathering for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/?couponCode=37FDA9AF0DD9F1CF1A2A) |
@@ -55,6 +54,8 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Uncle Rat's Ultimate Broad Scope and API Hacking Guide | ⚠️ | [Link](https://www.udemy.com/course/uncle-rats-ultimate-broad-scope-and-api-hacking-guide/?couponCode=27154588606E904FCE14) |
 | Cyber Security & Ethical Hacking (Online Course) | ⚠️ | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=11E42C70CA32BD584A92) |
 | SQLMap from Scratch for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=E1D21720008689432512) |
+| ISO/27001:2022 for Cloud Services | ✅ | [Link](https://www.udemy.com/course/iso-270012022-for-cloud-services/?couponCode=35B9C16ED97919FA1277) |
+| Reverse Engineering Bootcamp:Ghidra, IDA, Linux, and x86_64 | ✅ | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=SECTORNULL.COM-GIFT) |
 
 ---
 
