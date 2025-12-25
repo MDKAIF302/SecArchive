@@ -30,7 +30,7 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Ethically Hack the Planet - Part 4 | ⚠️ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=7A1B7F94D7868F0ECF15) |
 | Network Security: Protocols, Architecture, and Defense | ⚠️ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=8023583C79B2B049D46A) |
 | Cyber Security 101 | ⚠️ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DIPAWALIOFFER) |
-| NMAP: Network Scanning, Recon & Exploit Discovery|CNMP+ | ✅ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=NMAP-SECTORNULL.COM) |
+| Nmap Training | ✅ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=NMAP-SECTORNULL.COM) |
 | Assembly — Best | ⚠️ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=OCSALY-ACADEMY-2025) |
 | Master Ethical Hacking & Cybersecurity: CEH+ Certification | ⚠️ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=HACKING-OCSALY.COM) |
 | GenAI Cybersecurity Solutions | ⚠️ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=C86875012255C7EB474C) |
