@@ -56,6 +56,15 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | SQLMap from Scratch for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=E1D21720008689432512) |
 | ISO/27001:2022 for Cloud Services | ✅ | [Link](https://www.udemy.com/course/iso-270012022-for-cloud-services/?couponCode=35B9C16ED97919FA1277) |
 | Reverse Engineering Bootcamp:Ghidra, IDA, Linux, and x86_64 | ✅ | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=SECTORNULL.COM-GIFT) |
+| Mastering Android Bug Bounties with Personal POCs | ✅ | [Link](https://www.udemy.com/course/mastering-android-bug-bounties-with-personal-pocs/?couponCode=B1SCUIT-PRO-1000) |
+| Cybersecurity & AI Safety Awareness | ✅ | [Link](https://www.udemy.com/course/cybersecurity-ai-safety-awareness/?couponCode=B2F603C70D1BF0EAAA3F) |
+| AI for Risk Management & Compliance Excellence | ✅ | [Link](https://www.udemy.com/course/ai-for-risk-management-compliance-excellence/?couponCode=F445C5FA17C672B4892B) |
+| Artificial Intelligence Risks in Cybersecurity | ✅ | [Link](https://www.udemy.com/course/artificial-intelligence-risks-in-cybersecurity/?couponCode=04FB9C393CDB5593BCC0) |
+| Mastering Cybersecurity and Supply Chain Risk Management | ✅ | [Link](https://www.udemy.com/course/mastering-cybersecurity-and-supply-chain-risk-management/?couponCode=HOHOHO17) |
+| Cybersecurity Mastery: Hacking Techniques | ✅ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=468F022406C8C0CD51BA) |
+| Personal Digital Security: Everyone Must Have Cybersecurity | ✅ | [Link](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=0204EFF47359956D71F8) |
+| Crack Windows Passwords | ✅ | [Link](https://www.udemy.com/course/crack-windows-passwords/?couponCode=01FE5FDEAF30906FA6E3) |
+| WebHack for Ethical Hacking & Ultimate Defensive Skills | ✅ | [Link](https://www.udemy.com/course/webhack-for-ethical-hacking-ultimate-defensive-skills-h/?couponCode=D9A8A8A7D0B14FF21FD0) |
 
 ---
 
