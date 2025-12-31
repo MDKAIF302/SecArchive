@@ -61,7 +61,7 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | AI for Risk Management & Compliance Excellence | ⚠️ | [Link](https://www.udemy.com/course/ai-for-risk-management-compliance-excellence/?couponCode=F445C5FA17C672B4892B) |
 | Artificial Intelligence Risks in Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/artificial-intelligence-risks-in-cybersecurity/?couponCode=04FB9C393CDB5593BCC0) |
 | Mastering Cybersecurity and Supply Chain Risk Management | ⚠️ | [Link](https://www.udemy.com/course/mastering-cybersecurity-and-supply-chain-risk-management/?couponCode=HOHOHO17) |
-| Mastering Black Hat Techniques: A Guide to Hacking & Cybersec | ✅ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=9201B33C773D8BA390E8) |
+| Mastering Black Hat Techniques: A Guide to Hacking & Cybersec | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=9201B33C773D8BA390E8) |
 | Personal Digital Security: Everyone Must Have Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=0204EFF47359956D71F8) |
 | Crack Windows Passwords | ⚠️ | [Link](https://www.udemy.com/course/crack-windows-passwords/?couponCode=01FE5FDEAF30906FA6E3) |
 | WebHack for Ethical Hacking & Ultimate Defensive Skills | ⚠️ | [Link](https://www.udemy.com/course/webhack-for-ethical-hacking-ultimate-defensive-skills-h/?couponCode=D9A8A8A7D0B14FF21FD0) |
