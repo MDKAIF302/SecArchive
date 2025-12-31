@@ -11,16 +11,16 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Burp Suite: In-Depth Survival Guide | ⚠️ | [Link](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=9FEFE62E93942AFCF2E7) |
 | The NIST Privacy Framework: A Step-by-Step Implementation | ⚠️ | [Link](https://www.udemy.com/course/the-nist-privacy-framework-a-step-by-step-implementation/?couponCode=2542EA3F98C76CC88EDE) |
 | Practical IoT Security and Penetration Testing for Beginners | ⚠️ | [Link](https://www.udemy.com/course/iot-security-beginners/?couponCode=D42AABD966028AA4EDC0) |
-| Red Teaming Exploit Development with Assembly and C (Shellcode) | ✅ | [Link](https://www.udemy.com/course/shellcode/?couponCode=NEW_YEAR-GIFT-2025) |
-| Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ✅ | [Link](https://www.udemy.com/course/real_pentest/?couponCode=ETHICAL-HACKING2026) |
-| Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts | ✅ | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=WIFI-SECTORNULL.COM) |
+| Red Teaming Exploit Development with Assembly and C (Shellcode) | ⚠️ | [Link](https://www.udemy.com/course/shellcode/?couponCode=NEW_YEAR-GIFT-2025) |
+| Ethical Hacking & Pentest Mastery: Complete Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/real_pentest/?couponCode=ETHICAL-HACKING2026) |
+| Wireless Networks & SDR 2025: GSM, SS7, GPRS, LTE & 5G Facts | ⚠️ | [Link](https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/?couponCode=WIFI-SECTORNULL.COM) |
 | Web Hacking For Beginners — Unlocking the Secrets of Web Security | ⚠️ | [Link](https://www.udemy.com/course/web-hacking-for-beginners/?couponCode=BE12C0BC98BE384AFC83) |
 | API Security Testing Guide by The XSS Rat | ⚠️ | [Link](https://www.udemy.com/course/uncle-rats-api-security-testing-guide/?couponCode=05795A30DFF56FA7F08B) |
 | The Ultimate BAC and IDOR Guide for Ethical Hacking | ⚠️ | [Link](https://www.udemy.com/course/the-ultimate-bac-and-idor-guide-for-ethical-hacking/?couponCode=A1ED7AF37002A40A600C) |
 | ISO 42001 Lead Auditor: Auditing AI Management Systems | ⚠️ | [Link](https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/?couponCode=CD9CC70CEBE903D32A5C) |
-| Mastering Software Defined Radio (SDR): GNU Radio and SDR++ | ✅ | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=SDR-SECTORNULL.COM) |
-| Wireshark: Master Packet Analysis & Ethical Hacking Tools | ✅ | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=WSHAK-SECTORNULL.COM) |
-| Mastering Network Security: Defending Against Cyber Threats | ✅ | [Link](https://www.udemy.com/course/master-network-security/?couponCode=SECTORNULL.COM-2026) |
+| Mastering Software Defined Radio (SDR): GNU Radio and SDR++ | ⚠️ | [Link](https://www.udemy.com/course/software_defined_radio/?couponCode=SDR-SECTORNULL.COM) |
+| Wireshark: Master Packet Analysis & Ethical Hacking Tools | ⚠️ | [Link](https://www.udemy.com/course/wireshark-course/?couponCode=WSHAK-SECTORNULL.COM) |
+| Mastering Network Security: Defending Against Cyber Threats | ⚠️ | [Link](https://www.udemy.com/course/master-network-security/?couponCode=SECTORNULL.COM-2026) |
 | Metasploit from Scratch: Beginner to Professional | ⚠️ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=8E0707323E691076330B) |
 | Mastering Linux: The Complete Guide to Becoming a Linux Pro | ⚠️ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-5-STAR-PLEASE) |
 | Start Career in CyberSecurity – The Ultimate Guide | ⚠️ | [Link](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=3577EE900F11B352E9C9) |
@@ -30,7 +30,7 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Ethically Hack the Planet - Part 4 | ⚠️ | [Link](https://www.udemy.com/course/ethically-hack-the-planet-part-4/?couponCode=7A1B7F94D7868F0ECF15) |
 | Network Security: Protocols, Architecture, and Defense | ⚠️ | [Link](https://www.udemy.com/course/network-security-protocols-architecture-and-defense/?couponCode=8023583C79B2B049D46A) |
 | Cyber Security 101 | ⚠️ | [Link](https://www.udemy.com/course/cyber-security-101-aditya/?couponCode=DIPAWALIOFFER) |
-| Nmap Training | ✅ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=NMAP-SECTORNULL.COM) |
+| Nmap Training | ⚠️ | [Link](https://www.udemy.com/course/nmap-training/?couponCode=NMAP-SECTORNULL.COM) |
 | Assembly — Best | ⚠️ | [Link](https://www.udemy.com/course/assembly-best/?couponCode=OCSALY-ACADEMY-2025) |
 | Master Ethical Hacking & Cybersecurity: CEH+ Certification | ⚠️ | [Link](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=HACKING-OCSALY.COM) |
 | GenAI Cybersecurity Solutions | ⚠️ | [Link](https://www.udemy.com/course/genai-cybersecurity-solutions-j/?couponCode=C86875012255C7EB474C) |
@@ -48,24 +48,24 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Pentesting: The Ultimate Guide | ⚠️ | [Link](https://www.udemy.com/course/pentesting-the-ultimate-guide/?couponCode=0DD90707D5ECBF2E6773) |
 | Hacking Websites for Beginners | ⚠️ | [Link](https://www.udemy.com/course/hacking-websites-for-beginners/?couponCode=WEBHACKING433) |
 | Linux Training | ⚠️ | [Link](https://www.udemy.com/course/linux-training/?couponCode=LINUX-OCSALY.COM) |
-| Open Source Intelligence (OSINT) | ✅ | [Link](https://www.udemy.com/course/open-source-intelligence/?couponCode=NEW_YEAR-GIFT-PLS) |
-| Computer Forensics and Digital Forensics for Everyone | ✅ | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=SECTORNULL.COM-2026) |
+| Open Source Intelligence (OSINT) | ⚠️ | [Link](https://www.udemy.com/course/open-source-intelligence/?couponCode=NEW_YEAR-GIFT-PLS) |
+| Computer Forensics and Digital Forensics for Everyone | ⚠️ | [Link](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=SECTORNULL.COM-2026) |
 | Metasploit: From Scratch — Beginner to Professional | ⚠️ | [Link](https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/?couponCode=E8C8EFD00EA0BD355448) |
 | Uncle Rat's Ultimate Broad Scope and API Hacking Guide | ⚠️ | [Link](https://www.udemy.com/course/uncle-rats-ultimate-broad-scope-and-api-hacking-guide/?couponCode=27154588606E904FCE14) |
 | Cyber Security & Ethical Hacking (Online Course) | ⚠️ | [Link](https://www.udemy.com/course/cyber-security-ethical-hacking-online-course/?couponCode=11E42C70CA32BD584A92) |
 | SQLMap from Scratch for Ethical Hackers | ⚠️ | [Link](https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/?couponCode=E1D21720008689432512) |
-| ISO/27001:2022 for Cloud Services | ✅ | [Link](https://www.udemy.com/course/iso-270012022-for-cloud-services/?couponCode=35B9C16ED97919FA1277) |
-| Reverse Engineering Bootcamp:Ghidra, IDA, Linux, and x86_64 | ✅ | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=SECTORNULL.COM-GIFT) |
-| Mastering Android Bug Bounties with Personal POCs | ✅ | [Link](https://www.udemy.com/course/mastering-android-bug-bounties-with-personal-pocs/?couponCode=B1SCUIT-PRO-1000) |
-| Cybersecurity & AI Safety Awareness | ✅ | [Link](https://www.udemy.com/course/cybersecurity-ai-safety-awareness/?couponCode=B2F603C70D1BF0EAAA3F) |
-| AI for Risk Management & Compliance Excellence | ✅ | [Link](https://www.udemy.com/course/ai-for-risk-management-compliance-excellence/?couponCode=F445C5FA17C672B4892B) |
-| Artificial Intelligence Risks in Cybersecurity | ✅ | [Link](https://www.udemy.com/course/artificial-intelligence-risks-in-cybersecurity/?couponCode=04FB9C393CDB5593BCC0) |
-| Mastering Cybersecurity and Supply Chain Risk Management | ✅ | [Link](https://www.udemy.com/course/mastering-cybersecurity-and-supply-chain-risk-management/?couponCode=HOHOHO17) |
-| Cybersecurity Mastery: Hacking Techniques | ✅ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=468F022406C8C0CD51BA) |
+| ISO/27001:2022 for Cloud Services | ⚠️ | [Link](https://www.udemy.com/course/iso-270012022-for-cloud-services/?couponCode=35B9C16ED97919FA1277) |
+| Reverse Engineering Bootcamp:Ghidra, IDA, Linux, and x86_64 | ⚠️ | [Link](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=SECTORNULL.COM-GIFT) |
+| Mastering Android Bug Bounties with Personal POCs | ⚠️ | [Link](https://www.udemy.com/course/mastering-android-bug-bounties-with-personal-pocs/?couponCode=B1SCUIT-PRO-1000) |
+| Cybersecurity & AI Safety Awareness | ⚠️ | [Link](https://www.udemy.com/course/cybersecurity-ai-safety-awareness/?couponCode=B2F603C70D1BF0EAAA3F) |
+| AI for Risk Management & Compliance Excellence | ⚠️ | [Link](https://www.udemy.com/course/ai-for-risk-management-compliance-excellence/?couponCode=F445C5FA17C672B4892B) |
+| Artificial Intelligence Risks in Cybersecurity | ⚠️ | [Link](https://www.udemy.com/course/artificial-intelligence-risks-in-cybersecurity/?couponCode=04FB9C393CDB5593BCC0) |
+| Mastering Cybersecurity and Supply Chain Risk Management | ⚠️ | [Link](https://www.udemy.com/course/mastering-cybersecurity-and-supply-chain-risk-management/?couponCode=HOHOHO17) |
+| Mastering Black Hat Techniques: A Guide to Hacking & Cybersec | ✅ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=9201B33C773D8BA390E8) |
 | Personal Digital Security: Everyone Must Have Cybersecurity | ✅ | [Link](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=0204EFF47359956D71F8) |
 | Crack Windows Passwords | ✅ | [Link](https://www.udemy.com/course/crack-windows-passwords/?couponCode=01FE5FDEAF30906FA6E3) |
 | WebHack for Ethical Hacking & Ultimate Defensive Skills | ✅ | [Link](https://www.udemy.com/course/webhack-for-ethical-hacking-ultimate-defensive-skills-h/?couponCode=D9A8A8A7D0B14FF21FD0) |
-| Mastering Black Hat Techniques: A Guide to Hacking & Cybersec | ✅ | [Link](https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/?couponCode=9201B33C773D8BA390E8) |
+
 
 ---
 
