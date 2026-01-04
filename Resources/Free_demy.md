@@ -1,7 +1,7 @@
 # 🎓 Free-demy (Free Udemy Courses)
 
 Curated list of free **Training Courses** and **Exam Tests** focused on **cybersecurity, ethical hacking, programming, and IT skills**.  
-(*Note: Free availability may change, always verify before enrolling.*)
+(*Note: Free availability but For Limited Time.*)
 
 ## 🎓 Training Courses
 
