@@ -69,6 +69,8 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Python Ethical Hacking Pentest for Hackers | ⚠️ | [Link](https://www.udemy.com/course/python-ethical-hacking-pentest-for-hackers-scripting-basics/?source=CourseFolder&medium=CourseFolderFreeTelegram&couponCode=C34EB23D15D3193E433E) |
 | Nmap Mastery: Ultimate Guide to Network Scanning | ⚠️ | [Link](https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?source=CourseFolder&medium=CourseFolderFreeTelegram&couponCode=FD8B2A10A7CBD51C596D) |
 | Become a Hydra Expert – Advanced Brute-Forcing Techniques | ⚠️ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=3D2A07CA8841D5E80907) |
+| ISO 27001: Preparing for Surveillance Audits – Step by Step | ✅ | [Link](https://www.udemy.com/course/iso-27001-preparing-for-surveillance-audits-step-by-step/?couponCode=C1F08A07EC7FDC638111) |
+| Hacking the Human Mind: Social Engineering Fundamentals | ✅ | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=A094AE1BF39123193E0E) |
 
 
 ---
