@@ -104,7 +104,6 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Kubernetes and Cloud Native Associate (KCNA) Practice Exams | ⚠️ | [Link](https://www.udemy.com/course/kubernetes-and-cloud-native-associate-kcna-practice-exams-f/?source=CourseFolder&medium=CourseFolderFreeTelegram&couponCode=JAN1FREE) |
 | AWS Certified AI Practitioner – Practice Exams | ✅ | [Link](https://www.udemy.com/course/aws-certified-ai-practitioner-practice-exams-j/?couponCode=JAN11FREE) |
 | AWS Certified Cloud Practitioner – Practice Exams | ✅ | [Link](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-d/?couponCode=JAN11FREE) |
-| AWS Certified AI Practitioner – Practice Exams (UdemyXpert) | ✅ | [Link](https://udemyxpert.com/courses/aws-certified-ai-practitioner-practice-exams-28327) |
 | AWS Certified Data Engineer – Associate Practice Exams | ✅ | [Link](https://www.udemy.com/course/aws-certified-data-engineer-associate-practice-exams-i/?couponCode=JAN11FREE) |
 | AWS Certified Developer – Associate Practice Exams | ✅ | [Link](https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-z/?couponCode=JAN11FREE) |
 | AWS Certified Solutions Architect – Professional Prep Exams | ✅ | [Link](https://www.udemy.com/course/aws-certified-solutions-architect-professional-prep-exams/?couponCode=JAN11FREE) |
@@ -115,13 +114,11 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | AZ-800: Administering Windows Server Hybrid Core Infrastructure | ✅ | [Link](https://www.udemy.com/course/az800administering-windows-server-hybrid-core-infrastructure/?couponCode=JAN11FREE) |
 | AI-900: Microsoft Azure AI Fundamentals – Practice Exams | ✅ | [Link](https://www.udemy.com/course/ai-900-microsoft-azure-ai-fundamentals-practice-exams-e/?couponCode=JAN11FREE) |
 | DP-900: Microsoft Azure Data Fundamentals – Practice Exams | ✅ | [Link](https://www.udemy.com/course/dp-900-microsoft-azure-data-fundamentals-exams/?couponCode=JAN11FREE) |
-| AZ-140: Azure Virtual Desktop Specialty – Practice Exams | ✅ | [Link](https://udemyxpert.com/courses/az-140-azure-virtual-desktop-specialty-practice-exams-12500) |
 | AZ-104: Microsoft Azure Administrator – Practice Exams | ✅ | [Link](https://www.udemy.com/course/az-104-microsoft-azure-administrator-practice-exams-bt/?couponCode=JAN11FREE) |
 | AZ-700: Microsoft Azure Networking Solutions – Practice Exams | ✅ | [Link](https://www.udemy.com/course/az-700-microsoft-azure-networking-solutions-practice-exams/?couponCode=JAN11FREE) |
 | AZ-305: Designing Microsoft Azure Infrastructure Solutions | ✅ | [Link](https://www.udemy.com/course/az-305-designing-microsoft-azure-infrastructure-solutions-s/?couponCode=JAN11FREE) |
 | AZ-204: Developing Solutions for Microsoft Azure – Practice Exams | ✅ | [Link](https://www.udemy.com/course/az-204-developing-solutions-for-microsoft-azure-exams-d/?couponCode=JAN11FREE) |
 | DP-300: Microsoft Azure Databases – Practice Exams | ✅ | [Link](https://www.udemy.com/course/dp-300-microsoft-azure-databases-practice-exams/?couponCode=JAN11FREE) |
-| PL-900: Power Platform Fundamentals – Practice Exams | ✅ | [Link](https://udemyxpert.com/courses/pl-900-power-platform-fundamentals-practice-exams-42421) |
 | PL-600: Microsoft Solution Architect – Prep Course | ✅ | [Link](https://www.udemy.com/course/pl-600-microsoft-solution-architect-prep/?couponCode=JAN11FREE) |
 | MD-102: Endpoint Administrator – Prep Course | ✅ | [Link](https://www.udemy.com/course/md-102-endpoint-administrator-prep/?couponCode=JAN11FREE) |
 | PL-200: Microsoft Power Platform Consultant – Prep Course | ✅ | [Link](https://www.udemy.com/course/pl-200-microsoft-power-platform-consultant-prep/?couponCode=JAN11FREE) |
