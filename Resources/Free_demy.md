@@ -68,9 +68,11 @@ Curated list of free **Training Courses** and **Exam Tests** focused on **cybers
 | Complete Ethical Hacking Masterclass: Go from Zero to Hero | ⚠️ | [Link](https://www.udemy.com/course/top-course/?couponCode=E2BF09F1EEAED022FC7A) |
 | Python Ethical Hacking Pentest for Hackers | ⚠️ | [Link](https://www.udemy.com/course/python-ethical-hacking-pentest-for-hackers-scripting-basics/?source=CourseFolder&medium=CourseFolderFreeTelegram&couponCode=C34EB23D15D3193E433E) |
 | Nmap Mastery: Ultimate Guide to Network Scanning | ⚠️ | [Link](https://www.udemy.com/course/nmap-mastery-ultimate-guide-to-network-scanning/?source=CourseFolder&medium=CourseFolderFreeTelegram&couponCode=FD8B2A10A7CBD51C596D) |
-| Become a Hydra Expert – Advanced Brute-Forcing Techniques | ⚠️ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=3D2A07CA8841D5E80907) |
+| Become a Hydra Expert – Advanced Brute-Forcing Techniques | ✅ | [Link](https://www.udemy.com/course/become-a-hydra-expert-advanced-brute-forcing-techniques/?couponCode=6B4DBB131B70A9842EA5) |
 | ISO 27001: Preparing for Surveillance Audits – Step by Step | ✅ | [Link](https://www.udemy.com/course/iso-27001-preparing-for-surveillance-audits-step-by-step/?couponCode=C1F08A07EC7FDC638111) |
 | Hacking the Human Mind: Social Engineering Fundamentals | ✅ | [Link](https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/?couponCode=A094AE1BF39123193E0E) |
+| Critical Thinking in Cybersecurity (2026) | ✅ | [Link](https://www.udemy.com/course/critical-thinking-in-cybersecurity-2026/?couponCode=4D8BA8626E2F3A3D1A52) |
+| Cyber Kill Chain: From Attack to Defense in Cybersecurity | ✅ | [Link](https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/?couponCode=7F9F2A9EE47788373F33) |
 
 
 ---
