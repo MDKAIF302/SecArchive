@@ -13,7 +13,6 @@ Community-driven notes and cheat sheets for various OffSec certifications includ
 | verylazytech OSCP Resources    | ✅     | https://github.com/verylazytech/OSCP-Resources             |
 | Awesome OSCP by 0x4D31         | ✅     | https://github.com/0x4D31/awesome-oscp                     |
 | Hemal Maniar OSCP Journey Blog | ✅     | https://hemal-maniar.github.io/oscp/2024/11/19/oscp-journey.html |
-| Emmanuel Solis OSCP Page       | ✅     | https://www.emmanuelsolis.com/oscp.html                    |
 | Aditya OSCP Guide              | ✅     | https://aditya-3.gitbook.io/oscp                           |
 
 ---
@@ -55,11 +54,3 @@ Community-driven notes and cheat sheets for various OffSec certifications includ
 | Author / Source     | Status | Link                                                       |
 |---------------------|--------|------------------------------------------------------------|
 | Lawlez OSWE Repo    | ✅     | https://github.com/Lawlez/myOSWE                          |
-
----
-
-## 📡 OSWP
-
-| Author / Source     | Status | Link                                                       |
-|---------------------|--------|------------------------------------------------------------|
-| HacknCode OSWP Notes| ✅     | https://notes.hackncode.com/hnc-notes/wireless-security/oswp-reference-guide |
