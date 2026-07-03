@@ -14,7 +14,6 @@ High-quality reference guides, methodologies, and curated knowledge bases for re
 | ADSecurity Blog                            | ✅     | https://adsecurity.org/                                            |
 | Azure Threat Research Matrix by Microsoft | ✅     | https://microsoft.github.io/Azure-Threat-Research-Matrix/          |
 | Cybersecurity Handbook by Herrera Ignacio | ✅     | https://herrera-ignacio.github.io/cybersecurity-handbook/          |
-| Red Team Field Guide | ✅     | https://book.redteamguides.com/          |
 | TryHackMe Free Room List by winterrdog | ✅     | https://github.com/winterrdog/tryhackme-free-rooms                    |
 | OneDorkForAll by SecShiv                       | ✅     | https://github.com/SecShiv/OneDorkForAll       |
 | iRed Team          | ✅     | https://www.ired.team/ |
