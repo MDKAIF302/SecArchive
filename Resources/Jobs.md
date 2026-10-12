@@ -9,3 +9,4 @@ Resources geared toward modern hiring, interviewing best practices, and career d
 | Who’s Hiring – LinkedIn | ✅ | https://www.linkedin.com/pulse/heres-whos-hiring-right-now-andrew-seaman/ |
 | Working Nomads – Remote Cybersecurity Jobs | ✅ | https://www.workingnomads.com/remote-cybersecurity-jobs |
 | CareerPanels – Careers & Hiring Resources | ✅ | https://www.careerpanels.com/ |
+| Foorilla – Hiring & Job Opportunities | ✅ | https://foorilla.com/hiring/ |
